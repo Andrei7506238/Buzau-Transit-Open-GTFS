@@ -1,0 +1,4741 @@
+[
+  {
+    "number_entry": 1,
+    "route_number": "001",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Ulmeni",
+    "to_location": "Pietroasele",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Ulmeni Gară",
+        "kilometers_from_previous_station": 5.1
+      },
+      {
+        "station_name": "Ulmeni",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Şarânga Școală",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Şarânga Magazin Zaplaic",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Dara Ramificaţie",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Clondiru de sus (Ghitcu)",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Hotar Pietroasele - Clondiru de Sus",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Pietroasele Centru",
+        "kilometers_from_previous_station": 0.9
+      }
+    ]
+  },
+  {
+    "number_entry": 2,
+    "route_number": "002",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Ulmeni",
+    "to_location": "Vispeşti",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Popas Merei",
+        "kilometers_from_previous_station": 10.0
+      },
+      {
+        "station_name": "Ulmeni Gară",
+        "kilometers_from_previous_station": 5.1
+      },
+      {
+        "station_name": "Ulmeni",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Şarânga Școală",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Şarânga Magazin Zaplaic",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Dara Ramificaţie",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Clondiru de sus (Ghitcu)",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Hotar Pietroasele - Clondiru de Sus",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Pietroasele Centru",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pietroasele şcoală",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Pietroasele SCDVV (Pietroasa blocuri)",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Greceanca Biserică",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Greceanca 2",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Breaza 1",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Breaza 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Vispesti",
+        "kilometers_from_previous_station": 1.4
+      }
+    ]
+  },
+  {
+    "number_entry": 3,
+    "route_number": "003",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Merei",
+    "to_location": "Năeni",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Popas Merei",
+        "kilometers_from_previous_station": 10.0
+      },
+      {
+        "station_name": "Ogrăzi ramificaţie",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Merei moară",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Merei Consiliul Local",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dealul Viei",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Izvoru Dulce",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Saranga moara Rînceanu",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Şaranga magazin Paul",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Saranga scoala",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Saranga magazin Zaplaic",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Dara ramificatie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Clondiru de sus (Ghitcu)",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Hotar Pietroasele - Clondiru de Sus",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Pietroasele centru",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pietroasele şcoală",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Pietroasele SCDVV (Pietroasa blocuri)",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Greceanca Biserică",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Greceanca 2",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Breaza 1",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Breaza 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Vispeşti",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Văleanca Vilănești",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Năeni",
+        "kilometers_from_previous_station": 1.9
+      }
+    ]
+  },
+  {
+    "number_entry": 4,
+    "route_number": "004",
+    "from_location": "Buzău Autogara Marghiloman",
+    "intermediary_stop": "Săhăteni",
+    "to_location": "Finţeşti",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Marghiloman",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Popas Merei",
+        "kilometers_from_previous_station": 10.0
+      },
+      {
+        "station_name": "Ulmeni Gară",
+        "kilometers_from_previous_station": 5.1
+      },
+      {
+        "station_name": "Ulmeni",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Istriţa de Jos",
+        "kilometers_from_previous_station": 6.1
+      },
+      {
+        "station_name": "Săhăteni 1",
+        "kilometers_from_previous_station": 4.3
+      },
+      {
+        "station_name": "Săhăteni 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Năeni",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Prosca",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Finţeşti",
+        "kilometers_from_previous_station": 2.4
+      }
+    ]
+  },
+  {
+    "number_entry": 5,
+    "route_number": "005",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Clondiru",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău intersectie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Popas Merei",
+        "kilometers_from_previous_station": 10.0
+      },
+      {
+        "station_name": "Ulmeni Gară",
+        "kilometers_from_previous_station": 5.1
+      },
+      {
+        "station_name": "Vilcele",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Ulmeni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Sărata",
+        "kilometers_from_previous_station": 3.4
+      },
+      {
+        "station_name": "Clondiru 1",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Clondiru 2",
+        "kilometers_from_previous_station": 0.5
+      }
+    ]
+  },
+  {
+    "number_entry": 6,
+    "route_number": "006",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Vintileanca",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău intersectie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Popas Merei",
+        "kilometers_from_previous_station": 10.0
+      },
+      {
+        "station_name": "Ulmeni Gară",
+        "kilometers_from_previous_station": 5.1
+      },
+      {
+        "station_name": "Ulmeni",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Istriţa jos",
+        "kilometers_from_previous_station": 6.1
+      },
+      {
+        "station_name": "Gägeni",
+        "kilometers_from_previous_station": 4.4
+      },
+      {
+        "station_name": "Vintileanca",
+        "kilometers_from_previous_station": 4.1
+      }
+    ]
+  },
+  {
+    "number_entry": 7,
+    "route_number": "007",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Budișteni",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Budişteni",
+        "kilometers_from_previous_station": 2.1
+      }
+    ]
+  },
+  {
+    "number_entry": 8,
+    "route_number": "008",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Sudiți",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Gherăseni",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Cremenea",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Sudiți",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bălaia",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Smeeni",
+        "kilometers_from_previous_station": 3.0
+      }
+    ]
+  },
+  {
+    "number_entry": 9,
+    "route_number": "009",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Mărgineanu",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cioranca",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Limpeziş",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Mihăileşti",
+        "kilometers_from_previous_station": 4.3
+      },
+      {
+        "station_name": "Mihăileşti Cl. Local",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Colțăneni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Mărgineanu",
+        "kilometers_from_previous_station": 1.7
+      }
+    ]
+  },
+  {
+    "number_entry": 10,
+    "route_number": "010",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Florica",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cioranca",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Limpeziş",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Mihăileşti",
+        "kilometers_from_previous_station": 4.1
+      },
+      {
+        "station_name": "Florica 1",
+        "kilometers_from_previous_station": 7.9
+      },
+      {
+        "station_name": "Florica 2",
+        "kilometers_from_previous_station": 1.0
+      }
+    ]
+  },
+  {
+    "number_entry": 11,
+    "route_number": "011",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Dulbanu",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str. Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cioranca",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Movila Banului 1",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Movila Banului 2",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Movila Banului 3",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Câmpeni",
+        "kilometers_from_previous_station": 5.5
+      },
+      {
+        "station_name": "Amaru",
+        "kilometers_from_previous_station": 5.4
+      },
+      {
+        "station_name": "Scorţeanca",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Lacu Sinaia",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Scorţeanca",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Amaru",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Dulbanu",
+        "kilometers_from_previous_station": 4.3
+      }
+    ]
+  },
+  {
+    "number_entry": 12,
+    "route_number": "012",
+    "from_location": "Autogara Sud",
+    "intermediary_stop": "Ileana",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cioranca",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Limpeziş",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Mihăileşti",
+        "kilometers_from_previous_station": 4.1
+      },
+      {
+        "station_name": "Căldăruşanca",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Pitulicea",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Glodeanu Sărat",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Ileana",
+        "kilometers_from_previous_station": 2.2
+      }
+    ]
+  },
+  {
+    "number_entry": 13,
+    "route_number": "013",
+    "from_location": "Buzău Autgara Sud",
+    "intermediary_stop": "",
+    "to_location": "Satu Nou",
+    "stations": [
+      {
+        "station_name": "Buzău Autgara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Drăgaică",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Spătaru Școală",
+        "kilometers_from_previous_station": 6.5
+      },
+      {
+        "station_name": "Spătaru Gomoiești Ramificație",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Costeşti Consiliul Local",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Costeşti Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cioranca",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Limpeziş",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Mihăileşti",
+        "kilometers_from_previous_station": 4.1
+      },
+      {
+        "station_name": "Căldăruşanca",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Corbu",
+        "kilometers_from_previous_station": 3.4
+      },
+      {
+        "station_name": "Casota",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Văcăreasca",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cîrligul Mare",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Cîrligul Mic",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Glodeanu Siliştea",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Cotorca",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Satu Nou",
+        "kilometers_from_previous_station": 1.1
+      }
+    ]
+  },
+  {
+    "number_entry": 14,
+    "route_number": "014",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Pogoanele",
+    "to_location": "Brăgăreasa",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Cimitirul Evreiesc",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Maxenu",
+        "kilometers_from_previous_station": 9.7
+      },
+      {
+        "station_name": "Smeeni",
+        "kilometers_from_previous_station": 7.0
+      },
+      {
+        "station_name": "Sălcioara",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Moisica",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Albeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Călţuna",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Pogoanele Brutărie",
+        "kilometers_from_previous_station": 5.6
+      },
+      {
+        "station_name": "Pogoanele Piaţă",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Pogoanele Centru",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Pogoanele Spital",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Lipănescu Ramificație",
+        "kilometers_from_previous_station": 9.5
+      },
+      {
+        "station_name": "Scutelnici",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Brăgăreasa",
+        "kilometers_from_previous_station": 3.4
+      }
+    ]
+  },
+  {
+    "number_entry": 15,
+    "route_number": "015",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Brădeanu",
+    "to_location": "Arcanu",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Cimitirul Evreiesc",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Maxenu",
+        "kilometers_from_previous_station": 9.7
+      },
+      {
+        "station_name": "Smeeni",
+        "kilometers_from_previous_station": 7.0
+      },
+      {
+        "station_name": "Brădeanu",
+        "kilometers_from_previous_station": 8.9
+      },
+      {
+        "station_name": "Smărdan",
+        "kilometers_from_previous_station": 6.4
+      },
+      {
+        "station_name": "Mitropolia",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Degeraţi",
+        "kilometers_from_previous_station": 3.8
+      },
+      {
+        "station_name": "Lipănescu Ramificație",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Scutelnici",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Brăgăreasa",
+        "kilometers_from_previous_station": 3.4
+      },
+      {
+        "station_name": "Scutelnici",
+        "kilometers_from_previous_station": 3.4
+      },
+      {
+        "station_name": "Arcanu",
+        "kilometers_from_previous_station": 6.0
+      }
+    ]
+  },
+  {
+    "number_entry": 16,
+    "route_number": "016",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Padina",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Cimitirul Evreiesc",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Maxenu",
+        "kilometers_from_previous_station": 9.7
+      },
+      {
+        "station_name": "Smeeni",
+        "kilometers_from_previous_station": 7.0
+      },
+      {
+        "station_name": "Sălcioara",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Moisica",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Albeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Călţuna",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Pogoanele Brutărie",
+        "kilometers_from_previous_station": 5.6
+      },
+      {
+        "station_name": "Pogoanele Piaţă",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Pogoanele Centru",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Pogoanele Abator",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Căldărăşti",
+        "kilometers_from_previous_station": 3.4
+      },
+      {
+        "station_name": "Padina 1",
+        "kilometers_from_previous_station": 7.6
+      },
+      {
+        "station_name": "Padina 2",
+        "kilometers_from_previous_station": 2.2
+      }
+    ]
+  },
+  {
+    "number_entry": 17,
+    "route_number": "017",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Cilibia",
+    "to_location": "Lunca",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Mariage IPIC CF",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Buzău Metalurgica",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Gălbinaşi",
+        "kilometers_from_previous_station": 9.4
+      },
+      {
+        "station_name": "Bentu",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Poşta Cilibia",
+        "kilometers_from_previous_station": 3.5
+      },
+      {
+        "station_name": "Mânzu",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Cilibia",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Bîlhacu",
+        "kilometers_from_previous_station": 5.6
+      },
+      {
+        "station_name": "CA Rosetti",
+        "kilometers_from_previous_station": 2.4
+      },
+      {
+        "station_name": "Vizireni*",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "CA Rosetti",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Bălteni",
+        "kilometers_from_previous_station": 4.2
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 4.6
+      }
+    ]
+  },
+  {
+    "number_entry": 18,
+    "route_number": "018",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Cilibia",
+    "to_location": "Ruşeţu",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Mariage IPIC CF",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Buzău Metalurgica",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Gălbinaşi",
+        "kilometers_from_previous_station": 9.4
+      },
+      {
+        "station_name": "Bentu",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Poşta Cilibia",
+        "kilometers_from_previous_station": 3.5
+      },
+      {
+        "station_name": "Mânzu",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Cilibia",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Cilibia gară",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Caragele 2 DJ 214 A",
+        "kilometers_from_previous_station": 7.0
+      },
+      {
+        "station_name": "Luciu Moară",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Luciu Primărie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Luciu Parc",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Largu 1",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Largu 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Largu 3",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Scărlăteşti",
+        "kilometers_from_previous_station": 2.4
+      },
+      {
+        "station_name": "Ruşeţu 1",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Ruşeţu 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Ruşeţu 3*",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Sg. Ionel Ștefan*",
+        "kilometers_from_previous_station": 4.5
+      }
+    ]
+  },
+  {
+    "number_entry": 19,
+    "route_number": "019",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "Pogoanele",
+    "to_location": "Ruşeţu",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara Sud",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Intersecţie str.Independenţei",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Buzău Cimitirul Evreiesc",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Maxenu",
+        "kilometers_from_previous_station": 9.7
+      },
+      {
+        "station_name": "Smeeni",
+        "kilometers_from_previous_station": 7.0
+      },
+      {
+        "station_name": "Sălcioara",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Moisica",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Albeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Călţuna",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Pogoanele Brutărie",
+        "kilometers_from_previous_station": 5.6
+      },
+      {
+        "station_name": "Pogoanele Piaţă",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Pogoanele Electrica",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Caragele 1 DJ 203 I",
+        "kilometers_from_previous_station": 6.1
+      },
+      {
+        "station_name": "Caragele 2 DJ 214 A",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Luciu Moară",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Luciu Primărie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Luciu Parc",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Largu 1",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Largu 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Largu 3",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Scărlăteşti",
+        "kilometers_from_previous_station": 2.4
+      },
+      {
+        "station_name": "Rușețu 1",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Ruşeţu 2",
+        "kilometers_from_previous_station": 0.8
+      }
+    ]
+  },
+  {
+    "number_entry": 21,
+    "route_number": "021",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Bălăceanu",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Potărnicheşti",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Boboc Gară",
+        "kilometers_from_previous_station": 5.8
+      },
+      {
+        "station_name": "Boboc 1",
+        "kilometers_from_previous_station": 3.5
+      },
+      {
+        "station_name": "Boboc 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Boboc 3",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Cochirleanca 1",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cochirleanca 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Cochirleanca 3",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Roşioru 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Roşioru 2",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Bălăceanu 1",
+        "kilometers_from_previous_station": 5.4
+      },
+      {
+        "station_name": "Bălăceanu Cap traseu",
+        "kilometers_from_previous_station": 0.9
+      }
+    ]
+  },
+  {
+    "number_entry": 22,
+    "route_number": "022",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Poşta Câlnău",
+    "to_location": "Rm. Sărat Autogara Valman Tur",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 9.3
+      },
+      {
+        "station_name": "Rm. Sărat Autogara Valman Tur",
+        "kilometers_from_previous_station": 23.7
+      }
+    ]
+  },
+  {
+    "number_entry": 23,
+    "route_number": "023",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Blăjani",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Potărnicheşti",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Coconari",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Zilişteanca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Soreşti 1",
+        "kilometers_from_previous_station": 5.7
+      },
+      {
+        "station_name": "Soreşti 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Blăjani Centru",
+        "kilometers_from_previous_station": 4.4
+      },
+      {
+        "station_name": "Blăjani Cap Traseu",
+        "kilometers_from_previous_station": 1.1
+      }
+    ]
+  },
+  {
+    "number_entry": 24,
+    "route_number": "024",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Zărnești",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Potărnicheşti",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Coconari",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Zilişteanca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Sudiţi Aliceni",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Luncaşi",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Fundeni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Zărneşti",
+        "kilometers_from_previous_station": 1.2
+      }
+    ]
+  },
+  {
+    "number_entry": 25,
+    "route_number": "025",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Pruneni",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Potărnicheşti",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Coconari",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Zilişteanca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Sudiţi Aliceni",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Luncaşi",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Fundeni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Fundeni Poliție",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Fudeni sere",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Vadu Soreşti 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vadu Soreşti 2",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Pruneni",
+        "kilometers_from_previous_station": 2.6
+      }
+    ]
+  },
+  {
+    "number_entry": 26,
+    "route_number": "026",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Racoviţeni",
+    "to_location": "Murgești",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Potărnicheşti",
+        "kilometers_from_previous_station": 7.5
+      },
+      {
+        "station_name": "Poşta Câlnău",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Coconari",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Zilişteanca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Sudiţi Aliceni",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Luncaşi",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Fundeni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Fundeni Poliție",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Fudeni sere",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Vadu Sorești 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Lunca Petrişorului",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Petrişoru Școală",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Petrişoru Mustăţari",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Racoviţeni Moară",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Racoviţeni Poliție",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Racoviţeni Botești",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Motohani",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Murgești 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Murgeşti 2",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Murgeşti 3",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Batogu",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Fântânele",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Mărgăriteşti",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Câmpulungeanca",
+        "kilometers_from_previous_station": 3.2
+      }
+    ]
+  },
+  {
+    "number_entry": 27,
+    "route_number": "027",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Podu Muncii",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti de Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podu Muncii",
+        "kilometers_from_previous_station": 1.3
+      }
+    ]
+  },
+  {
+    "number_entry": 28,
+    "route_number": "028",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Bisoca",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podul Muncii",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Niculeşti",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vintilă Vodă spital",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Vintilă Vodă ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Cărătnău",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Săruleşti",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Sările ramificaţie",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Bisocuţa",
+        "kilometers_from_previous_station": 9.2
+      },
+      {
+        "station_name": "Lacuri ramificaţie",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Bisoca",
+        "kilometers_from_previous_station": 3.3
+      }
+    ]
+  },
+  {
+    "number_entry": 29,
+    "route_number": "029",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Sările",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podul Muncii",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Niculeşti",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vintilă Vodă spital",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Vintilă Vodă ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Caratnau",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Săruleşti",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Sările ramificaţie",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Dealul Sării",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Sările",
+        "kilometers_from_previous_station": 2.4
+      }
+    ]
+  },
+  {
+    "number_entry": 32,
+    "route_number": "032",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Plaiul",
+    "to_location": "Nucului",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podul Muncii",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Niculeşti",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vintilă Vodă spital",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Vintilă Vodă ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Vintilă Vodă magazin COOP",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Vintilă Vodă ocol",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Sârbeşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Apostari",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Beşlii",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mânzăleşti",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Grunji ramificaţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Bâsceni",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Sareni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Jurubeşti",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Lopătari",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Luncile",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Ploștina",
+        "kilometers_from_previous_station": 4.9
+      },
+      {
+        "station_name": "Luncile",
+        "kilometers_from_previous_station": 4.9
+      },
+      {
+        "station_name": "Pestriţu",
+        "kilometers_from_previous_station": 3.1
+      },
+      {
+        "station_name": "Plaiul Nucului",
+        "kilometers_from_previous_station": 4.3
+      }
+    ]
+  },
+  {
+    "number_entry": 33,
+    "route_number": "033",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Jghiab",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podul Muncii",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Niculeşti",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vintilă Vodă spital",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Vintilă Vodă ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Vintilă Vodă magazin COOP",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Vintilă Vodă ocol",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Sârbeşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Apostari",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Beşlii",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mânzăleşti",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Grunji ramificaţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Poiana Vîlcului",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Gura Bădicului",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Jghiab",
+        "kilometers_from_previous_station": 1.2
+      }
+    ]
+  },
+  {
+    "number_entry": 34,
+    "route_number": "034",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Trestioara",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Puţului",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cernăteşti",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Zărneşti Slănic",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Aldeni magazin",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Aldeni",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Fulga",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Izvoru Dulce 1",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Izvoru Dulce 2",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Izvoru Dulce 3",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cărpiniştea",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Valea Părului",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Beceni",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Mărgăriţi",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Dimiana",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Dogari",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Podul Muncii",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Niculeşti",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Vintilă Vodă spital",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Vintilă Vodă ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Vintilă Vodă magazin COOP",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Vintilă Vodă ocol",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Sârbeşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Apostari",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Beşlii",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mânzăleşti",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Grunji ramificaţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Bâsceni",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Sareni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Jurubești",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Lopătari",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Jurubești",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Trestioara",
+        "kilometers_from_previous_station": 2.8
+      }
+    ]
+  },
+  {
+    "number_entry": 38,
+    "route_number": "038",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Săpoca",
+    "to_location": "Glodu Petcari",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Nucului 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Valea Nucului 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pleşcoi 1",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Pleşcoi 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Pleșești",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Berca Consiliul Local",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Berca ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Joseni",
+        "kilometers_from_previous_station": 3.6
+      },
+      {
+        "station_name": "Policiori 1",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Policiori ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Policiori 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Scorţoasa",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Dealul Frumos",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Gura Văii Cruce",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Gura Văii",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Valea Verzii",
+        "kilometers_from_previous_station": 3.0
+      },
+      {
+        "station_name": "Căneşti",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Șuchea",
+        "kilometers_from_previous_station": 3.8
+      },
+      {
+        "station_name": "Chiliile Primărie",
+        "kilometers_from_previous_station": 6.8
+      },
+      {
+        "station_name": "Chiliile Școală",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Glodu Petcari",
+        "kilometers_from_previous_station": 2.8
+      }
+    ]
+  },
+  {
+    "number_entry": 40,
+    "route_number": "040",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Săpoca",
+    "to_location": "Golul Grabicina",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Nucului 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Valea Nucului 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pleşcoi 1",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Pleşcoi 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Pleșești",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Berca Consiliul Local",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Berca ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Joseni",
+        "kilometers_from_previous_station": 3.6
+      },
+      {
+        "station_name": "Policiori 1",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Policiori ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Beciu",
+        "kilometers_from_previous_station": 5.9
+      },
+      {
+        "station_name": "Balta Tocila",
+        "kilometers_from_previous_station": 3.8
+      },
+      {
+        "station_name": "Golul Grabicina",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Golul Grabicina Cap traseu",
+        "kilometers_from_previous_station": 1.1
+      }
+    ]
+  },
+  {
+    "number_entry": 41,
+    "route_number": "041",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Săpoca",
+    "to_location": "Negoşina",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Mărăcineni ramificaţie",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărăcineni",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Căpăţîneşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Potocenii de Jos",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Potocenii de Sus",
+        "kilometers_from_previous_station": 1.7
+      },
+      {
+        "station_name": "Măteşti pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Măteşti",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Săpoca Poliţie",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Săpoca Pod",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Valea Nucului 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Valea Nucului 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pleşcoi 1",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Pleşcoi 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Pleșești",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Berca Consiliul Local",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Berca ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Joseni",
+        "kilometers_from_previous_station": 3.6
+      },
+      {
+        "station_name": "Policiori 1",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Policiori ramificaţie",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Policiori 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Scorţoasa",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Negoşina",
+        "kilometers_from_previous_station": 5.2
+      }
+    ]
+  },
+  {
+    "number_entry": 42,
+    "route_number": "042",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Bozioru",
+    "to_location": "Fișici",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Robeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Părscov",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Lunca Frumoasă 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Lunca Frumoasă 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Trestia 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Trestia 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Cozieni",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Cozieni Consiliu",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Bălăneşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Gura Ulmet",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Bozioru 1",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Fișici",
+        "kilometers_from_previous_station": 4.2
+      }
+    ]
+  },
+  {
+    "number_entry": 43,
+    "route_number": "043",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Odăile",
+    "to_location": "Piatra Albă",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Robeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Părscov",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Lunca Frumoasă 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Lunca Frumoasă 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Trestia 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Trestia 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Cozieni",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Cozieni Consiliu",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Bălăneşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Gura Ulmet",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Bozioru 1",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Bozioru 2",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Valea Fântânii",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Lacu",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Odăile",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Piatra Albă",
+        "kilometers_from_previous_station": 2.3
+      }
+    ]
+  },
+  {
+    "number_entry": 44,
+    "route_number": "044",
+    "from_location": "Autogara XXL",
+    "intermediary_stop": "Brătileşti",
+    "to_location": "Buzău",
+    "stations": [
+      {
+        "station_name": "Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Robeşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Părscov",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Lunca Frumoasă 1",
+        "kilometers_from_previous_station": 2.5
+      },
+      {
+        "station_name": "Lunca Frumoasă 2",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Trestia 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Trestia 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Cozieni",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Cozieni Consiliu",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Bălăneşti",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Gura Ulmet",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Bozioru 1",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Bozioru 2",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Valea Fântânii",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Brăeşti",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Goidești",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ivanețu",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Brătileşti",
+        "kilometers_from_previous_station": 1.7
+      }
+    ]
+  },
+  {
+    "number_entry": 45,
+    "route_number": "045",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Nehoiu",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Măgura 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Ciuta",
+        "kilometers_from_previous_station": 6.0
+      },
+      {
+        "station_name": "Viperești",
+        "kilometers_from_previous_station": 7.6
+      },
+      {
+        "station_name": "Tronari Ramificație",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Cislău 1",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Cislău 2",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Poienile",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Valea Seacă",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Mărunțișu",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Pătârlagele centru",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 3.7
+      }
+    ]
+  },
+  {
+    "number_entry": 46,
+    "route_number": "046",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Varlaam",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Măgura 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Ciuta",
+        "kilometers_from_previous_station": 6.0
+      },
+      {
+        "station_name": "Viperești",
+        "kilometers_from_previous_station": 7.6
+      },
+      {
+        "station_name": "Tronari Ramificație",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Cislău 1",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Cislău 2",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Poienile",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Valea Seacă",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Mărunțișu",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Pătârlagele centru",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Nehoiașu Gara",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Lunca Priporului - Școală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Prund Arselele - Jetu",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Podu Negru",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Bîsca Roziliei Guţoi",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Bîsca Roziliei Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Bîsca Roziliei Piață",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bîsca Roziliei Pod Vineţişu",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Vascu",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltiniş",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Furtuneşti",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Roscoi",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Podul Bălan",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Tainița",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Gura Teghii",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Varlaam",
+        "kilometers_from_previous_station": 3.0
+      }
+    ]
+  },
+  {
+    "number_entry": 47,
+    "route_number": "047",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Bâsca Chiojdului",
+    "stations": [
+      {
+        "station_name": "Buzău Autogara XXL",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Buzău Clubul poliţiştilor",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Chimica",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Buzău Fabrica de bere",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Buzău Presim",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Verneşti Ginar",
+        "kilometers_from_previous_station": 5.0
+      },
+      {
+        "station_name": "Verneşti ( Troita)",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Cîndeşti (Biserică)",
+        "kilometers_from_previous_station": 4.5
+      },
+      {
+        "station_name": "Cîndeşti farmacie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Cîndeşti şcoală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Sătuc",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Ojasca spital",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Unguriu 1",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Unguriu 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Măgura 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Măgura 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Ciuta",
+        "kilometers_from_previous_station": 6.0
+      },
+      {
+        "station_name": "Viperești",
+        "kilometers_from_previous_station": 7.6
+      },
+      {
+        "station_name": "Tronari Ramificație",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Cislău 1",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Cislău 2",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Toca",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 1",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Calvini Primărie",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Izvorul Perilor",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bîscenii de Sus 1",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Bîscenii de Sus 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Moara Enica",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Cătina Primărie",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cătina Satic",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Corbu Cătun",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Corbu Centru",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Corbu Tronari",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Lera",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Chiojdu Petrescu",
+        "kilometers_from_previous_station": 2.4
+      },
+      {
+        "station_name": "Chiojdu Primărie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Chiojdu Mușoiu",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Bâsca Chiojdului Magazin",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Bâsca Chiojdului Cap traseu",
+        "kilometers_from_previous_station": 1.4
+      }
+    ]
+  },
+  {
+    "number_entry": 48,
+    "route_number": "048",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "Pătârlagele",
+    "to_location": "Scărişoara",
+    "stations": [
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Pătârlagele centru",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărunţişu",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Seacă",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Poienile",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Cislău 2",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Cislău 1",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Scărişoara",
+        "kilometers_from_previous_station": 1.7
+      }
+    ]
+  },
+  {
+    "number_entry": 49,
+    "route_number": "049",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "Pătârlagele",
+    "to_location": "Colţi",
+    "stations": [
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Pănătău ramificaţie",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Sibiciu de Sus",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Sibiciu de Sus Cămin",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Colţi",
+        "kilometers_from_previous_station": 5.4
+      }
+    ]
+  },
+  {
+    "number_entry": 50,
+    "route_number": "050",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "Pătârlagele",
+    "to_location": "Tega",
+    "stations": [
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Pănătău ramificaţie",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Sibiciu de Jos",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Zaharești",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Tega",
+        "kilometers_from_previous_station": 3.0
+      }
+    ]
+  },
+  {
+    "number_entry": 51,
+    "route_number": "051",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "Pătârlagele",
+    "to_location": "Lunca Jarștei",
+    "stations": [
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Nehoiașu Gara",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Lunca Priporului - Școală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Prund Arselele - Jetu",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Podu Negru",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Colțu Pietrii 1",
+        "kilometers_from_previous_station": 3.2
+      },
+      {
+        "station_name": "Colțu Pietrii 2",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Lunca Jarștei 1",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Lunca Jarștei 2",
+        "kilometers_from_previous_station": 0.8
+      }
+    ]
+  },
+  {
+    "number_entry": 52,
+    "route_number": "052",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "Pătârlagele",
+    "to_location": "Varlaam",
+    "stations": [
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Nehoiașu Gara",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Lunca Priporului - Școală",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Prund Arselele - Jetu",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Podu Negru",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Bîsca Roziliei Guţoi",
+        "kilometers_from_previous_station": 1.1
+      },
+      {
+        "station_name": "Bîsca Roziliei Școală",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Bîsca Roziliei Piață",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bîsca Roziliei Pod Vineţişu",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Vascu",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Păltiniş",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Furtuneşti",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Roscoi",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Podul Bălan",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Tainița",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Gura Teghii",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Varlaam",
+        "kilometers_from_previous_station": 3.0
+      }
+    ]
+  },
+  {
+    "number_entry": 53,
+    "route_number": "053",
+    "from_location": "Nehoiu",
+    "intermediary_stop": "",
+    "to_location": "Bâsca Chiojdului",
+    "stations": [
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Pătârlagele centru",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărunţişu",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Seacă",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Poienile",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Toca",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 1",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Calvini Primărie",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Izvorul Perilor",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bîscenii de Sus 1",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Bîscenii de Sus 2",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Moara Enica",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Cătina Primărie",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Cătina Satic",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Corbu Cătun",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Corbu Centru",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Corbu Tronari",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Lera",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Chiojdu Petrescu",
+        "kilometers_from_previous_station": 2.4
+      },
+      {
+        "station_name": "Chiojdu Primărie",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Chiojdu Mușoiu",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Bâsca Chiojdului Magazin",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Bâsca Chiojdului Cap traseu",
+        "kilometers_from_previous_station": 1.4
+      }
+    ]
+  },
+  {
+    "number_entry": 54,
+    "route_number": "054",
+    "from_location": "Nehoiu",
+    "intermediary_stop": "",
+    "to_location": "Bâscenii de Sus",
+    "stations": [
+      {
+        "station_name": "Nehoiu",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Păltineni",
+        "kilometers_from_previous_station": 3.7
+      },
+      {
+        "station_name": "Chirlești 1",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Chirlești 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Valea Lupului",
+        "kilometers_from_previous_station": 2.7
+      },
+      {
+        "station_name": "Pătârlagele Autogara",
+        "kilometers_from_previous_station": 3.3
+      },
+      {
+        "station_name": "Pătârlagele centru",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Lunca",
+        "kilometers_from_previous_station": 2.2
+      },
+      {
+        "station_name": "Mărunţişu",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Valea Seacă",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Poienile",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Gura Bâscei",
+        "kilometers_from_previous_station": 1.2
+      },
+      {
+        "station_name": "Toca",
+        "kilometers_from_previous_station": 2.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 1",
+        "kilometers_from_previous_station": 0.3
+      },
+      {
+        "station_name": "Bâscenii de Jos 2",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Calvini Primărie",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Izvorul Perilor",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Bîscenii de Sus 1",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Bîscenii de Sus 2",
+        "kilometers_from_previous_station": 0.9
+      }
+    ]
+  },
+  {
+    "number_entry": 55,
+    "route_number": "055",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "Vâlcelele",
+    "to_location": "Vâlcelele",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Rm. Sărat autobază",
+        "kilometers_from_previous_station": 1.5
+      },
+      {
+        "station_name": "Rîmnicelu",
+        "kilometers_from_previous_station": 4.9
+      },
+      {
+        "station_name": "Boldu",
+        "kilometers_from_previous_station": 11.4
+      },
+      {
+        "station_name": "Balta Albă",
+        "kilometers_from_previous_station": 3.9
+      },
+      {
+        "station_name": "Vâlcelele",
+        "kilometers_from_previous_station": 7.7
+      },
+      {
+        "station_name": "Vâlcelele",
+        "kilometers_from_previous_station": 1.5
+      }
+    ]
+  },
+  {
+    "number_entry": 56,
+    "route_number": "056",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "I. H. Rădulescu",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Oreavul terasă",
+        "kilometers_from_previous_station": 4.6
+      },
+      {
+        "station_name": "Valea Rîmnicului",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Ziduri",
+        "kilometers_from_previous_station": 9.0
+      },
+      {
+        "station_name": "Lanuri ramificaţie",
+        "kilometers_from_previous_station": 1.3
+      },
+      {
+        "station_name": "Heliade Rădulescu",
+        "kilometers_from_previous_station": 3.1
+      }
+    ]
+  },
+  {
+    "number_entry": 57,
+    "route_number": "057",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "Ziduri",
+    "to_location": "Cuculeasa",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Oreavul terasă",
+        "kilometers_from_previous_station": 4.6
+      },
+      {
+        "station_name": "Valea Rîmnicului",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Ziduri",
+        "kilometers_from_previous_station": 9.0
+      },
+      {
+        "station_name": "Costieni",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Zoița",
+        "kilometers_from_previous_station": 1.4
+      },
+      {
+        "station_name": "Cuculeasa",
+        "kilometers_from_previous_station": 1.9
+      }
+    ]
+  },
+  {
+    "number_entry": 58,
+    "route_number": "058",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Bălăceanu",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Oreavul terasă",
+        "kilometers_from_previous_station": 4.6
+      },
+      {
+        "station_name": "Valea Rîmnicului",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Ziduri",
+        "kilometers_from_previous_station": 9.0
+      },
+      {
+        "station_name": "Lanuri",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Bălăceanu 1",
+        "kilometers_from_previous_station": 3.8
+      },
+      {
+        "station_name": "Bălăceanu Cap Traseu",
+        "kilometers_from_previous_station": 0.8
+      }
+    ]
+  },
+  {
+    "number_entry": 59,
+    "route_number": "059",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Ghergheasa",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Oreavul terasă",
+        "kilometers_from_previous_station": 4.6
+      },
+      {
+        "station_name": "Valea Rîmnicului",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Rubla",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Sălcioara Pod",
+        "kilometers_from_previous_station": 9.9
+      },
+      {
+        "station_name": "Sălcioara Centru",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Sălcioara Dispensar",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Ghergheasa Biserică",
+        "kilometers_from_previous_station": 4.1
+      },
+      {
+        "station_name": "Ghergheasa Cap Traseu",
+        "kilometers_from_previous_station": 1.3
+      }
+    ]
+  },
+  {
+    "number_entry": 60,
+    "route_number": "060",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "Pardoși",
+    "to_location": "Costomiru",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Rm. Sărat pod",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Plevna",
+        "kilometers_from_previous_station": 2.6
+      },
+      {
+        "station_name": "Cristineşti",
+        "kilometers_from_previous_station": 1.6
+      },
+      {
+        "station_name": "Grebănu",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Livada",
+        "kilometers_from_previous_station": 2.8
+      },
+      {
+        "station_name": "Livada Mică",
+        "kilometers_from_previous_station": 2.9
+      },
+      {
+        "station_name": "Mocani",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Murgeşti 1",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Murgeşti 2",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Murgeşti 3",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Batogu",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Pardoşi",
+        "kilometers_from_previous_station": 5.4
+      },
+      {
+        "station_name": "Costomiru",
+        "kilometers_from_previous_station": 6.2
+      }
+    ]
+  },
+  {
+    "number_entry": 62,
+    "route_number": "062",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "Buda",
+    "to_location": "Mucești-Dănulești",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Rm. Sărat pod",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Rm. Sărat cartier Barasca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Poşta Școală",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Topliceni 1 Primărie",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Topliceni 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Topliceni 3",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Răduceşti 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Răducesti 2",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Răduceşti 3",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Băbeni 1",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Băbeni 2",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Deduleşti",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Roiu",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Pietroiu",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Buda 1",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Buda 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Al. Odobescu 1",
+        "kilometers_from_previous_station": 2.1
+      },
+      {
+        "station_name": "Al. Odobescu 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Mucești Dănulești",
+        "kilometers_from_previous_station": 0.9
+      },
+      {
+        "station_name": "Mucești Dănulești Cap traseu",
+        "kilometers_from_previous_station": 1.4
+      }
+    ]
+  },
+  {
+    "number_entry": 63,
+    "route_number": "063",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Valea Salciei",
+    "stations": [
+      {
+        "station_name": "Rm. Sărat Autogara TUC SA",
+        "kilometers_from_previous_station": 0.0
+      },
+      {
+        "station_name": "Rm. Sărat pod",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Rm. Sărat cartier Barasca",
+        "kilometers_from_previous_station": 0.5
+      },
+      {
+        "station_name": "Poşta Școală",
+        "kilometers_from_previous_station": 0.4
+      },
+      {
+        "station_name": "Topliceni 1 Primărie",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Topliceni 2",
+        "kilometers_from_previous_station": 0.8
+      },
+      {
+        "station_name": "Topliceni 3",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Răduceşti 1",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Răducesti 2",
+        "kilometers_from_previous_station": 0.6
+      },
+      {
+        "station_name": "Răduceşti 3",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Băbeni 1",
+        "kilometers_from_previous_station": 1.0
+      },
+      {
+        "station_name": "Băbeni 2",
+        "kilometers_from_previous_station": 1.8
+      },
+      {
+        "station_name": "Deduleşti",
+        "kilometers_from_previous_station": 4.0
+      },
+      {
+        "station_name": "Roiu",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Pietroiu",
+        "kilometers_from_previous_station": 1.9
+      },
+      {
+        "station_name": "Buda 1",
+        "kilometers_from_previous_station": 2.0
+      },
+      {
+        "station_name": "Buda 2",
+        "kilometers_from_previous_station": 0.7
+      },
+      {
+        "station_name": "Valea Largă",
+        "kilometers_from_previous_station": 2.8
+      },
+      {
+        "station_name": "Valea Salciei",
+        "kilometers_from_previous_station": 5.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,4965 @@
+[
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "001",
+    "from_location": "Buzau",
+    "intermediary_stop": "Ulmeni",
+    "to_location": "Pietroasele",
+    "kilometers": 23,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "06:30",
+        "way_arrival": "07:10",
+        "back_departure": "07:30",
+        "back_arrival": "08:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:40",
+        "back_departure": "11:00",
+        "back_arrival": "11:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "14:40",
+        "back_departure": "15:00",
+        "back_arrival": "15:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:10",
+        "back_departure": "17:15",
+        "back_arrival": "17:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "18:40",
+        "back_departure": "05:20",
+        "back_arrival": "06:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "002",
+    "from_location": "Buzau",
+    "intermediary_stop": "Ulmeni",
+    "to_location": "Vispesti",
+    "kilometers": 31,
+    "planned_trips": 6,
+    "schedule_entries": [
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:25",
+        "back_departure": "08:30",
+        "back_arrival": "09:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:55",
+        "back_departure": "13:15",
+        "back_arrival": "14:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:25",
+        "back_departure": "15:30",
+        "back_arrival": "16:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:25",
+        "back_departure": "18:00",
+        "back_arrival": "18:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:55",
+        "back_departure": "21:00",
+        "back_arrival": "21:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:30",
+        "way_arrival": "00:25",
+        "back_departure": "06:30",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "003",
+    "from_location": "Buzau",
+    "intermediary_stop": "Merei",
+    "to_location": "Naeni",
+    "kilometers": 44,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "06:45",
+        "way_arrival": "07:45",
+        "back_departure": "08:00",
+        "back_arrival": "12:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "12:00",
+        "back_departure": "13:20",
+        "back_arrival": "17:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "17:00",
+        "back_departure": "18:30",
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "004",
+    "from_location": "Buzau",
+    "intermediary_stop": "Sahateni",
+    "to_location": "Fintesti",
+    "kilometers": 39,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "14:00",
+        "way_arrival": "14:50",
+        "back_departure": "15:15",
+        "back_arrival": "16:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:00",
+        "way_arrival": "19:50",
+        "back_departure": "06:10",
+        "back_arrival": "07:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "005",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Clondiru",
+    "kilometers": 23,
+    "planned_trips": 9,
+    "schedule_entries": [
+      {
+        "way_departure": "06:15",
+        "way_arrival": "06:45",
+        "back_departure": "07:00",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "07:40",
+        "way_arrival": "08:10",
+        "back_departure": "08:30",
+        "back_arrival": "09:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:15",
+        "way_arrival": "11:45",
+        "back_departure": "12:00",
+        "back_arrival": "12:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:40",
+        "way_arrival": "13:10",
+        "back_departure": "13:30",
+        "back_arrival": "14:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:15",
+        "way_arrival": "14:45",
+        "back_departure": "15:00",
+        "back_arrival": "15:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:45",
+        "way_arrival": "16:15",
+        "back_departure": "16:30",
+        "back_arrival": "17:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:15",
+        "way_arrival": "17:45",
+        "back_departure": "18:00",
+        "back_arrival": "18:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:00",
+        "back_departure": "21:00",
+        "back_arrival": "21:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:30",
+        "way_arrival": "00:00",
+        "back_departure": "05:30",
+        "back_arrival": "06:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 1,
+    "route_number": "006",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Vintileanca",
+    "kilometers": 32,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "06:00",
+        "way_arrival": "06:40",
+        "back_departure": "07:00",
+        "back_arrival": "07:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:10",
+        "back_departure": "15:30",
+        "back_arrival": "16:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:40",
+        "back_departure": "18:00",
+        "back_arrival": "18:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "007",
+    "from_location": "Buzau",
+    "intermediary_stop": "Costesti",
+    "to_location": "Budisteni",
+    "kilometers": 15,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "11:30",
+        "way_arrival": "11:50",
+        "back_departure": "12:00",
+        "back_arrival": "12:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "15:50",
+        "back_departure": "16:00",
+        "back_arrival": "16:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:20",
+        "back_departure": "06:00",
+        "back_arrival": "06:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": true,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "008",
+    "from_location": "Buzau",
+    "intermediary_stop": "Gheraseni",
+    "to_location": "Suditi",
+    "kilometers": 19,
+    "planned_trips": 17,
+    "schedule_entries": [
+      {
+        "way_departure": "06:15",
+        "way_arrival": "06:45",
+        "back_departure": "07:00",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:45",
+        "way_arrival": "07:25",
+        "back_departure": "07:30",
+        "back_arrival": "08:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Smeeni"
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:05",
+        "back_departure": "08:10",
+        "back_arrival": "08:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "08:40",
+        "way_arrival": "09:10",
+        "back_departure": "09:20",
+        "back_arrival": "09:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:35",
+        "back_departure": "11:00",
+        "back_arrival": "11:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:15",
+        "way_arrival": "11:45",
+        "back_departure": "12:00",
+        "back_arrival": "12:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:40",
+        "back_departure": "12:45",
+        "back_arrival": "13:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Smeeni"
+      },
+      {
+        "way_departure": "13:00",
+        "way_arrival": "13:35",
+        "back_departure": "14:00",
+        "back_arrival": "14:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Smeeni"
+      },
+      {
+        "way_departure": "13:45",
+        "way_arrival": "14:20",
+        "back_departure": "14:30",
+        "back_arrival": "15:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:05",
+        "back_departure": "15:15",
+        "back_arrival": "15:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "16:05",
+        "back_departure": "16:30",
+        "back_arrival": "17:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "16:30",
+        "back_departure": "18:00",
+        "back_arrival": "18:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:35",
+        "back_departure": "18:30",
+        "back_arrival": "19:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "18:35",
+        "back_departure": "21:15",
+        "back_arrival": "21:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:00",
+        "way_arrival": "19:30",
+        "back_departure": "05:30",
+        "back_arrival": "06:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:35",
+        "back_departure": "06:00",
+        "back_arrival": "06:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:20",
+        "way_arrival": "23:55",
+        "back_departure": "06:30",
+        "back_arrival": "07:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "009",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Margineanu",
+    "kilometers": 33,
+    "planned_trips": 6,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "07:45",
+        "back_departure": "08:30",
+        "back_arrival": "09:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "08:00",
+        "way_arrival": "08:55",
+        "back_departure": "13:00",
+        "back_arrival": "13:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "11:45",
+        "back_departure": "15:30",
+        "back_arrival": "16:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:25",
+        "back_departure": "17:30",
+        "back_arrival": "18:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:15",
+        "back_departure": "05:30",
+        "back_arrival": "06:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:30",
+        "way_arrival": "19:25",
+        "back_departure": "06:35",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "010",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Florica",
+    "kilometers": 38,
+    "planned_trips": 7,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "07:50",
+        "back_departure": "08:30",
+        "back_arrival": "09:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:15",
+        "way_arrival": "13:05",
+        "back_departure": "13:30",
+        "back_arrival": "14:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:30",
+        "back_departure": "15:40",
+        "back_arrival": "16:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "16:50",
+        "back_departure": "17:15",
+        "back_arrival": "18:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:15",
+        "way_arrival": "18:15",
+        "back_departure": "21:00",
+        "back_arrival": "22:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "sensul întors circulă prin M. Banului"
+      },
+      {
+        "way_departure": "18:45",
+        "way_arrival": "19:35",
+        "back_departure": "06:30",
+        "back_arrival": "07:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:20",
+        "way_arrival": "00:20",
+        "back_departure": "05:15",
+        "back_arrival": "06:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "sensul dus circulă prin M. Banului"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "011",
+    "from_location": "Buzau",
+    "intermediary_stop": "Movila",
+    "to_location": "Dulbanu",
+    "kilometers": 47,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "08:20",
+        "back_departure": "08:30",
+        "back_arrival": "09:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "12:05",
+        "back_departure": "13:30",
+        "back_arrival": "14:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "15:20",
+        "back_departure": "17:00",
+        "back_arrival": "18:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:35",
+        "back_departure": "05:15",
+        "back_arrival": "06:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:00",
+        "way_arrival": "20:20",
+        "back_departure": "06:15",
+        "back_arrival": "07:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "012",
+    "from_location": "Buzau",
+    "intermediary_stop": "Căldărușanca",
+    "to_location": "Ileana",
+    "kilometers": 41,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "06:55",
+        "way_arrival": "07:50",
+        "back_departure": "09:55",
+        "back_arrival": "12:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:30",
+        "way_arrival": "12:40",
+        "back_departure": "14:00",
+        "back_arrival": "16:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "15:55",
+        "back_departure": "06:20",
+        "back_arrival": "17:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:40",
+        "back_departure": "05:15",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:30",
+        "way_arrival": "19:25",
+        "back_departure": "06:10",
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "013",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Satu Nou",
+    "kilometers": 48,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "06:40",
+        "way_arrival": "08:05",
+        "back_departure": "08:20",
+        "back_arrival": "09:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "11:25",
+        "back_departure": "11:50",
+        "back_arrival": "13:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:30",
+        "way_arrival": "14:55",
+        "back_departure": "15:05",
+        "back_arrival": "16:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:45",
+        "way_arrival": "18:10",
+        "back_departure": "05:00",
+        "back_arrival": "06:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "014",
+    "from_location": "Buzau",
+    "intermediary_stop": "Pogoanele",
+    "to_location": "Bragareasa",
+    "kilometers": 51,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "07:15",
+        "way_arrival": "08:25",
+        "back_departure": "08:45",
+        "back_arrival": "09:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:40",
+        "way_arrival": "12:50",
+        "back_departure": "13:00",
+        "back_arrival": "14:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "015",
+    "from_location": "Buzau",
+    "intermediary_stop": "Bradeanu",
+    "to_location": "Arcanu",
+    "kilometers": 56,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "06:45",
+        "way_arrival": "08:05",
+        "back_departure": "08:40",
+        "back_arrival": "10:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:45",
+        "way_arrival": "13:05",
+        "back_departure": "13:20",
+        "back_arrival": "14:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "17:05",
+        "back_departure": "05:45",
+        "back_arrival": "07:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Brăgăreasa"
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:20",
+        "back_departure": "05:15",
+        "back_arrival": "06:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:35",
+        "back_departure": "13:20",
+        "back_arrival": "14:55",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Brăgăreasa"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "016",
+    "from_location": "Buzău Autogara Sud",
+    "intermediary_stop": "",
+    "to_location": "Padina",
+    "kilometers": 50,
+    "planned_trips": 7,
+    "schedule_entries": [
+      {
+        "way_departure": "06:30",
+        "way_arrival": "07:55",
+        "back_departure": "08:15",
+        "back_arrival": "09:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "08:00",
+        "way_arrival": "09:25",
+        "back_departure": "10:15",
+        "back_arrival": "11:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "12:25",
+        "back_departure": "12:30",
+        "back_arrival": "13:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "15:25",
+        "back_departure": "15:30",
+        "back_arrival": "16:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "17:25",
+        "back_departure": "17:45",
+        "back_arrival": "19:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:15",
+        "way_arrival": "19:40",
+        "back_departure": "05:00",
+        "back_arrival": "06:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:55",
+        "back_departure": "06:30",
+        "back_arrival": "07:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "017",
+    "from_location": "BuzauAutogara",
+    "intermediary_stop": "Cilibia",
+    "to_location": "Lunca",
+    "kilometers": 44,
+    "planned_trips": 15,
+    "schedule_entries": [
+      {
+        "way_departure": "06:00",
+        "way_arrival": "06:50",
+        "back_departure": "07:00",
+        "back_arrival": "07:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:40",
+        "way_arrival": "07:40",
+        "back_departure": "07:50",
+        "back_arrival": "08:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:45",
+        "back_departure": "08:50",
+        "back_arrival": "10:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "09:30",
+        "way_arrival": "10:30",
+        "back_departure": "10:40",
+        "back_arrival": "11:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "11:30",
+        "way_arrival": "12:20",
+        "back_departure": "12:30",
+        "back_arrival": "13:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:30",
+        "way_arrival": "13:35",
+        "back_departure": "14:00",
+        "back_arrival": "15:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:30",
+        "way_arrival": "14:30",
+        "back_departure": "15:00",
+        "back_arrival": "16:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "15:50",
+        "back_departure": "16:00",
+        "back_arrival": "16:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "16:45",
+        "back_departure": "16:50",
+        "back_arrival": "18:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:20",
+        "back_departure": "17:30",
+        "back_arrival": "18:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:30",
+        "way_arrival": "18:30",
+        "back_departure": "18:50",
+        "back_arrival": "19:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "18:15",
+        "way_arrival": "19:30",
+        "back_departure": "21:30",
+        "back_arrival": "22:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "19:00",
+        "way_arrival": "19:50",
+        "back_departure": "05:00",
+        "back_arrival": "05:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "21:00",
+        "back_departure": "05:30",
+        "back_arrival": "06:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      },
+      {
+        "way_departure": "23:45",
+        "way_arrival": "01:00",
+        "back_departure": "06:10",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Vizireni"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "018",
+    "from_location": "Buzau Autogara",
+    "intermediary_stop": "Cilibia",
+    "to_location": "Rusetu",
+    "kilometers": 54,
+    "planned_trips": 10,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "08:35",
+        "back_departure": "08:40",
+        "back_arrival": "10:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Sg. Ionel Ștefan"
+      },
+      {
+        "way_departure": "08:00",
+        "way_arrival": "09:25",
+        "back_departure": "10:00",
+        "back_arrival": "11:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:30",
+        "way_arrival": "11:55",
+        "back_departure": "12:30",
+        "back_arrival": "13:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:15",
+        "way_arrival": "13:25",
+        "back_departure": "14:00",
+        "back_arrival": "15:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:55",
+        "back_departure": "16:00",
+        "back_arrival": "17:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "17:35",
+        "back_departure": "17:40",
+        "back_arrival": "19:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Sg. Ionel Ștefan"
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:10",
+        "back_departure": "07:00",
+        "back_arrival": "08:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "19:25",
+        "back_departure": "20:50",
+        "back_arrival": "22:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:45",
+        "way_arrival": "21:10",
+        "back_departure": "05:00",
+        "back_arrival": "06:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:30",
+        "way_arrival": "00:55",
+        "back_departure": "06:00",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 2,
+    "route_number": "019",
+    "from_location": "Buzau",
+    "intermediary_stop": "Pogoanele",
+    "to_location": "Rusetu",
+    "kilometers": 60,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "13:30",
+        "way_arrival": "15:15",
+        "back_departure": "16:00",
+        "back_arrival": "17:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "17:45",
+        "way_arrival": "19:30",
+        "back_departure": "06:45",
+        "back_arrival": "08:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "021",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Balaceanu",
+    "kilometers": 35,
+    "planned_trips": 7,
+    "schedule_entries": [
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:30",
+        "back_departure": "09:30",
+        "back_arrival": "10:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "12:00",
+        "back_departure": "13:00",
+        "back_arrival": "14:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "15:00",
+        "back_departure": "15:30",
+        "back_arrival": "16:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "16:00",
+        "back_departure": "17:30",
+        "back_arrival": "18:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:00",
+        "back_departure": "06:00",
+        "back_arrival": "07:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:30",
+        "back_departure": "21:00",
+        "back_arrival": "22:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:30",
+        "way_arrival": "00:30",
+        "back_departure": "05:00",
+        "back_arrival": "06:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "022",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Poşta Câlnău",
+    "to_location": "Rm. Sărat Autogara Valman Tur",
+    "kilometers": 33,
+    "planned_trips": 15,
+    "schedule_entries": [
+      {
+        "way_departure": "05:45",
+        "way_arrival": "06:25",
+        "back_departure": "06:45",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:15",
+        "way_arrival": "06:55",
+        "back_departure": "07:15",
+        "back_arrival": "07:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:45",
+        "way_arrival": "07:35",
+        "back_departure": "07:45",
+        "back_arrival": "08:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "07:45",
+        "way_arrival": "08:25",
+        "back_departure": "08:45",
+        "back_arrival": "09:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "09:40",
+        "way_arrival": "10:15",
+        "back_departure": "10:55",
+        "back_arrival": "11:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:15",
+        "way_arrival": "10:55",
+        "back_departure": "12:10",
+        "back_arrival": "13:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:30",
+        "way_arrival": "12:10",
+        "back_departure": "13:40",
+        "back_arrival": "14:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:00",
+        "way_arrival": "13:40",
+        "back_departure": "14:40",
+        "back_arrival": "15:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "14:50",
+        "back_departure": "16:20",
+        "back_arrival": "16:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "16:10",
+        "back_departure": "17:10",
+        "back_arrival": "17:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:20",
+        "back_departure": "18:20",
+        "back_arrival": "18:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:30",
+        "way_arrival": "18:10",
+        "back_departure": "19:10",
+        "back_arrival": "19:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:30",
+        "way_arrival": "19:20",
+        "back_departure": "20:20",
+        "back_arrival": "20:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:10",
+        "back_departure": "21:10",
+        "back_arrival": "05:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:30",
+        "way_arrival": "21:20",
+        "back_departure": "06:35",
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "023",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Blajani",
+    "kilometers": 23,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:00",
+        "back_departure": "08:45",
+        "back_arrival": "09:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:15",
+        "way_arrival": "13:45",
+        "back_departure": "14:45",
+        "back_arrival": "15:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:15",
+        "way_arrival": "16:45",
+        "back_departure": "17:30",
+        "back_arrival": "18:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:00",
+        "back_departure": "05:30",
+        "back_arrival": "06:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:00",
+        "back_departure": "17:30",
+        "back_arrival": "18:00",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "024",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Zarnesti",
+    "kilometers": 17,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "14:15",
+        "way_arrival": "14:45",
+        "back_departure": "15:00",
+        "back_arrival": "15:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "16:30",
+        "back_departure": "07:00",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "025",
+    "from_location": "Buzau",
+    "intermediary_stop": "VaduSoresti",
+    "to_location": "Pruneni",
+    "kilometers": 23,
+    "planned_trips": 9,
+    "schedule_entries": [
+      {
+        "way_departure": "07:15",
+        "way_arrival": "07:55",
+        "back_departure": "08:00",
+        "back_arrival": "08:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:30",
+        "back_departure": "11:30",
+        "back_arrival": "12:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Vadul Sorești"
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:40",
+        "back_departure": "13:20",
+        "back_arrival": "14:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:45",
+        "way_arrival": "13:15",
+        "back_departure": "14:15",
+        "back_arrival": "14:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă până la Vadul Sorești; circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "14:15",
+        "way_arrival": "14:55",
+        "back_departure": "15:45",
+        "back_arrival": "16:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "15:45",
+        "way_arrival": "16:20",
+        "back_departure": "17:20",
+        "back_arrival": "17:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:15",
+        "way_arrival": "17:50",
+        "back_departure": "18:45",
+        "back_arrival": "19:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Vadul Sorești"
+      },
+      {
+        "way_departure": "18:45",
+        "way_arrival": "19:20",
+        "back_departure": "05:30",
+        "back_arrival": "06:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:30",
+        "way_arrival": "20:10",
+        "back_departure": "06:05",
+        "back_arrival": "06:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 3,
+    "route_number": "026",
+    "from_location": "Buzau",
+    "intermediary_stop": "Racoviteni",
+    "to_location": "Murgesti",
+    "kilometers": 29,
+    "planned_trips": 8,
+    "schedule_entries": [
+      {
+        "way_departure": "08:15",
+        "way_arrival": "09:10",
+        "back_departure": "10:00",
+        "back_arrival": "10:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:10",
+        "way_arrival": "12:00",
+        "back_departure": "12:15",
+        "back_arrival": "13:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Racovițeni"
+      },
+      {
+        "way_departure": "13:30",
+        "way_arrival": "14:25",
+        "back_departure": "15:00",
+        "back_arrival": "15:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "15:55",
+        "back_departure": "16:15",
+        "back_arrival": "17:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:45",
+        "back_departure": "18:00",
+        "back_arrival": "18:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Câmpulungeanca"
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "18:55",
+        "back_departure": "21:15",
+        "back_arrival": "22:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:15",
+        "way_arrival": "21:10",
+        "back_departure": "05:15",
+        "back_arrival": "06:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:45",
+        "way_arrival": "00:40",
+        "back_departure": "05:50",
+        "back_arrival": "07:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă de la Câmpulungeanca"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "027",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Podu Muncii",
+    "kilometers": 36,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "19:45",
+        "way_arrival": "20:55",
+        "back_departure": "06:15",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "08:00",
+        "way_arrival": "09:10",
+        "back_departure": "10:00",
+        "back_arrival": "11:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:30",
+        "way_arrival": "12:40",
+        "back_departure": "13:45",
+        "back_arrival": "14:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:40",
+        "back_departure": "18:30",
+        "back_arrival": "19:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "028",
+    "from_location": "BuzauAutogara",
+    "intermediary_stop": "",
+    "to_location": "Bisoca",
+    "kilometers": 62,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "15:30",
+        "way_arrival": "17:00",
+        "back_departure": "06:30",
+        "back_arrival": "08:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "17:40",
+        "back_departure": "18:30",
+        "back_arrival": "19:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:30",
+        "back_departure": "15:00",
+        "back_arrival": "16:30",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "029",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Sarile",
+    "kilometers": 53,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "13:30",
+        "way_arrival": "14:50",
+        "back_departure": "08:00",
+        "back_arrival": "09:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "032",
+    "from_location": "Buzau",
+    "intermediary_stop": "Plostina",
+    "to_location": "Plaiul",
+    "kilometers": 74,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "15:00",
+        "way_arrival": "17:25",
+        "back_departure": "05:45",
+        "back_arrival": "08:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "033",
+    "from_location": "Buzau",
+    "intermediary_stop": "",
+    "to_location": "Jghiab",
+    "kilometers": 54,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "09:00",
+        "way_arrival": "10:25",
+        "back_departure": "11:30",
+        "back_arrival": "12:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:15",
+        "way_arrival": "15:40",
+        "back_departure": "16:30",
+        "back_arrival": "17:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:30",
+        "way_arrival": "19:55",
+        "back_departure": "05:45",
+        "back_arrival": "07:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "034",
+    "from_location": "Buzau",
+    "intermediary_stop": "Lopatari",
+    "to_location": "Trestioara",
+    "kilometers": 59,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "07:30",
+        "way_arrival": "09:20",
+        "back_departure": "10:00",
+        "back_arrival": "11:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "13:50",
+        "back_departure": "15:00",
+        "back_arrival": "16:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:50",
+        "back_departure": "20:50",
+        "back_arrival": "22:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "23:30",
+        "way_arrival": "01:20",
+        "back_departure": "04:50",
+        "back_arrival": "06:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:50",
+        "back_departure": "04:50",
+        "back_arrival": "06:40",
+        "days_of_operation": [
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "038",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Sapoca",
+    "to_location": "Glodu Petcari",
+    "kilometers": 52,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "08:40",
+        "back_departure": "09:30",
+        "back_arrival": "11:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Suchea"
+      },
+      {
+        "way_departure": "14:15",
+        "way_arrival": "15:55",
+        "back_departure": "16:00",
+        "back_arrival": "17:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă prin Suchea"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "040",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Sapoca",
+    "to_location": "Golul Grabicina",
+    "kilometers": 41,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "13:45",
+        "way_arrival": "14:45",
+        "back_departure": "15:00",
+        "back_arrival": "16:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:45",
+        "way_arrival": "17:45",
+        "back_departure": "05:45",
+        "back_arrival": "06:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 4,
+    "route_number": "041",
+    "from_location": "Buzau",
+    "intermediary_stop": "Sapoca",
+    "to_location": "Negosina",
+    "kilometers": 36,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "17:20",
+        "way_arrival": "06:00",
+        "back_departure": null,
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:20",
+        "way_arrival": "05:00",
+        "back_departure": null,
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "042",
+    "from_location": "Buzau",
+    "intermediary_stop": "Bozioru",
+    "to_location": "Fisici",
+    "kilometers": 50,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "10:00",
+        "way_arrival": "11:20",
+        "back_departure": "13:00",
+        "back_arrival": "14:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "043",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "Odaile",
+    "to_location": "Piatra Albă",
+    "kilometers": 55,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "19:00",
+        "way_arrival": "20:20",
+        "back_departure": "05:00",
+        "back_arrival": "06:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "044",
+    "from_location": "Buzau",
+    "intermediary_stop": "Braesti",
+    "to_location": "Bratilesti",
+    "kilometers": 60,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "09:00",
+        "back_departure": "09:30",
+        "back_arrival": "11:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "16:30",
+        "back_departure": "17:00",
+        "back_arrival": "19:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "16:30",
+        "way_arrival": "18:30",
+        "back_departure": "05:45",
+        "back_arrival": "07:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "08:00",
+        "way_arrival": "10:00",
+        "back_departure": "14:00",
+        "back_arrival": "16:00",
+        "days_of_operation": [
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "045",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Nehoiu",
+    "kilometers": 71,
+    "planned_trips": 5,
+    "schedule_entries": [
+      {
+        "way_departure": "10:30",
+        "way_arrival": "12:10",
+        "back_departure": "12:30",
+        "back_arrival": "14:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:30",
+        "way_arrival": "14:10",
+        "back_departure": "15:15",
+        "back_arrival": "16:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "16:10",
+        "back_departure": "08:30",
+        "back_arrival": "10:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "18:40",
+        "back_departure": "06:45",
+        "back_arrival": "08:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:30",
+        "way_arrival": "14:10",
+        "back_departure": "08:30",
+        "back_arrival": "10:10",
+        "days_of_operation": [
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "046",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Varlaam",
+    "kilometers": 90,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "13:30",
+        "way_arrival": "15:40",
+        "back_departure": "16:50",
+        "back_arrival": "19:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:30",
+        "way_arrival": "17:40",
+        "back_departure": "06:45",
+        "back_arrival": "08:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "047",
+    "from_location": "Buzău Autogara XXL",
+    "intermediary_stop": "",
+    "to_location": "Bâsca Chiojdului",
+    "kilometers": 74,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "11:15",
+        "way_arrival": "13:10",
+        "back_departure": "15:00",
+        "back_arrival": "16:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "17:20",
+        "back_departure": "05:30",
+        "back_arrival": "07:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "19:55",
+        "back_departure": "08:30",
+        "back_arrival": "10:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "048",
+    "from_location": "Patarlagele",
+    "intermediary_stop": "",
+    "to_location": "Scarisoara",
+    "kilometers": 13,
+    "planned_trips": 7,
+    "schedule_entries": [
+      {
+        "way_departure": "06:15",
+        "way_arrival": "06:35",
+        "back_departure": "06:40",
+        "back_arrival": "07:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "07:10",
+        "way_arrival": "07:40",
+        "back_departure": "07:50",
+        "back_arrival": "08:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Buda-Crăciunești"
+      },
+      {
+        "way_departure": "09:30",
+        "way_arrival": "09:50",
+        "back_departure": "10:00",
+        "back_arrival": "10:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:30",
+        "way_arrival": "11:00",
+        "back_departure": "11:05",
+        "back_arrival": "11:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": "circulă până la Buda-Crăciunești"
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:20",
+        "back_departure": "12:30",
+        "back_arrival": "12:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:00",
+        "way_arrival": "13:20",
+        "back_departure": "13:30",
+        "back_arrival": "13:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "16:20",
+        "back_departure": "16:30",
+        "back_arrival": "16:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "049",
+    "from_location": "Patarlagele",
+    "intermediary_stop": "",
+    "to_location": "Colti",
+    "kilometers": 9,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "06:25",
+        "way_arrival": "06:40",
+        "back_departure": "06:45",
+        "back_arrival": "07:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "07:45",
+        "back_departure": "08:00",
+        "back_arrival": "08:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:30",
+        "way_arrival": "10:45",
+        "back_departure": "11:15",
+        "back_arrival": "11:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:15",
+        "way_arrival": "13:30",
+        "back_departure": "13:35",
+        "back_arrival": "13:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "050",
+    "from_location": "Patarlagele",
+    "intermediary_stop": "",
+    "to_location": "Tega",
+    "kilometers": 8,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "08:30",
+        "way_arrival": "08:45",
+        "back_departure": "09:15",
+        "back_arrival": "12:20",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:15",
+        "back_departure": "12:35",
+        "back_arrival": null,
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "051",
+    "from_location": "Pătârlagele Autogara",
+    "intermediary_stop": "",
+    "to_location": "Lunca Jarștei",
+    "kilometers": 23,
+    "planned_trips": 6,
+    "schedule_entries": [
+      {
+        "way_departure": "08:20",
+        "way_arrival": "09:05",
+        "back_departure": "06:40",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "09:10",
+        "way_arrival": "09:55",
+        "back_departure": "08:00",
+        "back_arrival": "08:45",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:15",
+        "way_arrival": "14:00",
+        "back_departure": "08:00",
+        "back_arrival": "08:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:15",
+        "back_departure": "11:00",
+        "back_arrival": "11:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:50",
+        "way_arrival": "16:35",
+        "back_departure": "15:00",
+        "back_arrival": "15:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:45",
+        "way_arrival": "19:30",
+        "back_departure": "17:20",
+        "back_arrival": "18:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "052",
+    "from_location": "Patarlagele",
+    "intermediary_stop": "",
+    "to_location": "Varlaam",
+    "kilometers": 32,
+    "planned_trips": 8,
+    "schedule_entries": [
+      {
+        "way_departure": "06:20",
+        "way_arrival": "07:20",
+        "back_departure": "08:00",
+        "back_arrival": "09:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "07:15",
+        "way_arrival": "08:05",
+        "back_departure": "10:45",
+        "back_arrival": "11:35",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "09:10",
+        "way_arrival": "10:10",
+        "back_departure": "06:30",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:30",
+        "way_arrival": "11:30",
+        "back_departure": "13:45",
+        "back_arrival": "14:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:10",
+        "way_arrival": "14:00",
+        "back_departure": "15:15",
+        "back_arrival": "16:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:15",
+        "way_arrival": "16:15",
+        "back_departure": "17:15",
+        "back_arrival": "18:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "18:45",
+        "way_arrival": "19:45",
+        "back_departure": "05:15",
+        "back_arrival": "06:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:15",
+        "way_arrival": "16:15",
+        "back_departure": "13:45",
+        "back_arrival": "14:45",
+        "days_of_operation": [
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "053",
+    "from_location": "Nehoiu",
+    "intermediary_stop": "",
+    "to_location": "Bâsca Chiojdului",
+    "kilometers": 45,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "08:00",
+        "way_arrival": "09:10",
+        "back_departure": "10:45",
+        "back_arrival": "11:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "10:30",
+        "way_arrival": "11:40",
+        "back_departure": "07:45",
+        "back_arrival": "08:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:15",
+        "way_arrival": "14:40",
+        "back_departure": "16:00",
+        "back_arrival": "17:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "18:30",
+        "way_arrival": "19:55",
+        "back_departure": "05:45",
+        "back_arrival": "07:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 5,
+    "route_number": "054",
+    "from_location": "Nehoiu",
+    "intermediary_stop": "",
+    "to_location": "Bâscenii de Sus",
+    "kilometers": 29,
+    "planned_trips": 6,
+    "schedule_entries": [
+      {
+        "way_departure": "07:20",
+        "way_arrival": "08:05",
+        "back_departure": "06:05",
+        "back_arrival": "06:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:45",
+        "back_departure": "09:05",
+        "back_arrival": "09:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "11:45",
+        "back_departure": "09:30",
+        "back_arrival": "10:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:00",
+        "way_arrival": "13:45",
+        "back_departure": "11:00",
+        "back_arrival": "11:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "18:15",
+        "way_arrival": "19:00",
+        "back_departure": "17:00",
+        "back_arrival": "17:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "08:50",
+        "way_arrival": "09:35",
+        "back_departure": "07:50",
+        "back_arrival": "08:35",
+        "days_of_operation": [
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "055",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Vâlcelele",
+    "kilometers": 31,
+    "planned_trips": 7,
+    "schedule_entries": [
+      {
+        "way_departure": "05:00",
+        "way_arrival": "05:40",
+        "back_departure": "05:45",
+        "back_arrival": "06:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:30",
+        "way_arrival": "07:10",
+        "back_departure": "07:15",
+        "back_arrival": "07:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:10",
+        "back_departure": "08:20",
+        "back_arrival": "09:00",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:45",
+        "way_arrival": "12:25",
+        "back_departure": "13:00",
+        "back_arrival": "13:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:10",
+        "back_departure": "15:30",
+        "back_arrival": "16:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:45",
+        "way_arrival": "17:25",
+        "back_departure": "17:45",
+        "back_arrival": "18:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "19:50",
+        "way_arrival": "20:30",
+        "back_departure": "20:45",
+        "back_arrival": "21:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "056",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "I. H. Rădulescu",
+    "kilometers": 20,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "07:25",
+        "back_departure": "07:30",
+        "back_arrival": "07:55",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "11:25",
+        "back_departure": "11:40",
+        "back_arrival": "12:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "14:25",
+        "back_departure": "14:40",
+        "back_arrival": "15:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "16:00",
+        "way_arrival": "16:25",
+        "back_departure": "16:40",
+        "back_arrival": "17:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "057",
+    "from_location": "Rm.Sarat",
+    "intermediary_stop": "Ziduri",
+    "to_location": "Cuculeasa",
+    "kilometers": 23,
+    "planned_trips": 3,
+    "schedule_entries": [
+      {
+        "way_departure": "06:15",
+        "way_arrival": "06:45",
+        "back_departure": "07:00",
+        "back_arrival": "07:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "12:00",
+        "way_arrival": "12:30",
+        "back_departure": "12:35",
+        "back_arrival": "13:05",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:30",
+        "back_departure": "20:40",
+        "back_arrival": "21:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "058",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Bălăceanu",
+    "kilometers": 22,
+    "planned_trips": 4,
+    "schedule_entries": [
+      {
+        "way_departure": "06:00",
+        "way_arrival": "06:30",
+        "back_departure": "06:40",
+        "back_arrival": "07:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:30",
+        "back_departure": "10:40",
+        "back_arrival": "11:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:30",
+        "back_departure": "17:40",
+        "back_arrival": "18:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:30",
+        "back_departure": "20:40",
+        "back_arrival": "21:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "059",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "",
+    "to_location": "Ghergheasa",
+    "kilometers": 25,
+    "planned_trips": 8,
+    "schedule_entries": [
+      {
+        "way_departure": "05:15",
+        "way_arrival": "05:50",
+        "back_departure": "05:55",
+        "back_arrival": "06:30",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "06:35",
+        "way_arrival": "07:10",
+        "back_departure": "07:15",
+        "back_arrival": "07:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "07:30",
+        "way_arrival": "08:05",
+        "back_departure": "08:15",
+        "back_arrival": "08:50",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:00",
+        "way_arrival": "11:35",
+        "back_departure": "11:40",
+        "back_arrival": "12:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "13:00",
+        "way_arrival": "13:35",
+        "back_departure": "13:40",
+        "back_arrival": "14:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "15:00",
+        "way_arrival": "15:35",
+        "back_departure": "15:40",
+        "back_arrival": "16:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:35",
+        "back_departure": "17:40",
+        "back_arrival": "18:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:35",
+        "back_departure": "20:40",
+        "back_arrival": "21:15",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "060",
+    "from_location": "Rm.Sarat",
+    "intermediary_stop": "Pardosi",
+    "to_location": "Costomiru",
+    "kilometers": 31,
+    "planned_trips": 2,
+    "schedule_entries": [
+      {
+        "way_departure": "07:00",
+        "way_arrival": "07:45",
+        "back_departure": "08:00",
+        "back_arrival": "08:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:00",
+        "way_arrival": "14:45",
+        "back_departure": "15:00",
+        "back_arrival": "15:45",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "062",
+    "from_location": "Rm. Sărat Autogara TUC SA",
+    "intermediary_stop": "Buda",
+    "to_location": "Mucești-Dănulești",
+    "kilometers": 26,
+    "planned_trips": 6,
+    "schedule_entries": [
+      {
+        "way_departure": "07:10",
+        "way_arrival": "07:50",
+        "back_departure": "09:30",
+        "back_arrival": "10:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "10:00",
+        "way_arrival": "10:40",
+        "back_departure": "12:00",
+        "back_arrival": "12:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "11:30",
+        "way_arrival": "12:10",
+        "back_departure": "13:30",
+        "back_arrival": "14:10",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "14:30",
+        "way_arrival": "15:10",
+        "back_departure": "15:45",
+        "back_arrival": "16:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      },
+      {
+        "way_departure": "18:00",
+        "way_arrival": "18:40",
+        "back_departure": "06:00",
+        "back_arrival": "06:40",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      },
+      {
+        "way_departure": "20:00",
+        "way_arrival": "20:40",
+        "back_departure": "06:45",
+        "back_arrival": "07:25",
+        "days_of_operation": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "only_for_school_days": true,
+        "notes": "circulă în perioada cursurilor școlare"
+      }
+    ]
+  },
+  {
+    "network_id": 16,
+    "group_id": 6,
+    "route_number": "063",
+    "from_location": "Rm.Sarat",
+    "intermediary_stop": "",
+    "to_location": "Valea Salciei",
+    "kilometers": 30,
+    "planned_trips": 1,
+    "schedule_entries": [
+      {
+        "way_departure": "17:00",
+        "way_arrival": "17:45",
+        "back_departure": "12:00",
+        "back_arrival": "12:45",
+        "days_of_operation": [
+          5,
+          7
+        ],
+        "only_for_school_days": false,
+        "notes": null
+      }
+    ]
+  }
+]
