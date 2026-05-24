@@ -1,0 +1,44 @@
+name: Build GTFS Archive
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate GTFS output directory
+        run: |
+          if [ ! -d "build_pipeline/output/gtfs" ]; then
+            echo "Directory build_pipeline/output/gtfs not found."
+            exit 1
+          fi
+
+      - name: Build archive name
+        id: vars
+        shell: bash
+        run: |
+          echo "zip_name=buzau-gtfs.zip" >> "$GITHUB_OUTPUT"
+
+      - name: Create zip archive
+        run: |
+          cd build_pipeline/output
+          zip -r "../../${{ steps.vars.outputs.zip_name }}" gtfs
+
+      - name: Publish zip to GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: gtfs-latest
+          name: GTFS Latest
+          body: Automated GTFS archive generated from build_pipeline/output/gtfs.
+          allowUpdates: true
+          replacesArtifacts: true
+          removeArtifacts: true
+          artifacts: ${{ steps.vars.outputs.zip_name }}

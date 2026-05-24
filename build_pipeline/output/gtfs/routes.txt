@@ -1,0 +1,56 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+001,BUZAU,001,Buzău Autogara Sud - Pietroasele,3
+002,BUZAU,002,Buzău Autogara Sud - Vispeşti,3
+003,BUZAU,003,Buzău Autogara Sud - Năeni,3
+004,BUZAU,004,Buzău Autogara Marghiloman - Finţeşti,3
+005,BUZAU,005,Buzău Autogara Sud - Clondiru,3
+006,BUZAU,006,Buzău Autogara Sud - Vintileanca,3
+007,BUZAU,007,Autogara Sud - Buzău,3
+008,BUZAU,008,Autogara Sud - Buzău,3
+009,BUZAU,009,Autogara Sud - Buzău,3
+010,BUZAU,010,Autogara Sud - Buzău,3
+011,BUZAU,011,Autogara Sud - Buzău,3
+012,BUZAU,012,Autogara Sud - Buzău,3
+013,BUZAU,013,Buzău Autgara Sud - Satu Nou,3
+014,BUZAU,014,Buzău Autogara Sud - Brăgăreasa,3
+015,BUZAU,015,Buzău Autogara Sud - Arcanu,3
+016,BUZAU,016,Buzău Autogara Sud - Padina,3
+017,BUZAU,017,Buzău Autogara Sud - Lunca,3
+018,BUZAU,018,Buzău Autogara Sud - Ruşeţu,3
+019,BUZAU,019,Buzău Autogara Sud - Ruşeţu,3
+021,BUZAU,021,Autogara XXL - Buzău,3
+022,BUZAU,022,Buzău Autogara XXL - Rm. Sărat Autogara Valman Tur,3
+023,BUZAU,023,Autogara XXL - Buzău,3
+024,BUZAU,024,Autogara XXL - Buzău,3
+025,BUZAU,025,Autogara XXL - Buzău,3
+026,BUZAU,026,Buzău Autogara XXL - Murgești,3
+027,BUZAU,027,Buzău Autogara XXL - Podu Muncii,3
+028,BUZAU,028,Autogara XXL - Buzău,3
+029,BUZAU,029,Autogara XXL - Buzău,3
+032,BUZAU,032,Buzău Autogara XXL - Nucului,3
+033,BUZAU,033,Autogara XXL - Buzău,3
+034,BUZAU,034,Autogara XXL - Buzău,3
+038,BUZAU,038,Buzău Autogara XXL - Glodu Petcari,3
+040,BUZAU,040,Buzău Autogara XXL - Golul Grabicina,3
+041,BUZAU,041,Buzău Autogara XXL - Negoşina,3
+042,BUZAU,042,Buzău Autogara XXL - Fișici,3
+043,BUZAU,043,Buzău Autogara XXL - Piatra Albă,3
+044,BUZAU,044,Autogara XXL - Buzău,3
+045,BUZAU,045,Buzău Autogara XXL - Nehoiu,3
+046,BUZAU,046,Buzău Autogara XXL - Varlaam,3
+047,BUZAU,047,Buzău Autogara XXL - Bâsca Chiojdului,3
+048,BUZAU,048,Pătârlagele Autogara - Scărişoara,3
+049,BUZAU,049,Pătârlagele Autogara - Colţi,3
+050,BUZAU,050,Pătârlagele Autogara - Tega,3
+051,BUZAU,051,Pătârlagele Autogara - Lunca Jarștei,3
+052,BUZAU,052,Pătârlagele Autogara - Varlaam,3
+053,BUZAU,053,Nehoiu - Bâsca Chiojdului,3
+054,BUZAU,054,Nehoiu - Bâscenii de Sus,3
+055,BUZAU,055,Rm. Sărat Autogara TUC SA - Vâlcelele,3
+056,BUZAU,056,Rm. Sărat Autogara TUC SA - I. H. Rădulescu,3
+057,BUZAU,057,Rm. Sărat Autogara TUC SA - Cuculeasa,3
+058,BUZAU,058,Rm. Sărat Autogara TUC SA - Bălăceanu,3
+059,BUZAU,059,Rm. Sărat Autogara TUC SA - Ghergheasa,3
+060,BUZAU,060,Rm. Sărat Autogara TUC SA - Costomiru,3
+062,BUZAU,062,Rm. Sărat Autogara TUC SA - Mucești-Dănulești,3
+063,BUZAU,063,Rm. Sărat Autogara TUC SA - Valea Salciei,3

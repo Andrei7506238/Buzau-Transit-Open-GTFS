@@ -1,0 +1,23 @@
+{
+  "Rm. Sărat Autogara TUC SA":   {"lat": 45.38545, "lon": 27.04170, "source": "manual"},
+  "Rm. Sărat Autogara Valman Tur": {"lat": 45.38545, "lon": 27.04170, "source": "manual"},
+  "Rm. Sărat autobază":          {"lat": 45.38545, "lon": 27.04170, "source": "manual"},
+  "Rm. Sărat cartier Barasca":   {"lat": 45.38200, "lon": 27.04500, "source": "manual"},
+  "Autogara XXL":                {"lat": 45.16275, "lon": 26.81467, "source": "manual"},
+  "Buzău Autogara XXL":          {"lat": 45.16275, "lon": 26.81467, "source": "manual"},
+  "Pogoanele Centru":            {"lat": 44.91425, "lon": 26.99210, "source": "manual"},
+  "Calvini Primărie":            {"lat": 45.25184, "lon": 26.29158, "source": "manual"},
+  "Bâsca Chiojdului Cap traseu": {"lat": 45.37520, "lon": 26.41000, "source": "manual"},
+  "Bâsca Chiojdului Magazin":    {"lat": 45.37300, "lon": 26.41200, "source": "manual"},
+  "Bălăceanu 1":                 {"lat": 45.24664, "lon": 27.13697, "source": "manual"},
+  "Bălăceanu Cap traseu":        {"lat": 45.24664, "lon": 27.13697, "source": "manual"},
+  "Ghergheasa Biserică":         {"lat": 45.26916, "lon": 27.20630, "source": "manual"},
+  "Ghergheasa Cap Traseu":       {"lat": 45.26916, "lon": 27.20630, "source": "manual"},
+  "Sălcioara Pod":               {"lat": 45.30874, "lon": 27.17692, "source": "manual"},
+  "Sălcioara Centru":            {"lat": 45.30874, "lon": 27.17692, "source": "manual"},
+  "Sălcioara Dispensar":         {"lat": 45.30874, "lon": 27.17692, "source": "manual"},
+  "Vâlcelele":                   {"lat": 45.34461, "lon": 27.34854, "source": "manual"},
+  "Oreavul terasa":              {"lat": 45.36826, "lon": 27.02301, "source": "manual"},
+  "Valea Rîmnicului":            {"lat": 45.36500, "lon": 27.02800, "source": "manual"},
+  "Tainița":                     {"lat": 45.47800, "lon": 26.41300, "source": "manual"}
+}

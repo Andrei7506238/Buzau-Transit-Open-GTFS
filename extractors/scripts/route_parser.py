@@ -173,7 +173,7 @@ def _ocr_extract_rows_cached(pdf_path: Path, reader: object) -> list[list[str]]:
         print(f"Loading OCR rows from cache ({cache_file.name})…", file=sys.stderr)
         return json.loads(cache_file.read_text(encoding="utf-8"))
 
-    print("OCR pass starting (this may take 2–3 minutes)…", file=sys.stderr)
+    print("OCR pass starting (this may take 2-3 minutes)…", file=sys.stderr)
     rows = _ocr_extract_rows(reader)
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_file.write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")

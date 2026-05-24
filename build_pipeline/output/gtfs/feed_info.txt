@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
+Popa Andrei-Robert,https://andrei7506238.github.io/,ro,20260501,20280531,2026.05-beta.1,https://andrei7506238.github.io/

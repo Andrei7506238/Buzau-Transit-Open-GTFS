@@ -1,0 +1,829 @@
+{
+  "Albeşti": [
+    44.9904188,
+    26.9254914
+  ],
+  "Aldeni": [
+    45.3191323,
+    26.7567622
+  ],
+  "Aldeni magazin": null,
+  "Amaru": null,
+  "Apostari": [
+    45.479389,
+    26.6794936
+  ],
+  "Arcanu": null,
+  "Autogara Sud": [
+    45.1437355,
+    26.8297906
+  ],
+  "Autogara XXL": null,
+  "Balta Albă": [
+    45.3046294,
+    27.2848285
+  ],
+  "Balta Tocila": [
+    45.4047559,
+    26.6975616
+  ],
+  "Batogu": [
+    45.4105,
+    26.8798434
+  ],
+  "Beceni": [
+    45.3821003,
+    26.769004
+  ],
+  "Beciu": [
+    45.3754504,
+    26.7107282
+  ],
+  "Bentu": [
+    45.0675377,
+    26.9720426
+  ],
+  "Berca Consiliul Local": null,
+  "Berca ramificaţie": null,
+  "Beşlii": [
+    45.4827838,
+    26.6764044
+  ],
+  "Bisoca": [
+    45.5422326,
+    26.706427
+  ],
+  "Bisocuţa": null,
+  "Blăjani Cap Traseu": null,
+  "Blăjani Centru": null,
+  "Boboc Gară": [
+    45.2094997,
+    26.9287514
+  ],
+  "Boldu": [
+    45.3227859,
+    27.2402692
+  ],
+  "Brădeanu": null,
+  "Brăeşti": [
+    45.4303432,
+    26.5102517
+  ],
+  "Brăgăreasa": null,
+  "Brătileşti": [
+    45.4687135,
+    26.4826606
+  ],
+  "Budişteni": [
+    45.0436425,
+    26.7857023
+  ],
+  "Buzău Autgara Sud": null,
+  "Buzău Autogara Marghiloman": null,
+  "Buzău Autogara Sud": [
+    45.1437355,
+    26.8297906
+  ],
+  "Buzău Autogara XXL": null,
+  "Buzău Chimica": null,
+  "Buzău Cimitirul Evreiesc": null,
+  "Buzău Clubul poliţiştilor": null,
+  "Buzău Drăgaică": null,
+  "Buzău Fabrica de bere": null,
+  "Buzău Intersecţie str. Independenţei": null,
+  "Buzău Intersecţie str.Independenţei": null,
+  "Buzău Mariage IPIC CF": null,
+  "Buzău Metalurgica": null,
+  "Buzău Presim": null,
+  "Bâsca Chiojdului Cap traseu": null,
+  "Bâsca Chiojdului Magazin": null,
+  "Bâsceni": null,
+  "Bîlhacu": null,
+  "Bîsca Roziliei Guţoi": null,
+  "Bîsca Roziliei Piață": null,
+  "Bîsca Roziliei Pod Vineţişu": null,
+  "Bîsca Roziliei Școală": null,
+  "Bălaia": [
+    45.0132154,
+    26.8304809
+  ],
+  "Bălteni": [
+    45.0090502,
+    27.1484056
+  ],
+  "Bălăceanu Cap traseu": null,
+  "Bălăneşti": [
+    45.3408989,
+    26.4854676
+  ],
+  "CA Rosetti": [
+    45.0473971,
+    27.164784
+  ],
+  "Calvini Primărie": null,
+  "Caragele 1 DJ 203 I": null,
+  "Caragele 2 DJ 214 A": null,
+  "Casota": null,
+  "Cernăteşti": [
+    45.2640539,
+    26.7600554
+  ],
+  "Chiliile Primărie": null,
+  "Chiliile Școală": null,
+  "Chiojdu Mușoiu": null,
+  "Chiojdu Petrescu": null,
+  "Chiojdu Primărie": null,
+  "Cilibia": [
+    45.0601851,
+    27.0652939
+  ],
+  "Cilibia gară": [
+    45.0431648,
+    27.0216953
+  ],
+  "Cioranca": [
+    44.9875282,
+    26.7162662
+  ],
+  "Ciuta": [
+    45.2615253,
+    26.5224895
+  ],
+  "Clondiru de sus (Ghitcu)": [
+    45.0984349,
+    26.5934104
+  ],
+  "Coconari": [
+    45.2459957,
+    26.8773715
+  ],
+  "Colţi": [
+    45.3777772,
+    26.3907327
+  ],
+  "Colțăneni": null,
+  "Corbu": null,
+  "Corbu Centru": null,
+  "Corbu Cătun": null,
+  "Corbu Tronari": null,
+  "Costeşti Consiliul Local": [
+    45.0545515,
+    26.7651614
+  ],
+  "Costeşti Școală": [
+    45.0474543,
+    26.7588413
+  ],
+  "Costieni": [
+    45.2784355,
+    27.0415479
+  ],
+  "Costomiru": [
+    45.4590489,
+    26.8574833
+  ],
+  "Cotorca": null,
+  "Cozieni": [
+    45.3309668,
+    26.4906295
+  ],
+  "Cozieni Consiliu": null,
+  "Cremenea": [
+    45.0265692,
+    26.7975987
+  ],
+  "Cristineşti": null,
+  "Cuculeasa": [
+    45.2815203,
+    27.0073874
+  ],
+  "Câmpeni": [
+    44.9683628,
+    26.6305634
+  ],
+  "Câmpulungeanca": [
+    45.4510994,
+    26.8201302
+  ],
+  "Cîndeşti (Biserică)": null,
+  "Cîndeşti farmacie": null,
+  "Cîndeşti şcoală": null,
+  "Cîrligul Mare": null,
+  "Cîrligul Mic": null,
+  "Căldăruşanca": null,
+  "Căldărăşti": null,
+  "Călţuna": [
+    44.9627322,
+    26.9493523
+  ],
+  "Căneşti": [
+    45.3975777,
+    26.6027073
+  ],
+  "Căpăţîneşti": null,
+  "Cărpiniştea": [
+    45.3618337,
+    26.7667369
+  ],
+  "Cărătnău": [
+    45.4637686,
+    26.7563078
+  ],
+  "Cătina Primărie": null,
+  "Cătina Satic": null,
+  "Dara Ramificaţie": [
+    45.0992075,
+    26.6011277
+  ],
+  "Dealul Frumos": null,
+  "Dealul Sării": null,
+  "Dealul Viei": [
+    45.1133524,
+    26.6553115
+  ],
+  "Deduleşti": [
+    45.4700264,
+    26.9673743
+  ],
+  "Degeraţi": null,
+  "Dimiana": null,
+  "Dogari": [
+    45.4128453,
+    26.7563333
+  ],
+  "Dulbanu": null,
+  "Finţeşti": [
+    45.0881529,
+    26.4643468
+  ],
+  "Fișici": [
+    45.4022696,
+    26.4676767
+  ],
+  "Fudeni sere": null,
+  "Fulga": [
+    45.3301724,
+    26.7668672
+  ],
+  "Fundeni": [
+    45.2914112,
+    26.8802817
+  ],
+  "Fundeni Poliție": null,
+  "Furtuneşti": [
+    45.4620804,
+    26.4035323
+  ],
+  "Fântânele": [
+    45.1070799,
+    26.4997704
+  ],
+  "Ghergheasa Biserică": null,
+  "Ghergheasa Cap Traseu": null,
+  "Gherăseni": [
+    45.0252509,
+    26.7915955
+  ],
+  "Glodeanu Siliştea": null,
+  "Glodeanu Sărat": null,
+  "Glodu Petcari": [
+    45.4540039,
+    26.6271076
+  ],
+  "Goidești": [
+    45.4674136,
+    26.5046862
+  ],
+  "Golul Grabicina": null,
+  "Golul Grabicina Cap traseu": null,
+  "Grebănu": [
+    45.3764509,
+    26.9824751
+  ],
+  "Greceanca Biserică": [
+    45.0759381,
+    26.5448904
+  ],
+  "Grunji ramificaţie": null,
+  "Gura Bâscei": [
+    45.2573373,
+    26.3597307
+  ],
+  "Gura Bădicului": [
+    45.5113167,
+    26.6299508
+  ],
+  "Gura Teghii": [
+    45.4844515,
+    26.4215899
+  ],
+  "Gura Ulmet": null,
+  "Gura Văii": [
+    45.3785759,
+    26.6636623
+  ],
+  "Gura Văii Cruce": null,
+  "Gägeni": [
+    45.0148173,
+    26.5859151
+  ],
+  "Gălbinaşi": [
+    45.0792289,
+    26.9395161
+  ],
+  "Heliade Rădulescu": [
+    45.2915143,
+    27.1205746
+  ],
+  "Hotar Pietroasele - Clondiru de Sus": [
+    45.0970874,
+    26.5871429
+  ],
+  "Ileana": [
+    45.1393033,
+    26.8149669
+  ],
+  "Istriţa de Jos": [
+    45.0537173,
+    26.5665679
+  ],
+  "Istriţa jos": [
+    45.0537173,
+    26.5665679
+  ],
+  "Ivanețu": [
+    45.4622668,
+    26.4917843
+  ],
+  "Izvoru Dulce": [
+    45.11153,
+    26.6321233
+  ],
+  "Izvorul Perilor": null,
+  "Jghiab": [
+    45.5239685,
+    26.6389469
+  ],
+  "Joseni": [
+    45.3122133,
+    26.6550637
+  ],
+  "Jurubești": [
+    45.4829414,
+    26.5965004
+  ],
+  "Lacu": [
+    45.4034348,
+    26.5296227
+  ],
+  "Lacu Sinaia": null,
+  "Lacuri ramificaţie": null,
+  "Lanuri": null,
+  "Lanuri ramificaţie": null,
+  "Lera": null,
+  "Limpeziş": [
+    44.9534619,
+    26.7019679
+  ],
+  "Lipănescu Ramificație": null,
+  "Livada": [
+    45.3818241,
+    26.9476417
+  ],
+  "Livada Mică": [
+    45.3903214,
+    26.9217221
+  ],
+  "Lopătari": [
+    45.4832312,
+    26.5925145
+  ],
+  "Luciu Moară": null,
+  "Luciu Parc": null,
+  "Luciu Primărie": null,
+  "Lunca": [
+    45.2966099,
+    26.3573673
+  ],
+  "Lunca Petrişorului": null,
+  "Lunca Priporului - Școală": null,
+  "Luncaşi": null,
+  "Luncile": [
+    45.496327,
+    26.5442824
+  ],
+  "Maxenu": [
+    45.0509055,
+    26.8558164
+  ],
+  "Merei Consiliul Local": null,
+  "Merei moară": null,
+  "Mihăileşti": null,
+  "Mihăileşti Cl. Local": null,
+  "Mitropolia": null,
+  "Moara Enica": null,
+  "Mocani": null,
+  "Moisica": [
+    44.9969033,
+    26.8924729
+  ],
+  "Motohani": null,
+  "Mucești Dănulești": [
+    45.5216051,
+    26.9293326
+  ],
+  "Mucești Dănulești Cap traseu": null,
+  "Mânzu": [
+    45.0621159,
+    27.0436858
+  ],
+  "Mânzăleşti": [
+    45.4886918,
+    26.6575332
+  ],
+  "Mărgineanu": null,
+  "Mărgăriteşti": [
+    45.4318306,
+    26.8386631
+  ],
+  "Mărgăriţi": [
+    45.3921841,
+    26.7592614
+  ],
+  "Mărunţişu": [
+    45.2860993,
+    26.3542081
+  ],
+  "Mărăcineni": [
+    45.1768567,
+    26.8246376
+  ],
+  "Mărăcineni ramificaţie": null,
+  "Măteşti": [
+    45.2133931,
+    26.7560674
+  ],
+  "Măteşti pod": null,
+  "Negoşina": [
+    45.3775753,
+    26.6109483
+  ],
+  "Nehoiașu Gara": [
+    45.4314069,
+    26.3059311
+  ],
+  "Nehoiu": [
+    45.41828,
+    26.3034818
+  ],
+  "Niculeşti": [
+    45.4380132,
+    26.7425206
+  ],
+  "Năeni": [
+    45.0932119,
+    26.4922657
+  ],
+  "Odăile": [
+    45.396531,
+    26.5363929
+  ],
+  "Ogrăzi ramificaţie": null,
+  "Ojasca spital": null,
+  "Oreavul terasă": null,
+  "Pardoşi": [
+    45.4545741,
+    26.8827343
+  ],
+  "Pestriţu": [
+    45.4883538,
+    26.5432744
+  ],
+  "Petrişoru Mustăţari": null,
+  "Petrişoru Școală": null,
+  "Piatra Albă": [
+    45.3801431,
+    26.5393612
+  ],
+  "Pietroasele Centru": [
+    45.0932508,
+    26.5784331
+  ],
+  "Pietroasele SCDVV (Pietroasa blocuri)": [
+    45.0862032,
+    26.5757078
+  ],
+  "Pietroasele şcoală": [
+    45.0904951,
+    26.5730161
+  ],
+  "Pietroiu": null,
+  "Pitulicea": null,
+  "Plaiul Nucului": null,
+  "Plevna": [
+    45.3781536,
+    27.0130976
+  ],
+  "Pleșești": [
+    45.2830751,
+    26.7036484
+  ],
+  "Ploștina": [
+    45.5144238,
+    26.5151047
+  ],
+  "Podu Muncii": [
+    45.4252706,
+    26.7443393
+  ],
+  "Podu Negru": null,
+  "Podul Bălan": null,
+  "Podul Muncii": [
+    45.4302568,
+    26.7723882
+  ],
+  "Pogoanele Abator": null,
+  "Pogoanele Brutărie": null,
+  "Pogoanele Centru": null,
+  "Pogoanele Electrica": null,
+  "Pogoanele Piaţă": null,
+  "Pogoanele Spital": null,
+  "Poiana Vîlcului": null,
+  "Poienile": [
+    45.2661413,
+    26.3553237
+  ],
+  "Policiori ramificaţie": null,
+  "Popas Merei": null,
+  "Potocenii de Jos": null,
+  "Potocenii de Sus": null,
+  "Potărnicheşti": [
+    45.2191377,
+    26.8612058
+  ],
+  "Poşta Cilibia": [
+    45.0672996,
+    27.0141221
+  ],
+  "Poşta Câlnău": [
+    45.2358365,
+    26.8677529
+  ],
+  "Poşta Școală": null,
+  "Prosca": [
+    45.0948974,
+    26.4825618
+  ],
+  "Prund Arselele - Jetu": null,
+  "Pruneni": [
+    45.3329796,
+    26.8432542
+  ],
+  "Păltineni": [
+    45.3955272,
+    26.321122
+  ],
+  "Păltiniş": [
+    45.4630132,
+    26.3732712
+  ],
+  "Pănătău ramificaţie": null,
+  "Părscov": [
+    45.2889214,
+    26.5461663
+  ],
+  "Pătârlagele Autogara": null,
+  "Pătârlagele centru": null,
+  "Racoviţeni Botești": null,
+  "Racoviţeni Moară": null,
+  "Racoviţeni Poliție": null,
+  "Rm. Sărat Autogara TUC SA": null,
+  "Rm. Sărat Autogara Valman Tur": null,
+  "Rm. Sărat autobază": null,
+  "Rm. Sărat cartier Barasca": null,
+  "Rm. Sărat pod": null,
+  "Robeşti": [
+    45.2956004,
+    26.5847526
+  ],
+  "Roiu": null,
+  "Roscoi": null,
+  "Rubla": [
+    45.353002,
+    27.0752528
+  ],
+  "Ruşeţu 3*": [
+    44.9575571,
+    27.2180788
+  ],
+  "Rîmnicelu": [
+    45.364083,
+    27.1066641
+  ],
+  "Saranga moara Rînceanu": [
+    45.0981931,
+    26.6120838
+  ],
+  "Sareni": [
+    45.482705,
+    26.6161796
+  ],
+  "Satu Nou": null,
+  "Scorţeanca": null,
+  "Scorţoasa": [
+    45.3613874,
+    26.6619951
+  ],
+  "Scutelnici": null,
+  "Scărişoara": [
+    45.221451,
+    26.3920528
+  ],
+  "Scărlăteşti": [
+    44.9720725,
+    27.1808702
+  ],
+  "Sg. Ionel Ștefan*": null,
+  "Sibiciu de Jos": [
+    45.3181786,
+    26.3772124
+  ],
+  "Sibiciu de Sus": [
+    45.3402243,
+    26.3574905
+  ],
+  "Sibiciu de Sus Cămin": null,
+  "Smeeni": [
+    44.9958675,
+    26.8586925
+  ],
+  "Smărdan": [
+    45.3821588,
+    27.0415583
+  ],
+  "Spătaru Gomoiești Ramificație": null,
+  "Spătaru Școală": null,
+  "Sudiţi Aliceni": null,
+  "Sudiți": [
+    45.0229761,
+    26.8100947
+  ],
+  "Sârbeşti": [
+    45.4768497,
+    26.703154
+  ],
+  "Sălcioara": [
+    45.3087383,
+    27.1769152
+  ],
+  "Sălcioara Centru": null,
+  "Sălcioara Dispensar": null,
+  "Sălcioara Pod": [
+    45.3118067,
+    27.1709733
+  ],
+  "Săpoca Pod": null,
+  "Săpoca Poliţie": null,
+  "Sărata": [
+    45.0603479,
+    26.6055831
+  ],
+  "Sările": [
+    45.5330367,
+    26.7506756
+  ],
+  "Sările ramificaţie": null,
+  "Săruleşti": [
+    45.4843746,
+    26.7661278
+  ],
+  "Sătuc": [
+    45.2792608,
+    26.6705279
+  ],
+  "Tainița": null,
+  "Tega": [
+    45.2761494,
+    26.3770304
+  ],
+  "Toca": null,
+  "Topliceni 1 Primărie": null,
+  "Trestioara": [
+    45.5031661,
+    26.6109393
+  ],
+  "Tronari Ramificație": null,
+  "Ulmeni": [
+    45.0816585,
+    26.6386822
+  ],
+  "Ulmeni Gară": [
+    45.0815382,
+    26.651517
+  ],
+  "Valea Fântânii": null,
+  "Valea Largă": [
+    45.5078413,
+    26.8754843
+  ],
+  "Valea Lupului": [
+    45.3509962,
+    26.3454632
+  ],
+  "Valea Puţului": [
+    45.1603615,
+    26.6644855
+  ],
+  "Valea Părului": [
+    45.3621581,
+    26.7754647
+  ],
+  "Valea Rîmnicului": null,
+  "Valea Salciei": [
+    45.4970408,
+    26.8258716
+  ],
+  "Valea Seacă": [
+    45.2771274,
+    26.3584069
+  ],
+  "Valea Verzii": null,
+  "Varlaam": [
+    45.5089008,
+    26.4415445
+  ],
+  "Vascu": null,
+  "Verneşti ( Troita)": [
+    45.2031769,
+    26.7341437
+  ],
+  "Verneşti Ginar": null,
+  "Vilcele": [
+    45.0878526,
+    26.6356364
+  ],
+  "Vintileanca": [
+    44.9815467,
+    26.5789965
+  ],
+  "Vintilă Vodă magazin COOP": null,
+  "Vintilă Vodă ocol": null,
+  "Vintilă Vodă ramificaţie": null,
+  "Vintilă Vodă spital": null,
+  "Viperești": [
+    45.2276934,
+    26.4634118
+  ],
+  "Vispesti": [
+    45.0972831,
+    26.5202356
+  ],
+  "Vizireni*": [
+    45.0476428,
+    27.1960184
+  ],
+  "Vâlcelele": null,
+  "Văcăreasca": null,
+  "Văleanca Vilănești": [
+    45.0920163,
+    26.5062908
+  ],
+  "Zaharești": [
+    45.2979357,
+    26.3758266
+  ],
+  "Ziduri": [
+    45.2854193,
+    27.0773992
+  ],
+  "Zilişteanca": [
+    45.2493483,
+    26.8697025
+  ],
+  "Zoița": [
+    45.2867506,
+    27.0229562
+  ],
+  "Zărneşti": [
+    45.2977942,
+    26.870929
+  ],
+  "Zărneşti Slănic": null,
+  "Zărneşti de Slănic": null,
+  "Şaranga magazin Paul": [
+    45.0962069,
+    26.613695
+  ],
+  "Şarânga Magazin Zaplaic": [
+    45.093861,
+    26.6091595
+  ],
+  "Şarânga Școală": [
+    45.0919437,
+    26.6122449
+  ],
+  "Șuchea": [
+    45.4106354,
+    26.5860825
+  ]
+}

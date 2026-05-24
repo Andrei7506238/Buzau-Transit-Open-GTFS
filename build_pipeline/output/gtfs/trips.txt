@@ -1,0 +1,541 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+001,12345,r001_e00_w,Pietroasele,0
+001,12345,r001_e00_b,Buzău Autogara Sud,1
+001,12345,r001_e01_w,Pietroasele,0
+001,12345,r001_e01_b,Buzău Autogara Sud,1
+001,1234567,r001_e02_w,Pietroasele,0
+001,1234567,r001_e02_b,Buzău Autogara Sud,1
+001,1234567,r001_e03_w,Pietroasele,0
+001,1234567,r001_e03_b,Buzău Autogara Sud,1
+001,1234567,r001_e04_w,Pietroasele,0
+001,1234567,r001_e04_b,Buzău Autogara Sud,1
+002,1234567,r002_e00_w,Vispeşti,0
+002,1234567,r002_e00_b,Buzău Autogara Sud,1
+002,1234567,r002_e01_w,Vispeşti,0
+002,1234567,r002_e01_b,Buzău Autogara Sud,1
+002,1234567,r002_e02_w,Vispeşti,0
+002,1234567,r002_e02_b,Buzău Autogara Sud,1
+002,1234567,r002_e03_w,Vispeşti,0
+002,1234567,r002_e03_b,Buzău Autogara Sud,1
+002,1234567,r002_e04_w,Vispeşti,0
+002,1234567,r002_e04_b,Buzău Autogara Sud,1
+002,1234567,r002_e05_w,Vispeşti,0
+002,1234567,r002_e05_b,Buzău Autogara Sud,1
+003,1234567,r003_e00_w,Năeni,0
+003,1234567,r003_e00_b,Buzău Autogara Sud,1
+003,12345,r003_e01_w,Năeni,0
+003,12345,r003_e01_b,Buzău Autogara Sud,1
+003,1234567,r003_e02_w,Năeni,0
+004,12345,r004_e00_w,Finţeşti,0
+004,12345,r004_e00_b,Buzău Autogara Marghiloman,1
+004,1234567,r004_e01_w,Finţeşti,0
+004,1234567,r004_e01_b,Buzău Autogara Marghiloman,1
+005,1234567,r005_e00_w,Clondiru,0
+005,1234567,r005_e00_b,Buzău Autogara Sud,1
+005,1234567,r005_e01_w,Clondiru,0
+005,1234567,r005_e01_b,Buzău Autogara Sud,1
+005,1234567,r005_e02_w,Clondiru,0
+005,1234567,r005_e02_b,Buzău Autogara Sud,1
+005,1234567,r005_e03_w,Clondiru,0
+005,1234567,r005_e03_b,Buzău Autogara Sud,1
+005,12345,r005_e04_w,Clondiru,0
+005,12345,r005_e04_b,Buzău Autogara Sud,1
+005,1234567,r005_e05_w,Clondiru,0
+005,1234567,r005_e05_b,Buzău Autogara Sud,1
+005,12345,r005_e06_w,Clondiru,0
+005,12345,r005_e06_b,Buzău Autogara Sud,1
+005,12345,r005_e07_w,Clondiru,0
+005,12345,r005_e07_b,Buzău Autogara Sud,1
+005,12345,r005_e08_w,Clondiru,0
+005,12345,r005_e08_b,Buzău Autogara Sud,1
+006,12345,r006_e00_w,Vintileanca,0
+006,12345,r006_e00_b,Buzău Autogara Sud,1
+006,12345,r006_e01_w,Vintileanca,0
+006,12345,r006_e01_b,Buzău Autogara Sud,1
+006,12345,r006_e02_w,Vintileanca,0
+006,12345,r006_e02_b,Buzău Autogara Sud,1
+007,12345_SCH,r007_e00_w,Buzău,0
+007,12345_SCH,r007_e00_b,Autogara Sud,1
+007,12345,r007_e01_w,Buzău,0
+007,12345,r007_e01_b,Autogara Sud,1
+007,123456_SCH,r007_e02_w,Buzău,0
+007,123456_SCH,r007_e02_b,Autogara Sud,1
+008,12345,r008_e00_w,Buzău,0
+008,12345,r008_e00_b,Autogara Sud,1
+008,123456,r008_e01_w,Buzău,0
+008,123456,r008_e01_b,Autogara Sud,1
+008,1234567,r008_e02_w,Buzău,0
+008,1234567,r008_e02_b,Autogara Sud,1
+008,1234567,r008_e03_w,Buzău,0
+008,1234567,r008_e03_b,Autogara Sud,1
+008,12345,r008_e04_w,Buzău,0
+008,12345,r008_e04_b,Autogara Sud,1
+008,12345,r008_e05_w,Buzău,0
+008,12345,r008_e05_b,Autogara Sud,1
+008,123456,r008_e06_w,Buzău,0
+008,123456,r008_e06_b,Autogara Sud,1
+008,123456,r008_e07_w,Buzău,0
+008,123456,r008_e07_b,Autogara Sud,1
+008,123456,r008_e08_w,Buzău,0
+008,123456,r008_e08_b,Autogara Sud,1
+008,1234567,r008_e09_w,Buzău,0
+008,1234567,r008_e09_b,Autogara Sud,1
+008,1234567,r008_e10_w,Buzău,0
+008,1234567,r008_e10_b,Autogara Sud,1
+008,1234567,r008_e11_w,Buzău,0
+008,1234567,r008_e11_b,Autogara Sud,1
+008,12345,r008_e12_w,Buzău,0
+008,12345,r008_e12_b,Autogara Sud,1
+008,1234567,r008_e13_w,Buzău,0
+008,1234567,r008_e13_b,Autogara Sud,1
+008,123456,r008_e14_w,Buzău,0
+008,123456,r008_e14_b,Autogara Sud,1
+008,1234567,r008_e15_w,Buzău,0
+008,1234567,r008_e15_b,Autogara Sud,1
+008,1234567,r008_e16_w,Buzău,0
+008,1234567,r008_e16_b,Autogara Sud,1
+009,12345,r009_e00_w,Buzău,0
+009,12345,r009_e00_b,Autogara Sud,1
+009,1234567,r009_e01_w,Buzău,0
+009,1234567,r009_e01_b,Autogara Sud,1
+009,12345,r009_e02_w,Buzău,0
+009,12345,r009_e02_b,Autogara Sud,1
+009,12345_SCH,r009_e03_w,Buzău,0
+009,12345_SCH,r009_e03_b,Autogara Sud,1
+009,1234567,r009_e04_w,Buzău,0
+009,1234567,r009_e04_b,Autogara Sud,1
+009,12345_SCH,r009_e05_w,Buzău,0
+009,12345_SCH,r009_e05_b,Autogara Sud,1
+010,1234567,r010_e00_w,Buzău,0
+010,1234567,r010_e00_b,Autogara Sud,1
+010,12345,r010_e01_w,Buzău,0
+010,12345,r010_e01_b,Autogara Sud,1
+010,12345_SCH,r010_e02_w,Buzău,0
+010,12345_SCH,r010_e02_b,Autogara Sud,1
+010,12345,r010_e03_w,Buzău,0
+010,12345,r010_e03_b,Autogara Sud,1
+010,123456,r010_e04_w,Buzău,0
+010,123456,r010_e04_b,Autogara Sud,1
+010,1234567,r010_e05_w,Buzău,0
+010,1234567,r010_e05_b,Autogara Sud,1
+010,123456,r010_e06_w,Buzău,0
+010,123456,r010_e06_b,Autogara Sud,1
+011,1234567,r011_e00_w,Buzău,0
+011,1234567,r011_e00_b,Autogara Sud,1
+011,1234567,r011_e01_w,Buzău,0
+011,1234567,r011_e01_b,Autogara Sud,1
+011,12345_SCH,r011_e02_w,Buzău,0
+011,12345_SCH,r011_e02_b,Autogara Sud,1
+011,1234567,r011_e03_w,Buzău,0
+011,1234567,r011_e03_b,Autogara Sud,1
+011,12345,r011_e04_w,Buzău,0
+011,12345,r011_e04_b,Autogara Sud,1
+012,123456,r012_e00_w,Buzău,0
+012,123456,r012_e00_b,Autogara Sud,1
+012,1234567,r012_e01_w,Buzău,0
+012,1234567,r012_e01_b,Autogara Sud,1
+012,12345,r012_e02_w,Buzău,0
+012,12345,r012_e02_b,Autogara Sud,1
+012,1234567,r012_e03_w,Buzău,0
+012,1234567,r012_e03_b,Autogara Sud,1
+012,123456,r012_e04_w,Buzău,0
+013,1234567,r013_e00_w,Satu Nou,0
+013,1234567,r013_e00_b,Buzău Autgara Sud,1
+013,1234567,r013_e01_w,Satu Nou,0
+013,1234567,r013_e01_b,Buzău Autgara Sud,1
+013,12345,r013_e02_w,Satu Nou,0
+013,12345,r013_e02_b,Buzău Autgara Sud,1
+013,1234567,r013_e03_w,Satu Nou,0
+013,1234567,r013_e03_b,Buzău Autgara Sud,1
+014,12345,r014_e00_w,Brăgăreasa,0
+014,12345,r014_e00_b,Buzău Autogara Sud,1
+014,12345,r014_e01_w,Brăgăreasa,0
+014,12345,r014_e01_b,Buzău Autogara Sud,1
+015,123456,r015_e00_w,Arcanu,0
+015,123456,r015_e00_b,Buzău Autogara Sud,1
+015,123456,r015_e01_w,Arcanu,0
+015,123456,r015_e01_b,Buzău Autogara Sud,1
+015,12345,r015_e02_w,Arcanu,0
+015,12345,r015_e02_b,Buzău Autogara Sud,1
+015,123456,r015_e03_w,Arcanu,0
+015,123456,r015_e03_b,Buzău Autogara Sud,1
+015,7,r015_e04_w,Arcanu,0
+015,7,r015_e04_b,Buzău Autogara Sud,1
+016,12345,r016_e00_w,Padina,0
+016,12345,r016_e00_b,Buzău Autogara Sud,1
+016,1234567,r016_e01_w,Padina,0
+016,1234567,r016_e01_b,Buzău Autogara Sud,1
+016,12345,r016_e02_w,Padina,0
+016,12345,r016_e02_b,Buzău Autogara Sud,1
+016,12345,r016_e03_w,Padina,0
+016,12345,r016_e03_b,Buzău Autogara Sud,1
+016,1234567,r016_e04_w,Padina,0
+016,1234567,r016_e04_b,Buzău Autogara Sud,1
+016,1234567,r016_e05_w,Padina,0
+016,1234567,r016_e05_b,Buzău Autogara Sud,1
+016,12345_SCH,r016_e06_w,Padina,0
+016,12345_SCH,r016_e06_b,Buzău Autogara Sud,1
+017,12345,r017_e00_w,Lunca,0
+017,12345,r017_e00_b,Buzău Autogara Sud,1
+017,123456,r017_e01_w,Lunca,0
+017,123456,r017_e01_b,Buzău Autogara Sud,1
+017,1234567,r017_e02_w,Lunca,0
+017,1234567,r017_e02_b,Buzău Autogara Sud,1
+017,123456,r017_e03_w,Lunca,0
+017,123456,r017_e03_b,Buzău Autogara Sud,1
+017,1234567,r017_e04_w,Lunca,0
+017,1234567,r017_e04_b,Buzău Autogara Sud,1
+017,12345,r017_e05_w,Lunca,0
+017,12345,r017_e05_b,Buzău Autogara Sud,1
+017,1234567,r017_e06_w,Lunca,0
+017,1234567,r017_e06_b,Buzău Autogara Sud,1
+017,12345,r017_e07_w,Lunca,0
+017,12345,r017_e07_b,Buzău Autogara Sud,1
+017,123456,r017_e08_w,Lunca,0
+017,123456,r017_e08_b,Buzău Autogara Sud,1
+017,1234567,r017_e09_w,Lunca,0
+017,1234567,r017_e09_b,Buzău Autogara Sud,1
+017,1234567,r017_e10_w,Lunca,0
+017,1234567,r017_e10_b,Buzău Autogara Sud,1
+017,12345,r017_e11_w,Lunca,0
+017,12345,r017_e11_b,Buzău Autogara Sud,1
+017,12345,r017_e12_w,Lunca,0
+017,12345,r017_e12_b,Buzău Autogara Sud,1
+017,1234567,r017_e13_w,Lunca,0
+017,1234567,r017_e13_b,Buzău Autogara Sud,1
+017,123456,r017_e14_w,Lunca,0
+017,123456,r017_e14_b,Buzău Autogara Sud,1
+018,123456,r018_e00_w,Ruşeţu,0
+018,123456,r018_e00_b,Buzău Autogara Sud,1
+018,1234567,r018_e01_w,Ruşeţu,0
+018,1234567,r018_e01_b,Buzău Autogara Sud,1
+018,1234567,r018_e02_w,Ruşeţu,0
+018,1234567,r018_e02_b,Buzău Autogara Sud,1
+018,12345,r018_e03_w,Ruşeţu,0
+018,12345,r018_e03_b,Buzău Autogara Sud,1
+018,1234567,r018_e04_w,Ruşeţu,0
+018,1234567,r018_e04_b,Buzău Autogara Sud,1
+018,1234567,r018_e05_w,Ruşeţu,0
+018,1234567,r018_e05_b,Buzău Autogara Sud,1
+018,12345,r018_e06_w,Ruşeţu,0
+018,12345,r018_e06_b,Buzău Autogara Sud,1
+018,1234567,r018_e07_w,Ruşeţu,0
+018,1234567,r018_e07_b,Buzău Autogara Sud,1
+018,1234567,r018_e08_w,Ruşeţu,0
+018,1234567,r018_e08_b,Buzău Autogara Sud,1
+018,123456,r018_e09_w,Ruşeţu,0
+018,123456,r018_e09_b,Buzău Autogara Sud,1
+019,12345_SCH,r019_e00_w,Ruşeţu,0
+019,12345_SCH,r019_e00_b,Buzău Autogara Sud,1
+019,12345,r019_e01_w,Ruşeţu,0
+019,12345,r019_e01_b,Buzău Autogara Sud,1
+021,1234567,r021_e00_w,Buzău,0
+021,1234567,r021_e00_b,Autogara XXL,1
+021,1234567,r021_e01_w,Buzău,0
+021,1234567,r021_e01_b,Autogara XXL,1
+021,12345_SCH,r021_e02_w,Buzău,0
+021,12345_SCH,r021_e02_b,Autogara XXL,1
+021,1234567,r021_e03_w,Buzău,0
+021,1234567,r021_e03_b,Autogara XXL,1
+021,12345,r021_e04_w,Buzău,0
+021,12345,r021_e04_b,Autogara XXL,1
+021,1234567,r021_e05_w,Buzău,0
+021,1234567,r021_e05_b,Autogara XXL,1
+021,1234567,r021_e06_w,Buzău,0
+021,1234567,r021_e06_b,Autogara XXL,1
+022,12345,r022_e00_w,Rm. Sărat Autogara Valman Tur,0
+022,12345,r022_e00_b,Buzău Autogara XXL,1
+022,1234567,r022_e01_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e01_b,Buzău Autogara XXL,1
+022,12345,r022_e02_w,Rm. Sărat Autogara Valman Tur,0
+022,12345,r022_e02_b,Buzău Autogara XXL,1
+022,1234567,r022_e03_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e03_b,Buzău Autogara XXL,1
+022,12345,r022_e04_w,Rm. Sărat Autogara Valman Tur,0
+022,12345,r022_e04_b,Buzău Autogara XXL,1
+022,12345,r022_e05_w,Rm. Sărat Autogara Valman Tur,0
+022,12345,r022_e05_b,Buzău Autogara XXL,1
+022,1234567,r022_e06_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e06_b,Buzău Autogara XXL,1
+022,1234567,r022_e07_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e07_b,Buzău Autogara XXL,1
+022,1234567,r022_e08_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e08_b,Buzău Autogara XXL,1
+022,1234567,r022_e09_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e09_b,Buzău Autogara XXL,1
+022,1234567,r022_e10_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e10_b,Buzău Autogara XXL,1
+022,1234567,r022_e11_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e11_b,Buzău Autogara XXL,1
+022,12345,r022_e12_w,Rm. Sărat Autogara Valman Tur,0
+022,12345,r022_e12_b,Buzău Autogara XXL,1
+022,1234567,r022_e13_w,Rm. Sărat Autogara Valman Tur,0
+022,1234567,r022_e13_b,Buzău Autogara XXL,1
+022,12345,r022_e14_w,Rm. Sărat Autogara Valman Tur,0
+023,123456,r023_e00_w,Buzău,0
+023,123456,r023_e00_b,Autogara XXL,1
+023,12345,r023_e01_w,Buzău,0
+023,12345,r023_e01_b,Autogara XXL,1
+023,123456,r023_e02_w,Buzău,0
+023,123456,r023_e02_b,Autogara XXL,1
+023,1234567,r023_e03_w,Buzău,0
+023,1234567,r023_e03_b,Autogara XXL,1
+023,7,r023_e04_w,Buzău,0
+023,7,r023_e04_b,Autogara XXL,1
+024,12345_SCH,r024_e00_w,Buzău,0
+024,12345_SCH,r024_e00_b,Autogara XXL,1
+024,12345,r024_e01_w,Buzău,0
+024,12345,r024_e01_b,Autogara XXL,1
+025,1234567,r025_e00_w,Buzău,0
+025,1234567,r025_e00_b,Autogara XXL,1
+025,1234567,r025_e01_w,Buzău,0
+025,1234567,r025_e01_b,Autogara XXL,1
+025,1234567,r025_e02_w,Buzău,0
+025,1234567,r025_e02_b,Autogara XXL,1
+025,12345_SCH,r025_e03_w,Buzău,0
+025,12345_SCH,r025_e03_b,Autogara XXL,1
+025,12345_SCH,r025_e04_w,Buzău,0
+025,12345_SCH,r025_e04_b,Autogara XXL,1
+025,1234567,r025_e05_w,Buzău,0
+025,1234567,r025_e05_b,Autogara XXL,1
+025,1234567,r025_e06_w,Buzău,0
+025,1234567,r025_e06_b,Autogara XXL,1
+025,1234567,r025_e07_w,Buzău,0
+025,1234567,r025_e07_b,Autogara XXL,1
+025,1234567,r025_e08_w,Buzău,0
+025,1234567,r025_e08_b,Autogara XXL,1
+026,1234567,r026_e00_w,Murgești,0
+026,1234567,r026_e00_b,Buzău Autogara XXL,1
+026,12345,r026_e01_w,Murgești,0
+026,12345,r026_e01_b,Buzău Autogara XXL,1
+026,1234567,r026_e02_w,Murgești,0
+026,1234567,r026_e02_b,Buzău Autogara XXL,1
+026,12345_SCH,r026_e03_w,Murgești,0
+026,12345_SCH,r026_e03_b,Buzău Autogara XXL,1
+026,12345,r026_e04_w,Murgești,0
+026,12345,r026_e04_b,Buzău Autogara XXL,1
+026,123456,r026_e05_w,Murgești,0
+026,123456,r026_e05_b,Buzău Autogara XXL,1
+026,123456,r026_e06_w,Murgești,0
+026,123456,r026_e06_b,Buzău Autogara XXL,1
+026,123456,r026_e07_w,Murgești,0
+026,123456,r026_e07_b,Buzău Autogara XXL,1
+027,1234567,r027_e00_w,Podu Muncii,0
+027,1234567,r027_e00_b,Buzău Autogara XXL,1
+027,12345,r027_e01_w,Podu Muncii,0
+027,12345,r027_e01_b,Buzău Autogara XXL,1
+027,1234567,r027_e02_w,Podu Muncii,0
+027,1234567,r027_e02_b,Buzău Autogara XXL,1
+027,1234567,r027_e03_w,Podu Muncii,0
+027,1234567,r027_e03_b,Buzău Autogara XXL,1
+028,12345,r028_e00_w,Buzău,0
+028,12345,r028_e00_b,Autogara XXL,1
+028,1234567,r028_e01_w,Buzău,0
+028,1234567,r028_e01_b,Autogara XXL,1
+028,7,r028_e02_w,Buzău,0
+028,7,r028_e02_b,Autogara XXL,1
+029,123456,r029_e00_w,Buzău,0
+029,123456,r029_e00_b,Autogara XXL,1
+032,12345,r032_e00_w,Nucului,0
+032,12345,r032_e00_b,Buzău Autogara XXL,1
+033,1234567,r033_e00_w,Buzău,0
+033,1234567,r033_e00_b,Autogara XXL,1
+033,1234567,r033_e01_w,Buzău,0
+033,1234567,r033_e01_b,Autogara XXL,1
+033,1234567,r033_e02_w,Buzău,0
+033,1234567,r033_e02_b,Autogara XXL,1
+034,1234567,r034_e00_w,Buzău,0
+034,1234567,r034_e00_b,Autogara XXL,1
+034,1234567,r034_e01_w,Buzău,0
+034,1234567,r034_e01_b,Autogara XXL,1
+034,12345,r034_e02_w,Buzău,0
+034,12345,r034_e02_b,Autogara XXL,1
+034,12345,r034_e03_w,Buzău,0
+034,12345,r034_e03_b,Autogara XXL,1
+034,67,r034_e04_w,Buzău,0
+034,67,r034_e04_b,Autogara XXL,1
+038,123456,r038_e00_w,Glodu Petcari,0
+038,123456,r038_e00_b,Buzău Autogara XXL,1
+038,123457,r038_e01_w,Glodu Petcari,0
+038,123457,r038_e01_b,Buzău Autogara XXL,1
+040,12345_SCH,r040_e00_w,Golul Grabicina,0
+040,12345_SCH,r040_e00_b,Buzău Autogara XXL,1
+040,1234567,r040_e01_w,Golul Grabicina,0
+040,1234567,r040_e01_b,Buzău Autogara XXL,1
+041,1234567,r041_e00_w,Negoşina,0
+041,1234567,r041_e01_w,Negoşina,0
+042,12345,r042_e00_w,Fișici,0
+042,12345,r042_e00_b,Buzău Autogara XXL,1
+043,12345,r043_e00_w,Piatra Albă,0
+043,12345,r043_e00_b,Buzău Autogara XXL,1
+044,12345,r044_e00_w,Buzău,0
+044,12345,r044_e00_b,Autogara XXL,1
+044,12345,r044_e01_w,Buzău,0
+044,12345,r044_e01_b,Autogara XXL,1
+044,1234567,r044_e02_w,Buzău,0
+044,1234567,r044_e02_b,Autogara XXL,1
+044,67,r044_e03_w,Buzău,0
+044,67,r044_e03_b,Autogara XXL,1
+045,12345,r045_e00_w,Nehoiu,0
+045,12345,r045_e00_b,Buzău Autogara XXL,1
+045,12345,r045_e01_w,Nehoiu,0
+045,12345,r045_e01_b,Buzău Autogara XXL,1
+045,12345,r045_e02_w,Nehoiu,0
+045,12345,r045_e02_b,Buzău Autogara XXL,1
+045,12345,r045_e03_w,Nehoiu,0
+045,12345,r045_e03_b,Buzău Autogara XXL,1
+045,6,r045_e04_w,Nehoiu,0
+045,6,r045_e04_b,Buzău Autogara XXL,1
+046,12345,r046_e00_w,Varlaam,0
+046,12345,r046_e00_b,Buzău Autogara XXL,1
+046,12345,r046_e01_w,Varlaam,0
+046,12345,r046_e01_b,Buzău Autogara XXL,1
+047,12345,r047_e00_w,Bâsca Chiojdului,0
+047,12345,r047_e00_b,Buzău Autogara XXL,1
+047,123457,r047_e01_w,Bâsca Chiojdului,0
+047,123457,r047_e01_b,Buzău Autogara XXL,1
+047,12345,r047_e02_w,Bâsca Chiojdului,0
+047,12345,r047_e02_b,Buzău Autogara XXL,1
+048,12345,r048_e00_w,Scărişoara,0
+048,12345,r048_e00_b,Pătârlagele Autogara,1
+048,123456,r048_e01_w,Scărişoara,0
+048,123456,r048_e01_b,Pătârlagele Autogara,1
+048,12345,r048_e02_w,Scărişoara,0
+048,12345,r048_e02_b,Pătârlagele Autogara,1
+048,12345,r048_e03_w,Scărişoara,0
+048,12345,r048_e03_b,Pătârlagele Autogara,1
+048,12345,r048_e04_w,Scărişoara,0
+048,12345,r048_e04_b,Pătârlagele Autogara,1
+048,12345_SCH,r048_e05_w,Scărişoara,0
+048,12345_SCH,r048_e05_b,Pătârlagele Autogara,1
+048,12345,r048_e06_w,Scărişoara,0
+048,12345,r048_e06_b,Pătârlagele Autogara,1
+049,12345_SCH,r049_e00_w,Colţi,0
+049,12345_SCH,r049_e00_b,Pătârlagele Autogara,1
+049,123456,r049_e01_w,Colţi,0
+049,123456,r049_e01_b,Pătârlagele Autogara,1
+049,123456,r049_e02_w,Colţi,0
+049,123456,r049_e02_b,Pătârlagele Autogara,1
+049,12345_SCH,r049_e03_w,Colţi,0
+049,12345_SCH,r049_e03_b,Pătârlagele Autogara,1
+050,12345,r050_e00_w,Tega,0
+050,12345,r050_e00_b,Pătârlagele Autogara,1
+050,12345,r050_e01_w,Tega,0
+051,12345,r051_e00_w,Lunca Jarștei,0
+051,12345,r051_e00_b,Pătârlagele Autogara,1
+051,7,r051_e01_w,Lunca Jarștei,0
+051,7,r051_e01_b,Pătârlagele Autogara,1
+051,12345,r051_e02_w,Lunca Jarștei,0
+051,12345,r051_e02_b,Pătârlagele Autogara,1
+051,12345,r051_e03_w,Lunca Jarștei,0
+051,12345,r051_e03_b,Pătârlagele Autogara,1
+051,12345,r051_e04_w,Lunca Jarștei,0
+051,12345,r051_e04_b,Pătârlagele Autogara,1
+051,12345_SCH,r051_e05_w,Lunca Jarștei,0
+051,12345_SCH,r051_e05_b,Pătârlagele Autogara,1
+052,12345,r052_e00_w,Varlaam,0
+052,12345,r052_e00_b,Pătârlagele Autogara,1
+052,12345,r052_e01_w,Varlaam,0
+052,12345,r052_e01_b,Pătârlagele Autogara,1
+052,7,r052_e02_w,Varlaam,0
+052,7,r052_e02_b,Pătârlagele Autogara,1
+052,12345,r052_e03_w,Varlaam,0
+052,12345,r052_e03_b,Pătârlagele Autogara,1
+052,12345,r052_e04_w,Varlaam,0
+052,12345,r052_e04_b,Pătârlagele Autogara,1
+052,12345,r052_e05_w,Varlaam,0
+052,12345,r052_e05_b,Pătârlagele Autogara,1
+052,12345,r052_e06_w,Varlaam,0
+052,12345,r052_e06_b,Pătârlagele Autogara,1
+052,7,r052_e07_w,Varlaam,0
+052,7,r052_e07_b,Pătârlagele Autogara,1
+053,12345_SCH,r053_e00_w,Bâsca Chiojdului,0
+053,12345_SCH,r053_e00_b,Nehoiu,1
+053,12345,r053_e01_w,Bâsca Chiojdului,0
+053,12345,r053_e01_b,Nehoiu,1
+053,12345_SCH,r053_e02_w,Bâsca Chiojdului,0
+053,12345_SCH,r053_e02_b,Nehoiu,1
+053,12345_SCH,r053_e03_w,Bâsca Chiojdului,0
+053,12345_SCH,r053_e03_b,Nehoiu,1
+054,12345_SCH,r054_e00_w,Bâscenii de Sus,0
+054,12345_SCH,r054_e00_b,Nehoiu,1
+054,1234567,r054_e01_w,Bâscenii de Sus,0
+054,1234567,r054_e01_b,Nehoiu,1
+054,12345,r054_e02_w,Bâscenii de Sus,0
+054,12345,r054_e02_b,Nehoiu,1
+054,12345_SCH,r054_e03_w,Bâscenii de Sus,0
+054,12345_SCH,r054_e03_b,Nehoiu,1
+054,12345_SCH,r054_e04_w,Bâscenii de Sus,0
+054,12345_SCH,r054_e04_b,Nehoiu,1
+054,6,r054_e05_w,Bâscenii de Sus,0
+054,6,r054_e05_b,Nehoiu,1
+055,1234567,r055_e00_w,Vâlcelele,0
+055,1234567,r055_e00_b,Rm. Sărat Autogara TUC SA,1
+055,12345_SCH,r055_e01_w,Vâlcelele,0
+055,12345_SCH,r055_e01_b,Rm. Sărat Autogara TUC SA,1
+055,1234567,r055_e02_w,Vâlcelele,0
+055,1234567,r055_e02_b,Rm. Sărat Autogara TUC SA,1
+055,1234567,r055_e03_w,Vâlcelele,0
+055,1234567,r055_e03_b,Rm. Sărat Autogara TUC SA,1
+055,12345_SCH,r055_e04_w,Vâlcelele,0
+055,12345_SCH,r055_e04_b,Rm. Sărat Autogara TUC SA,1
+055,1234567,r055_e05_w,Vâlcelele,0
+055,1234567,r055_e05_b,Rm. Sărat Autogara TUC SA,1
+055,12345_SCH,r055_e06_w,Vâlcelele,0
+055,12345_SCH,r055_e06_b,Rm. Sărat Autogara TUC SA,1
+056,1234567,r056_e00_w,I. H. Rădulescu,0
+056,1234567,r056_e00_b,Rm. Sărat Autogara TUC SA,1
+056,1234567,r056_e01_w,I. H. Rădulescu,0
+056,1234567,r056_e01_b,Rm. Sărat Autogara TUC SA,1
+056,12345_SCH,r056_e02_w,I. H. Rădulescu,0
+056,12345_SCH,r056_e02_b,Rm. Sărat Autogara TUC SA,1
+056,1234567,r056_e03_w,I. H. Rădulescu,0
+056,1234567,r056_e03_b,Rm. Sărat Autogara TUC SA,1
+057,12345_SCH,r057_e00_w,Cuculeasa,0
+057,12345_SCH,r057_e00_b,Rm. Sărat Autogara TUC SA,1
+057,12345_SCH,r057_e01_w,Cuculeasa,0
+057,12345_SCH,r057_e01_b,Rm. Sărat Autogara TUC SA,1
+057,12345_SCH,r057_e02_w,Cuculeasa,0
+057,12345_SCH,r057_e02_b,Rm. Sărat Autogara TUC SA,1
+058,123456,r058_e00_w,Bălăceanu,0
+058,123456,r058_e00_b,Rm. Sărat Autogara TUC SA,1
+058,123456,r058_e01_w,Bălăceanu,0
+058,123456,r058_e01_b,Rm. Sărat Autogara TUC SA,1
+058,123456,r058_e02_w,Bălăceanu,0
+058,123456,r058_e02_b,Rm. Sărat Autogara TUC SA,1
+058,12345_SCH,r058_e03_w,Bălăceanu,0
+058,12345_SCH,r058_e03_b,Rm. Sărat Autogara TUC SA,1
+059,123456,r059_e00_w,Ghergheasa,0
+059,123456,r059_e00_b,Rm. Sărat Autogara TUC SA,1
+059,12345_SCH,r059_e01_w,Ghergheasa,0
+059,12345_SCH,r059_e01_b,Rm. Sărat Autogara TUC SA,1
+059,1234567,r059_e02_w,Ghergheasa,0
+059,1234567,r059_e02_b,Rm. Sărat Autogara TUC SA,1
+059,123456,r059_e03_w,Ghergheasa,0
+059,123456,r059_e03_b,Rm. Sărat Autogara TUC SA,1
+059,1234567,r059_e04_w,Ghergheasa,0
+059,1234567,r059_e04_b,Rm. Sărat Autogara TUC SA,1
+059,12345_SCH,r059_e05_w,Ghergheasa,0
+059,12345_SCH,r059_e05_b,Rm. Sărat Autogara TUC SA,1
+059,1234567,r059_e06_w,Ghergheasa,0
+059,1234567,r059_e06_b,Rm. Sărat Autogara TUC SA,1
+059,12345_SCH,r059_e07_w,Ghergheasa,0
+059,12345_SCH,r059_e07_b,Rm. Sărat Autogara TUC SA,1
+060,1234567,r060_e00_w,Costomiru,0
+060,1234567,r060_e00_b,Rm. Sărat Autogara TUC SA,1
+060,1234567,r060_e01_w,Costomiru,0
+060,1234567,r060_e01_b,Rm. Sărat Autogara TUC SA,1
+062,1234567,r062_e00_w,Mucești-Dănulești,0
+062,1234567,r062_e00_b,Rm. Sărat Autogara TUC SA,1
+062,1234567,r062_e01_w,Mucești-Dănulești,0
+062,1234567,r062_e01_b,Rm. Sărat Autogara TUC SA,1
+062,1234567,r062_e02_w,Mucești-Dănulești,0
+062,1234567,r062_e02_b,Rm. Sărat Autogara TUC SA,1
+062,123456_SCH,r062_e03_w,Mucești-Dănulești,0
+062,123456_SCH,r062_e03_b,Rm. Sărat Autogara TUC SA,1
+062,1234567,r062_e04_w,Mucești-Dănulești,0
+062,1234567,r062_e04_b,Rm. Sărat Autogara TUC SA,1
+062,12345_SCH,r062_e05_w,Mucești-Dănulești,0
+062,12345_SCH,r062_e05_b,Rm. Sărat Autogara TUC SA,1
+063,57,r063_e00_w,Valea Salciei,0
+063,57,r063_e00_b,Rm. Sărat Autogara TUC SA,1

@@ -1,0 +1,6278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.91665787158913,
+          45.51332161239949
+        ]
+      },
+      "properties": {
+        "name": "Al. Odobescu 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.92593173465082,
+          45.51703026854177
+        ]
+      },
+      "properties": {
+        "name": "Al. Odobescu 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9254914,
+          44.9904188
+        ]
+      },
+      "properties": {
+        "name": "Albeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7567622,
+          45.3191323
+        ]
+      },
+      "properties": {
+        "name": "Aldeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.750718245822586,
+          45.30970699589885
+        ]
+      },
+      "properties": {
+        "name": "Aldeni magazin",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7044857027177,
+          45.25300587566137
+        ]
+      },
+      "properties": {
+        "name": "Amaru",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6794936,
+          45.479389
+        ]
+      },
+      "properties": {
+        "name": "Apostari",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8297906,
+          45.1437355
+        ]
+      },
+      "properties": {
+        "name": "Autogara Sud",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81467,
+          45.16275
+        ]
+      },
+      "properties": {
+        "name": "Autogara XXL",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2848285,
+          45.3046294
+        ]
+      },
+      "properties": {
+        "name": "Balta Albă",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6975616,
+          45.4047559
+        ]
+      },
+      "properties": {
+        "name": "Balta Tocila",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8777191,
+          45.4116623
+        ]
+      },
+      "properties": {
+        "name": "Batogu",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.769004,
+          45.3821003
+        ]
+      },
+      "properties": {
+        "name": "Beceni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7107282,
+          45.3754504
+        ]
+      },
+      "properties": {
+        "name": "Beciu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.972864476443565,
+          45.06613282257857
+        ]
+      },
+      "properties": {
+        "name": "Bentu",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70668148974117,
+          45.18765193963518
+        ]
+      },
+      "properties": {
+        "name": "Berca Consiliul Local",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Berca ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6728979,
+          45.4838587
+        ]
+      },
+      "properties": {
+        "name": "Beşlii",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.706427,
+          45.5422326
+        ]
+      },
+      "properties": {
+        "name": "Bisoca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.695415175853675,
+          45.159409328707596
+        ]
+      },
+      "properties": {
+        "name": "Bisocuţa",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.973232478995758,
+          45.19733476952863
+        ]
+      },
+      "properties": {
+        "name": "Boboc 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.981857411905153,
+          45.19457320603632
+        ]
+      },
+      "properties": {
+        "name": "Boboc 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.98724323897735,
+          45.194673082651896
+        ]
+      },
+      "properties": {
+        "name": "Boboc 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9287514,
+          45.2094997
+        ]
+      },
+      "properties": {
+        "name": "Boboc Gară",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2402692,
+          45.3227859
+        ]
+      },
+      "properties": {
+        "name": "Boldu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.48753288493118,
+          45.37380043898321
+        ]
+      },
+      "properties": {
+        "name": "Bozioru 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.678062549303483,
+          45.35261973772845
+        ]
+      },
+      "properties": {
+        "name": "Bozioru 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.533369427226898,
+          45.08588887131609
+        ]
+      },
+      "properties": {
+        "name": "Breaza 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.528572654628206,
+          45.091790238359906
+        ]
+      },
+      "properties": {
+        "name": "Breaza 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.032600302805175,
+          45.226239945540875
+        ]
+      },
+      "properties": {
+        "name": "Brădeanu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5102517,
+          45.4303432
+        ]
+      },
+      "properties": {
+        "name": "Brăeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4826606,
+          45.4687135
+        ]
+      },
+      "properties": {
+        "name": "Brătileşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.904375143659582,
+          45.493924868872575
+        ]
+      },
+      "properties": {
+        "name": "Buda 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.904791528010037,
+          45.49965796414828
+        ]
+      },
+      "properties": {
+        "name": "Buda 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7857023,
+          45.0436425
+        ]
+      },
+      "properties": {
+        "name": "Budişteni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8297906,
+          45.1437355
+        ]
+      },
+      "properties": {
+        "name": "Buzău Autogara Sud",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81467,
+          45.16275
+        ]
+      },
+      "properties": {
+        "name": "Buzău Autogara XXL",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.80521752465242,
+          45.1593276060241
+        ]
+      },
+      "properties": {
+        "name": "Buzău Chimica",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81751925761401,
+          45.13259359911651
+        ]
+      },
+      "properties": {
+        "name": "Buzău Cimitirul Evreiesc",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81543,
+          45.15639
+        ]
+      },
+      "properties": {
+        "name": "Buzău Clubul poliţiştilor",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8247176,
+          45.1431646
+        ]
+      },
+      "properties": {
+        "name": "Buzău Drăgaică",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7874379,
+          45.1640185
+        ]
+      },
+      "properties": {
+        "name": "Buzău Fabrica de bere",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81241650220888,
+          45.14256509770199
+        ]
+      },
+      "properties": {
+        "name": "Buzău Intersecţie str. Independenţei",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78924361919562,
+          45.13629036495566
+        ]
+      },
+      "properties": {
+        "name": "Buzău Intersecţie str.Independenţei",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.84514385912905,
+          45.142378596749175
+        ]
+      },
+      "properties": {
+        "name": "Buzău Mariage IPIC CF",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.852486585298603,
+          45.137335869158356
+        ]
+      },
+      "properties": {
+        "name": "Buzău Metalurgica",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.771224904873584,
+          45.1751824351357
+        ]
+      },
+      "properties": {
+        "name": "Buzău Presim",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.41,
+          45.3752
+        ]
+      },
+      "properties": {
+        "name": "Bâsca Chiojdului Cap traseu",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.412,
+          45.373
+        ]
+      },
+      "properties": {
+        "name": "Bâsca Chiojdului Magazin",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.646824604415684,
+          45.388389248615866
+        ]
+      },
+      "properties": {
+        "name": "Bâsceni",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.328118175365173,
+          45.24907987855097
+        ]
+      },
+      "properties": {
+        "name": "Bâscenii de Jos 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.309021525748513,
+          45.24657010879273
+        ]
+      },
+      "properties": {
+        "name": "Bâscenii de Jos 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13421173564297,
+          45.04866454448142
+        ]
+      },
+      "properties": {
+        "name": "Bîlhacu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.317595825137378,
+          45.44661560969676
+        ]
+      },
+      "properties": {
+        "name": "Bîsca Roziliei Guţoi",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3406591319169,
+          45.45520876544055
+        ]
+      },
+      "properties": {
+        "name": "Bîsca Roziliei Piață",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.34847068551211,
+          45.456100912570385
+        ]
+      },
+      "properties": {
+        "name": "Bîsca Roziliei Pod Vineţişu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.328334059858566,
+          45.45054061323809
+        ]
+      },
+      "properties": {
+        "name": "Bîsca Roziliei Școală",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.330532728964382,
+          45.249306241830595
+        ]
+      },
+      "properties": {
+        "name": "Bîscenii de Sus 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.345138413983243,
+          45.25303922537253
+        ]
+      },
+      "properties": {
+        "name": "Bîscenii de Sus 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895783496384382,
+          45.27050130569265
+        ]
+      },
+      "properties": {
+        "name": "Băbeni 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.968529294849567,
+          45.33235663460375
+        ]
+      },
+      "properties": {
+        "name": "Băbeni 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8304809,
+          45.0132154
+        ]
+      },
+      "properties": {
+        "name": "Bălaia",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1484056,
+          45.0090502
+        ]
+      },
+      "properties": {
+        "name": "Bălteni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13697,
+          45.24664
+        ]
+      },
+      "properties": {
+        "name": "Bălăceanu 1",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13697,
+          45.24664
+        ]
+      },
+      "properties": {
+        "name": "Bălăceanu Cap traseu",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4854676,
+          45.3408989
+        ]
+      },
+      "properties": {
+        "name": "Bălăneşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.164784,
+          45.0473971
+        ]
+      },
+      "properties": {
+        "name": "CA Rosetti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.29158,
+          45.25184
+        ]
+      },
+      "properties": {
+        "name": "Calvini Primărie",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.912700031141274,
+          45.0960312420947
+        ]
+      },
+      "properties": {
+        "name": "Caragele 1 DJ 203 I",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.89411669996628,
+          45.10880378103891
+        ]
+      },
+      "properties": {
+        "name": "Caragele 2 DJ 214 A",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7611134,
+          45.2549007
+        ]
+      },
+      "properties": {
+        "name": "Cernăteşti",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.59595106100691,
+          45.44486800563826
+        ]
+      },
+      "properties": {
+        "name": "Chiliile Primărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.60078950778342,
+          45.447445955448394
+        ]
+      },
+      "properties": {
+        "name": "Chiliile Școală",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.389941534013023,
+          45.37435413034778
+        ]
+      },
+      "properties": {
+        "name": "Chiojdu Mușoiu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.376533962804096,
+          45.36213304355818
+        ]
+      },
+      "properties": {
+        "name": "Chiojdu Petrescu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.38243875552871,
+          45.36778937020565
+        ]
+      },
+      "properties": {
+        "name": "Chiojdu Primărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.326394594647013,
+          45.370036165450756
+        ]
+      },
+      "properties": {
+        "name": "Chirlești 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.32315352520787,
+          45.3831095022681
+        ]
+      },
+      "properties": {
+        "name": "Chirlești 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0652939,
+          45.0601851
+        ]
+      },
+      "properties": {
+        "name": "Cilibia",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0216953,
+          45.0431648
+        ]
+      },
+      "properties": {
+        "name": "Cilibia gară",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7162662,
+          44.9875282
+        ]
+      },
+      "properties": {
+        "name": "Cioranca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.38548454125318,
+          45.234988239170484
+        ]
+      },
+      "properties": {
+        "name": "Cislău 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.37588500135268,
+          45.243732323707604
+        ]
+      },
+      "properties": {
+        "name": "Cislău 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5224895,
+          45.2615253
+        ]
+      },
+      "properties": {
+        "name": "Ciuta",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5934104,
+          45.0984349
+        ]
+      },
+      "properties": {
+        "name": "Clondiru de sus (Ghitcu)",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.033966056155815,
+          45.21072424106477
+        ]
+      },
+      "properties": {
+        "name": "Cochirleanca 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.040872700255168,
+          45.2067919865835
+        ]
+      },
+      "properties": {
+        "name": "Cochirleanca 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.058369222295706,
+          45.20813060120085
+        ]
+      },
+      "properties": {
+        "name": "Cochirleanca 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8773715,
+          45.2459957
+        ]
+      },
+      "properties": {
+        "name": "Coconari",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3907327,
+          45.3777772
+        ]
+      },
+      "properties": {
+        "name": "Colţi",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.360573059602814,
+          45.3217493974048
+        ]
+      },
+      "properties": {
+        "name": "Corbu Centru",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.36273063662312,
+          45.304484213717195
+        ]
+      },
+      "properties": {
+        "name": "Corbu Cătun",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.368974869287968,
+          45.32822686296347
+        ]
+      },
+      "properties": {
+        "name": "Corbu Tronari",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7651614,
+          45.0545515
+        ]
+      },
+      "properties": {
+        "name": "Costeşti Consiliul Local",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7588413,
+          45.0474543
+        ]
+      },
+      "properties": {
+        "name": "Costeşti Școală",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0415479,
+          45.2784355
+        ]
+      },
+      "properties": {
+        "name": "Costieni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8574833,
+          45.4590489
+        ]
+      },
+      "properties": {
+        "name": "Costomiru",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4906295,
+          45.3309668
+        ]
+      },
+      "properties": {
+        "name": "Cozieni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.486908354970133,
+          45.33255579480717
+        ]
+      },
+      "properties": {
+        "name": "Cozieni Consiliu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7975987,
+          45.0265692
+        ]
+      },
+      "properties": {
+        "name": "Cremenea",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.993823997971308,
+          45.37862082307533
+        ]
+      },
+      "properties": {
+        "name": "Cristineşti",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0073874,
+          45.2815203
+        ]
+      },
+      "properties": {
+        "name": "Cuculeasa",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6305634,
+          44.9683628
+        ]
+      },
+      "properties": {
+        "name": "Câmpeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8201302,
+          45.4510994
+        ]
+      },
+      "properties": {
+        "name": "Câmpulungeanca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.711066102979927,
+          45.244378305074484
+        ]
+      },
+      "properties": {
+        "name": "Cîndeşti (Biserică)",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70681698515581,
+          45.24788056506092
+        ]
+      },
+      "properties": {
+        "name": "Cîndeşti farmacie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.704471284735057,
+          45.253023186735234
+        ]
+      },
+      "properties": {
+        "name": "Cîndeşti şcoală",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6872766,
+          44.8814581
+        ]
+      },
+      "properties": {
+        "name": "Căldăruşanca",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.948663185168545,
+          44.96452242863011
+        ]
+      },
+      "properties": {
+        "name": "Călţuna",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6027073,
+          45.3975777
+        ]
+      },
+      "properties": {
+        "name": "Căneşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.805927973496747,
+          45.1818034022155
+        ]
+      },
+      "properties": {
+        "name": "Căpăţîneşti",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7667369,
+          45.3618337
+        ]
+      },
+      "properties": {
+        "name": "Cărpiniştea",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7563078,
+          45.4637686
+        ]
+      },
+      "properties": {
+        "name": "Cărătnău",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.355775667751036,
+          45.27864447371192
+        ]
+      },
+      "properties": {
+        "name": "Cătina Primărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.35372459478707,
+          45.28595834637957
+        ]
+      },
+      "properties": {
+        "name": "Cătina Satic",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Dara Ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.665341819540075,
+          45.37105870032716
+        ]
+      },
+      "properties": {
+        "name": "Dealul Frumos",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.774018773628523,
+          45.49293811811216
+        ]
+      },
+      "properties": {
+        "name": "Dealul Sării",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6553115,
+          45.1133524
+        ]
+      },
+      "properties": {
+        "name": "Dealul Viei",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9673743,
+          45.4700264
+        ]
+      },
+      "properties": {
+        "name": "Deduleşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.760268877696745,
+          45.399268265810186
+        ]
+      },
+      "properties": {
+        "name": "Dimiana",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7563333,
+          45.4128453
+        ]
+      },
+      "properties": {
+        "name": "Dogari",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4643468,
+          45.0881529
+        ]
+      },
+      "properties": {
+        "name": "Finţeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4676767,
+          45.4022696
+        ]
+      },
+      "properties": {
+        "name": "Fișici",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.879061446597774,
+          45.30525995571472
+        ]
+      },
+      "properties": {
+        "name": "Fudeni sere",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.770961321175943,
+          45.33750261357772
+        ]
+      },
+      "properties": {
+        "name": "Fulga",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8802817,
+          45.2914112
+        ]
+      },
+      "properties": {
+        "name": "Fundeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.879836867356712,
+          45.29602549649654
+        ]
+      },
+      "properties": {
+        "name": "Fundeni Poliție",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4035323,
+          45.4620804
+        ]
+      },
+      "properties": {
+        "name": "Furtuneşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4997704,
+          45.1070799
+        ]
+      },
+      "properties": {
+        "name": "Fântânele",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2063,
+          45.26916
+        ]
+      },
+      "properties": {
+        "name": "Ghergheasa Biserică",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2063,
+          45.26916
+        ]
+      },
+      "properties": {
+        "name": "Ghergheasa Cap Traseu",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7915955,
+          45.0252509
+        ]
+      },
+      "properties": {
+        "name": "Gherăseni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.774652462517416,
+          45.07624621089712
+        ]
+      },
+      "properties": {
+        "name": "Glodeanu Sărat",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6271076,
+          45.4540039
+        ]
+      },
+      "properties": {
+        "name": "Glodu Petcari",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5046862,
+          45.4674136
+        ]
+      },
+      "properties": {
+        "name": "Goidești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9824751,
+          45.3764509
+        ]
+      },
+      "properties": {
+        "name": "Grebănu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5384828,
+          45.0835655
+        ]
+      },
+      "properties": {
+        "name": "Greceanca 2",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5448904,
+          45.0759381
+        ]
+      },
+      "properties": {
+        "name": "Greceanca Biserică",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Grunji ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3597307,
+          45.2573373
+        ]
+      },
+      "properties": {
+        "name": "Gura Bâscei",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6299508,
+          45.5113167
+        ]
+      },
+      "properties": {
+        "name": "Gura Bădicului",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4215899,
+          45.4844515
+        ]
+      },
+      "properties": {
+        "name": "Gura Teghii",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": "⚠️ speed-warning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4710634938162,
+          45.35615235692333
+        ]
+      },
+      "properties": {
+        "name": "Gura Ulmet",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6636623,
+          45.3785759
+        ]
+      },
+      "properties": {
+        "name": "Gura Văii",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.666203518140286,
+          45.37609143106691
+        ]
+      },
+      "properties": {
+        "name": "Gura Văii Cruce",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5859151,
+          45.0148173
+        ]
+      },
+      "properties": {
+        "name": "Gägeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9395161,
+          45.0792289
+        ]
+      },
+      "properties": {
+        "name": "Gălbinaşi",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1205746,
+          45.2915143
+        ]
+      },
+      "properties": {
+        "name": "Heliade Rădulescu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5871429,
+          45.0970874
+        ]
+      },
+      "properties": {
+        "name": "Hotar Pietroasele - Clondiru de Sus",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8149669,
+          45.1393033
+        ]
+      },
+      "properties": {
+        "name": "Ileana",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5665679,
+          45.0537173
+        ]
+      },
+      "properties": {
+        "name": "Istriţa de Jos",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5665679,
+          45.0537173
+        ]
+      },
+      "properties": {
+        "name": "Istriţa jos",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4917843,
+          45.4622668
+        ]
+      },
+      "properties": {
+        "name": "Ivanețu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6321233,
+          45.11153
+        ]
+      },
+      "properties": {
+        "name": "Izvoru Dulce",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.767997800351715,
+          45.342923750071094
+        ]
+      },
+      "properties": {
+        "name": "Izvoru Dulce 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.766852792272964,
+          45.345383308972714
+        ]
+      },
+      "properties": {
+        "name": "Izvoru Dulce 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.768227767006287,
+          45.35330293136389
+        ]
+      },
+      "properties": {
+        "name": "Izvoru Dulce 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.306770749365587,
+          45.247014564691874
+        ]
+      },
+      "properties": {
+        "name": "Izvorul Perilor",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6389469,
+          45.5239685
+        ]
+      },
+      "properties": {
+        "name": "Jghiab",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.659895500000008,
+          45.326017600000014
+        ]
+      },
+      "properties": {
+        "name": "Joseni",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5965004,
+          45.4829414
+        ]
+      },
+      "properties": {
+        "name": "Jurubești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5296227,
+          45.4034348
+        ]
+      },
+      "properties": {
+        "name": "Lacu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.663501,
+          45.366813
+        ]
+      },
+      "properties": {
+        "name": "Lacu Sinaia",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Lacuri ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.09044204213515,
+          45.26989649223782
+        ]
+      },
+      "properties": {
+        "name": "Lanuri",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Lanuri ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.771628561856115,
+          45.20009644747659
+        ]
+      },
+      "properties": {
+        "name": "Largu 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75996749940497,
+          45.209378759072095
+        ]
+      },
+      "properties": {
+        "name": "Largu 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.751817570539146,
+          45.21820666945834
+        ]
+      },
+      "properties": {
+        "name": "Largu 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.359176514949002,
+          45.337903163676835
+        ]
+      },
+      "properties": {
+        "name": "Lera",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7019679,
+          44.9534619
+        ]
+      },
+      "properties": {
+        "name": "Limpeziş",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9476417,
+          45.3818241
+        ]
+      },
+      "properties": {
+        "name": "Livada",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9217221,
+          45.3903214
+        ]
+      },
+      "properties": {
+        "name": "Livada Mică",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5925145,
+          45.4832312
+        ]
+      },
+      "properties": {
+        "name": "Lopătari",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.842204793045706,
+          45.14440580990849
+        ]
+      },
+      "properties": {
+        "name": "Luciu Moară",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.816981420455384,
+          45.15784580200086
+        ]
+      },
+      "properties": {
+        "name": "Luciu Parc",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.831974709107072,
+          45.152197325986776
+        ]
+      },
+      "properties": {
+        "name": "Luciu Primărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2145629,
+          45.0053491
+        ]
+      },
+      "properties": {
+        "name": "Lunca",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.783385166201477,
+          45.16816259638735
+        ]
+      },
+      "properties": {
+        "name": "Lunca Frumoasă 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.86750441598963,
+          45.22860245614728
+        ]
+      },
+      "properties": {
+        "name": "Lunca Frumoasă 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.901538613579174,
+          45.27900542601075
+        ]
+      },
+      "properties": {
+        "name": "Lunca Petrişorului",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.307460868557907,
+          45.438003429698966
+        ]
+      },
+      "properties": {
+        "name": "Lunca Priporului - Școală",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2145629,
+          45.0053491
+        ]
+      },
+      "properties": {
+        "name": "Luncaşi",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5442824,
+          45.496327
+        ]
+      },
+      "properties": {
+        "name": "Luncile",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8558164,
+          45.0509055
+        ]
+      },
+      "properties": {
+        "name": "Maxenu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.672704918838573,
+          45.130045916862855
+        ]
+      },
+      "properties": {
+        "name": "Merei Consiliul Local",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.686446200000002,
+          45.1246323
+        ]
+      },
+      "properties": {
+        "name": "Merei moară",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6889277,
+          44.9172801
+        ]
+      },
+      "properties": {
+        "name": "Mihăileşti",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.35349623434878,
+          45.266589483985236
+        ]
+      },
+      "properties": {
+        "name": "Moara Enica",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.889113324749623,
+          45.382319462964126
+        ]
+      },
+      "properties": {
+        "name": "Mocani",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8895642,
+          44.9960204
+        ]
+      },
+      "properties": {
+        "name": "Moisica",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8185699,
+          45.1429542
+        ]
+      },
+      "properties": {
+        "name": "Motohani",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.689238406904757,
+          44.989407297942776
+        ]
+      },
+      "properties": {
+        "name": "Movila Banului 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.685913330147365,
+          44.985286937999504
+        ]
+      },
+      "properties": {
+        "name": "Movila Banului 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.681874779005607,
+          44.974244054500815
+        ]
+      },
+      "properties": {
+        "name": "Movila Banului 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9293326,
+          45.5216051
+        ]
+      },
+      "properties": {
+        "name": "Mucești Dănulești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8885211,
+          45.3846917
+        ]
+      },
+      "properties": {
+        "name": "Murgeşti 2",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8866749,
+          45.3952775
+        ]
+      },
+      "properties": {
+        "name": "Murgeşti 3",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8899903,
+          45.3764877
+        ]
+      },
+      "properties": {
+        "name": "Murgești 1",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0436858,
+          45.0621159
+        ]
+      },
+      "properties": {
+        "name": "Mânzu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6574897,
+          45.4868761
+        ]
+      },
+      "properties": {
+        "name": "Mânzăleşti",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.60012982973665,
+          45.27952913972812
+        ]
+      },
+      "properties": {
+        "name": "Măgura 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5838610241837,
+          45.28001310970881
+        ]
+      },
+      "properties": {
+        "name": "Măgura 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8386631,
+          45.4318306
+        ]
+      },
+      "properties": {
+        "name": "Mărgăriteşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7592614,
+          45.3921841
+        ]
+      },
+      "properties": {
+        "name": "Mărgăriţi",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3542081,
+          45.2860993
+        ]
+      },
+      "properties": {
+        "name": "Mărunţişu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8246376,
+          45.1768567
+        ]
+      },
+      "properties": {
+        "name": "Mărăcineni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Mărăcineni ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7560674,
+          45.2133931
+        ]
+      },
+      "properties": {
+        "name": "Măteşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7599,
+          45.2095
+        ]
+      },
+      "properties": {
+        "name": "Măteşti pod",
+        "source": "transbus",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6109483,
+          45.3775753
+        ]
+      },
+      "properties": {
+        "name": "Negoşina",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3059311,
+          45.4314069
+        ]
+      },
+      "properties": {
+        "name": "Nehoiașu Gara",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3034818,
+          45.41828
+        ]
+      },
+      "properties": {
+        "name": "Nehoiu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7425206,
+          45.4380132
+        ]
+      },
+      "properties": {
+        "name": "Niculeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4922657,
+          45.0932119
+        ]
+      },
+      "properties": {
+        "name": "Năeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5363929,
+          45.396531
+        ]
+      },
+      "properties": {
+        "name": "Odăile",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Ogrăzi ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.644424740725196,
+          45.27942296799195
+        ]
+      },
+      "properties": {
+        "name": "Ojasca spital",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.029464455363694,
+          45.37114159152277
+        ]
+      },
+      "properties": {
+        "name": "Oreavul terasă",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8827343,
+          45.4545741
+        ]
+      },
+      "properties": {
+        "name": "Pardoşi",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5432744,
+          45.4883538
+        ]
+      },
+      "properties": {
+        "name": "Pestriţu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8699349626071,
+          45.232235728437146
+        ]
+      },
+      "properties": {
+        "name": "Petrişoru Mustăţari",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.884263763126814,
+          45.253505816392426
+        ]
+      },
+      "properties": {
+        "name": "Petrişoru Școală",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5393612,
+          45.3801431
+        ]
+      },
+      "properties": {
+        "name": "Piatra Albă",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5784331,
+          45.0932508
+        ]
+      },
+      "properties": {
+        "name": "Pietroasele Centru",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5757078,
+          45.0862032
+        ]
+      },
+      "properties": {
+        "name": "Pietroasele SCDVV (Pietroasa blocuri)",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5730161,
+          45.0904951
+        ]
+      },
+      "properties": {
+        "name": "Pietroasele şcoală",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.924650567594572,
+          45.48185161478549
+        ]
+      },
+      "properties": {
+        "name": "Pietroiu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.732417146976392,
+          45.00960519066783
+        ]
+      },
+      "properties": {
+        "name": "Pitulicea",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0130976,
+          45.3781536
+        ]
+      },
+      "properties": {
+        "name": "Plevna",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.698670581326812,
+          45.260660537753566
+        ]
+      },
+      "properties": {
+        "name": "Pleşcoi 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.67455741010926,
+          45.28354930449178
+        ]
+      },
+      "properties": {
+        "name": "Pleşcoi 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7036484,
+          45.2830751
+        ]
+      },
+      "properties": {
+        "name": "Pleșești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5151047,
+          45.5144238
+        ]
+      },
+      "properties": {
+        "name": "Ploștina",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7443393,
+          45.4252706
+        ]
+      },
+      "properties": {
+        "name": "Podu Muncii",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.30531921888769,
+          45.44340508101394
+        ]
+      },
+      "properties": {
+        "name": "Podu Negru",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.41714259770584,
+          45.47433730548127
+        ]
+      },
+      "properties": {
+        "name": "Podul Bălan",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7723882,
+          45.4302568
+        ]
+      },
+      "properties": {
+        "name": "Podul Muncii",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9892039480909,
+          44.9255265229904
+        ]
+      },
+      "properties": {
+        "name": "Pogoanele Brutărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9921,
+          44.91425
+        ]
+      },
+      "properties": {
+        "name": "Pogoanele Centru",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0284491788043,
+          44.968885444941414
+        ]
+      },
+      "properties": {
+        "name": "Pogoanele Electrica",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.991318527714732,
+          44.917914975585
+        ]
+      },
+      "properties": {
+        "name": "Pogoanele Piaţă",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75429340520905,
+          45.26936281894245
+        ]
+      },
+      "properties": {
+        "name": "Poiana Vîlcului",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3553237,
+          45.2661413
+        ]
+      },
+      "properties": {
+        "name": "Poienile",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6658445,
+          45.3443649
+        ]
+      },
+      "properties": {
+        "name": "Policiori 1",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6658445,
+          45.3443649
+        ]
+      },
+      "properties": {
+        "name": "Policiori 2",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.665943,
+          45.344361
+        ]
+      },
+      "properties": {
+        "name": "Policiori ramificaţie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.695345520819842,
+          45.10096700056985
+        ]
+      },
+      "properties": {
+        "name": "Popas Merei",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.790762091996125,
+          45.190225560441085
+        ]
+      },
+      "properties": {
+        "name": "Potocenii de Jos",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.770813983281084,
+          45.20073267621625
+        ]
+      },
+      "properties": {
+        "name": "Potocenii de Sus",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8612058,
+          45.2191377
+        ]
+      },
+      "properties": {
+        "name": "Potărnicheşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0141221,
+          45.0672996
+        ]
+      },
+      "properties": {
+        "name": "Poşta Cilibia",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8677529,
+          45.2358365
+        ]
+      },
+      "properties": {
+        "name": "Poşta Câlnău",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6742963,
+          45.2874902
+        ]
+      },
+      "properties": {
+        "name": "Poşta Școală",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4825618,
+          45.0948974
+        ]
+      },
+      "properties": {
+        "name": "Prosca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.304380529259262,
+          45.44125930928351
+        ]
+      },
+      "properties": {
+        "name": "Prund Arselele - Jetu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8432542,
+          45.3329796
+        ]
+      },
+      "properties": {
+        "name": "Pruneni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.321122,
+          45.3955272
+        ]
+      },
+      "properties": {
+        "name": "Păltineni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3732712,
+          45.4630132
+        ]
+      },
+      "properties": {
+        "name": "Păltiniş",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "properties": {
+        "name": "Pănătău ramificaţie",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5461663,
+          45.2889214
+        ]
+      },
+      "properties": {
+        "name": "Părscov",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.70458220827167,
+          45.186279734358735
+        ]
+      },
+      "properties": {
+        "name": "Pătârlagele Autogara",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5784331,
+          45.0932508
+        ]
+      },
+      "properties": {
+        "name": "Pătârlagele centru",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.81656425695454,
+          45.16313252792478
+        ]
+      },
+      "properties": {
+        "name": "Racoviţeni Botești",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.85559733553864,
+          45.2109703873482
+        ]
+      },
+      "properties": {
+        "name": "Racoviţeni Moară",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.837511452388696,
+          45.18895859904645
+        ]
+      },
+      "properties": {
+        "name": "Racoviţeni Poliție",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0417,
+          45.38545
+        ]
+      },
+      "properties": {
+        "name": "Rm. Sărat Autogara TUC SA",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0417,
+          45.38545
+        ]
+      },
+      "properties": {
+        "name": "Rm. Sărat Autogara Valman Tur",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0417,
+          45.38545
+        ]
+      },
+      "properties": {
+        "name": "Rm. Sărat autobază",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.045,
+          45.382
+        ]
+      },
+      "properties": {
+        "name": "Rm. Sărat cartier Barasca",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.030147445527923,
+          45.37943462609972
+        ]
+      },
+      "properties": {
+        "name": "Rm. Sărat pod",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5847526,
+          45.2956004
+        ]
+      },
+      "properties": {
+        "name": "Robeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.942841942857722,
+          45.47581930681334
+        ]
+      },
+      "properties": {
+        "name": "Roiu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.411908321341695,
+          45.4705389054447
+        ]
+      },
+      "properties": {
+        "name": "Roscoi",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.079829873421364,
+          45.21335316554003
+        ]
+      },
+      "properties": {
+        "name": "Roşioru 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.084345512368518,
+          45.218050477692856
+        ]
+      },
+      "properties": {
+        "name": "Roşioru 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0752528,
+          45.353002
+        ]
+      },
+      "properties": {
+        "name": "Rubla",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.026878619028828,
+          45.0421857725754
+        ]
+      },
+      "properties": {
+        "name": "Ruşeţu 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.088016415907642,
+          44.96904384819529
+        ]
+      },
+      "properties": {
+        "name": "Ruşeţu 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2180788,
+          44.9575571
+        ]
+      },
+      "properties": {
+        "name": "Ruşeţu 3*",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1066641,
+          45.364083
+        ]
+      },
+      "properties": {
+        "name": "Rîmnicelu",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.848515510729182,
+          45.20043502250823
+        ]
+      },
+      "properties": {
+        "name": "Răducesti 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8278148461944,
+          45.178643491905305
+        ]
+      },
+      "properties": {
+        "name": "Răduceşti 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.86796574527614,
+          45.229287816344325
+        ]
+      },
+      "properties": {
+        "name": "Răduceşti 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6120838,
+          45.0981931
+        ]
+      },
+      "properties": {
+        "name": "Saranga moara Rînceanu",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6161796,
+          45.482705
+        ]
+      },
+      "properties": {
+        "name": "Sareni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6636696,
+          45.3668014
+        ]
+      },
+      "properties": {
+        "name": "Scorţeanca",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6636696,
+          45.3668014
+        ]
+      },
+      "properties": {
+        "name": "Scorţoasa",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1752971,
+          45.3089411
+        ]
+      },
+      "properties": {
+        "name": "Scărişoara",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7611134,
+          45.2549007
+        ]
+      },
+      "properties": {
+        "name": "Scărlăteşti",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3772124,
+          45.3181786
+        ]
+      },
+      "properties": {
+        "name": "Sibiciu de Jos",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3574905,
+          45.3402243
+        ]
+      },
+      "properties": {
+        "name": "Sibiciu de Sus",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.360867086310186,
+          45.34276041065287
+        ]
+      },
+      "properties": {
+        "name": "Sibiciu de Sus Cămin",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8590471,
+          44.9965797
+        ]
+      },
+      "properties": {
+        "name": "Smeeni",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0415583,
+          45.3821588
+        ]
+      },
+      "properties": {
+        "name": "Smărdan",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8899903,
+          45.3764877
+        ]
+      },
+      "properties": {
+        "name": "Soreşti 1",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8885211,
+          45.3846917
+        ]
+      },
+      "properties": {
+        "name": "Soreşti 2",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.77699499808449,
+          45.08728129328798
+        ]
+      },
+      "properties": {
+        "name": "Spătaru Gomoiești Ramificație",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.77879229777986,
+          45.09230556144071
+        ]
+      },
+      "properties": {
+        "name": "Spătaru Școală",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.937358328884905,
+          45.080219916643145
+        ]
+      },
+      "properties": {
+        "name": "Sudiţi Aliceni",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8744981,
+          45.2791944
+        ]
+      },
+      "properties": {
+        "name": "Sudiți",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.703154,
+          45.4768497
+        ]
+      },
+      "properties": {
+        "name": "Sârbeşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.519525957693272,
+          45.033971641095064
+        ]
+      },
+      "properties": {
+        "name": "Săhăteni 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.512655283340123,
+          45.04231236946787
+        ]
+      },
+      "properties": {
+        "name": "Săhăteni 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1752971,
+          45.3089411
+        ]
+      },
+      "properties": {
+        "name": "Sălcioara",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.17692,
+          45.30874
+        ]
+      },
+      "properties": {
+        "name": "Sălcioara Centru",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.17692,
+          45.30874
+        ]
+      },
+      "properties": {
+        "name": "Sălcioara Dispensar",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.17692,
+          45.30874
+        ]
+      },
+      "properties": {
+        "name": "Sălcioara Pod",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.69656908945631,
+          45.16162544424041
+        ]
+      },
+      "properties": {
+        "name": "Săpoca Pod",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72072983778154,
+          45.215436672624094
+        ]
+      },
+      "properties": {
+        "name": "Săpoca Poliţie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6055831,
+          45.0603479
+        ]
+      },
+      "properties": {
+        "name": "Sărata",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7506756,
+          45.5330367
+        ]
+      },
+      "properties": {
+        "name": "Sările",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.758951295406526,
+          45.40840356636015
+        ]
+      },
+      "properties": {
+        "name": "Sările ramificaţie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7661278,
+          45.4843746
+        ]
+      },
+      "properties": {
+        "name": "Săruleşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6678756,
+          45.2795662
+        ]
+      },
+      "properties": {
+        "name": "Sătuc",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.413,
+          45.478
+        ]
+      },
+      "properties": {
+        "name": "Tainița",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": "⚠️ speed-warning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3770304,
+          45.2761494
+        ]
+      },
+      "properties": {
+        "name": "Tega",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.33210091013995,
+          45.249408450109655
+        ]
+      },
+      "properties": {
+        "name": "Toca",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.69506892965304,
+          45.2628806418106
+        ]
+      },
+      "properties": {
+        "name": "Topliceni 1 Primărie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71446611654802,
+          45.23047271867184
+        ]
+      },
+      "properties": {
+        "name": "Topliceni 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.744392126165287,
+          45.19151714763976
+        ]
+      },
+      "properties": {
+        "name": "Topliceni 3",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8899903,
+          45.3764877
+        ]
+      },
+      "properties": {
+        "name": "Trestia 1",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8885211,
+          45.3846917
+        ]
+      },
+      "properties": {
+        "name": "Trestia 2",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6109393,
+          45.5031661
+        ]
+      },
+      "properties": {
+        "name": "Trestioara",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.43787822831143,
+          45.227470764725894
+        ]
+      },
+      "properties": {
+        "name": "Tronari Ramificație",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6386822,
+          45.0816585
+        ]
+      },
+      "properties": {
+        "name": "Ulmeni",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.651517,
+          45.0815382
+        ]
+      },
+      "properties": {
+        "name": "Ulmeni Gară",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.634128135866327,
+          45.28107798778804
+        ]
+      },
+      "properties": {
+        "name": "Unguriu 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.616225953586493,
+          45.279413753680466
+        ]
+      },
+      "properties": {
+        "name": "Unguriu 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.874817729083237,
+          45.31541604399232
+        ]
+      },
+      "properties": {
+        "name": "Vadu Soreşti 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.865978361263718,
+          45.32199772893416
+        ]
+      },
+      "properties": {
+        "name": "Vadu Soreşti 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8942775,
+          45.4139866
+        ]
+      },
+      "properties": {
+        "name": "Valea Fântânii",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8942775,
+          45.4139866
+        ]
+      },
+      "properties": {
+        "name": "Valea Largă",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3454632,
+          45.3509962
+        ]
+      },
+      "properties": {
+        "name": "Valea Lupului",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72466561273643,
+          45.211895693536086
+        ]
+      },
+      "properties": {
+        "name": "Valea Nucului 1",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71426452606145,
+          45.23204013531235
+        ]
+      },
+      "properties": {
+        "name": "Valea Nucului 2",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6644855,
+          45.1603615
+        ]
+      },
+      "properties": {
+        "name": "Valea Puţului",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7754647,
+          45.3621581
+        ]
+      },
+      "properties": {
+        "name": "Valea Părului",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.028,
+          45.365
+        ]
+      },
+      "properties": {
+        "name": "Valea Rîmnicului",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8942775,
+          45.4139866
+        ]
+      },
+      "properties": {
+        "name": "Valea Salciei",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3584069,
+          45.2771274
+        ]
+      },
+      "properties": {
+        "name": "Valea Seacă",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.633835583253,
+          45.39355453723208
+        ]
+      },
+      "properties": {
+        "name": "Valea Verzii",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4415445,
+          45.5089008
+        ]
+      },
+      "properties": {
+        "name": "Varlaam",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.36800415323362,
+          45.45701162403858
+        ]
+      },
+      "properties": {
+        "name": "Vascu",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7341437,
+          45.2031769
+        ]
+      },
+      "properties": {
+        "name": "Verneşti ( Troita)",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7289312,
+          45.203842
+        ]
+      },
+      "properties": {
+        "name": "Verneşti Ginar",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6356364,
+          45.0878526
+        ]
+      },
+      "properties": {
+        "name": "Vilcele",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5789965,
+          44.9815467
+        ]
+      },
+      "properties": {
+        "name": "Vintileanca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.733920297184884,
+          45.4651707711699
+        ]
+      },
+      "properties": {
+        "name": "Vintilă Vodă magazin COOP",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.723184321818078,
+          45.47132225705907
+        ]
+      },
+      "properties": {
+        "name": "Vintilă Vodă ocol",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.745061599379344,
+          45.463574405074276
+        ]
+      },
+      "properties": {
+        "name": "Vintilă Vodă ramificaţie",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.74164297508643,
+          45.458410825489935
+        ]
+      },
+      "properties": {
+        "name": "Vintilă Vodă spital",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4634118,
+          45.2276934
+        ]
+      },
+      "properties": {
+        "name": "Viperești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5202356,
+          45.0972831
+        ]
+      },
+      "properties": {
+        "name": "Vispesti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1960184,
+          45.0476428
+        ]
+      },
+      "properties": {
+        "name": "Vizireni*",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34854,
+          45.34461
+        ]
+      },
+      "properties": {
+        "name": "Vâlcelele",
+        "source": "manual",
+        "marker-color": "#ff8800",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5062908,
+          45.0920163
+        ]
+      },
+      "properties": {
+        "name": "Văleanca Vilănești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3758266,
+          45.2979357
+        ]
+      },
+      "properties": {
+        "name": "Zaharești",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0773992,
+          45.2854193
+        ]
+      },
+      "properties": {
+        "name": "Ziduri",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8697025,
+          45.2493483
+        ]
+      },
+      "properties": {
+        "name": "Zilişteanca",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0229562,
+          45.2867506
+        ]
+      },
+      "properties": {
+        "name": "Zoița",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.870929,
+          45.2977942
+        ]
+      },
+      "properties": {
+        "name": "Zărneşti",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.75315262899792,
+          45.27227555916891
+        ]
+      },
+      "properties": {
+        "name": "Zărneşti Slănic",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.753152627912833,
+          45.27227554947096
+        ]
+      },
+      "properties": {
+        "name": "Zărneşti de Slănic",
+        "source": "osrm_interpolated",
+        "marker-color": "#aa00aa",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.613695,
+          45.0962069
+        ]
+      },
+      "properties": {
+        "name": "Şaranga magazin Paul",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6091595,
+          45.093861
+        ]
+      },
+      "properties": {
+        "name": "Şarânga Magazin Zaplaic",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6122449,
+          45.0919437
+        ]
+      },
+      "properties": {
+        "name": "Şarânga Școală",
+        "source": "osm",
+        "marker-color": "#00aa00",
+        "marker-size": "small",
+        "note": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5860825,
+          45.4106354
+        ]
+      },
+      "properties": {
+        "name": "Șuchea",
+        "source": "nominatim",
+        "marker-color": "#0066ff",
+        "marker-size": "small",
+        "note": ""
+      }
+    }
+  ]
+}

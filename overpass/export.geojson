@@ -1,0 +1,5588 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-24T15:57:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472405879",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sătuc",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6678756,
+          45.2795662
+        ]
+      },
+      "id": "node/472405879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472406491",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "La Pod",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6771431,
+          45.2865945
+        ]
+      },
+      "id": "node/472406491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472407154",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "La Școală",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6742963,
+          45.2874902
+        ]
+      },
+      "id": "node/472407154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/503760903",
+        "highway": "bus_stop",
+        "name": "Hașdeu",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8248421,
+          45.1484201
+        ]
+      },
+      "id": "node/503760903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/525416815",
+        "highway": "bus_stop",
+        "name": "Scorțoasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6636696,
+          45.3668014
+        ]
+      },
+      "id": "node/525416815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/525416829",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Policiori",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6658445,
+          45.3443649
+        ]
+      },
+      "id": "node/525416829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/525416832",
+        "highway": "bus_stop",
+        "name": "Scorțoasa - Primărie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.662013,
+          45.3605719
+        ]
+      },
+      "id": "node/525416832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/526858098",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0390717,
+          45.3799586
+        ]
+      },
+      "id": "node/526858098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601053143",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7888095,
+          45.1632149
+        ]
+      },
+      "id": "node/601053143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787913727",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3774904,
+          45.2466692
+        ]
+      },
+      "id": "way/787913727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787955640",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0212964,
+          45.0431997
+        ]
+      },
+      "id": "way/787955640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787955642",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "gravel",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0212199,
+          45.0432747
+        ]
+      },
+      "id": "way/787955642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788679624",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8633553,
+          44.8142925
+        ]
+      },
+      "id": "way/788679624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809325667",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5817527,
+          45.2814433
+        ]
+      },
+      "id": "way/809325667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809927009",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.363893,
+          45.2589211
+        ]
+      },
+      "id": "way/809927009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812985470",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0728366,
+          45.0437137
+        ]
+      },
+      "id": "way/812985470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812985471",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0729739,
+          45.043665
+        ]
+      },
+      "id": "way/812985471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822332250",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3576649,
+          45.3243794
+        ]
+      },
+      "id": "way/822332250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822332252",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3576815,
+          45.3244499
+        ]
+      },
+      "id": "way/822332252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824669640",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5516302,
+          45.2787401
+        ]
+      },
+      "id": "way/824669640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472810",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9990486,
+          44.8844332
+        ]
+      },
+      "id": "way/825472810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472811",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9989728,
+          44.8844504
+        ]
+      },
+      "id": "way/825472811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472812",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9991446,
+          44.8846245
+        ]
+      },
+      "id": "way/825472812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937873",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0580246,
+          45.3792991
+        ]
+      },
+      "id": "way/832937873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937874",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0580189,
+          45.3797755
+        ]
+      },
+      "id": "way/832937874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937875",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.058228,
+          45.3792323
+        ]
+      },
+      "id": "way/832937875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833130923",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2018124,
+          44.9886703
+        ]
+      },
+      "id": "way/833130923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833130927",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2017364,
+          44.9887466
+        ]
+      },
+      "id": "way/833130927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835069344",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5185535,
+          45.0297925
+        ]
+      },
+      "id": "way/835069344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835069345",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5181525,
+          45.0295322
+        ]
+      },
+      "id": "way/835069345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835087650",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9353732,
+          44.8515885
+        ]
+      },
+      "id": "way/835087650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839731372",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.096054,
+          45.4421152
+        ]
+      },
+      "id": "way/839731372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846350637",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3624099,
+          45.2916137
+        ]
+      },
+      "id": "way/846350637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359647",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4559779,
+          45.2310286
+        ]
+      },
+      "id": "way/846359647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359648",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4897154,
+          45.2412366
+        ]
+      },
+      "id": "way/846359648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359655",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6181071,
+          45.282818
+        ]
+      },
+      "id": "way/846359655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359659",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6747923,
+          45.2782599
+        ]
+      },
+      "id": "way/846359659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359660",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6747985,
+          45.2781727
+        ]
+      },
+      "id": "way/846359660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846365296",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7319191,
+          45.2043544
+        ]
+      },
+      "id": "way/846365296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846377913",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7731797,
+          45.1667379
+        ]
+      },
+      "id": "way/846377913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419709",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8688096,
+          45.1213841
+        ]
+      },
+      "id": "way/846419709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419710",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8688233,
+          45.1211787
+        ]
+      },
+      "id": "way/846419710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419711",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8689205,
+          45.1213699
+        ]
+      },
+      "id": "way/846419711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849257868",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3477197,
+          45.3507423
+        ]
+      },
+      "id": "way/849257868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478779",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1514254,
+          45.0589243
+        ]
+      },
+      "id": "way/849478779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478780",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.151537,
+          45.059052
+        ]
+      },
+      "id": "way/849478780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478810",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1918211,
+          45.0666693
+        ]
+      },
+      "id": "way/849478810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478811",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1917417,
+          45.0667567
+        ]
+      },
+      "id": "way/849478811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063565",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0119219,
+          45.2853467
+        ]
+      },
+      "id": "way/859063565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063567",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0117676,
+          45.285326
+        ]
+      },
+      "id": "way/859063567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063568",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0116764,
+          45.2853742
+        ]
+      },
+      "id": "way/859063568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909001597",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2019877,
+          44.9889321
+        ]
+      },
+      "id": "way/909001597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909304049",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "gravel",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0214266,
+          45.0433221
+        ]
+      },
+      "id": "way/909304049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909541221",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9748312,
+          45.0567887
+        ]
+      },
+      "id": "way/909541221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909541222",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9747957,
+          45.0567255
+        ]
+      },
+      "id": "way/909541222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909586861",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9242072,
+          45.0713971
+        ]
+      },
+      "id": "way/909586861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909586862",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9241589,
+          45.0713174
+        ]
+      },
+      "id": "way/909586862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909831940",
+        "public_transport": "platform",
+        "railway": "platform",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9057896,
+          45.0808198
+        ]
+      },
+      "id": "way/909831940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909831941",
+        "public_transport": "platform",
+        "railway": "platform",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9055086,
+          45.0809778
+        ]
+      },
+      "id": "way/909831941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077325",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4 - 5",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8257931,
+          45.1425654
+        ]
+      },
+      "id": "way/913077325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077326",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2 - 3",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.825828,
+          45.142695
+        ]
+      },
+      "id": "way/913077326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077327",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8253432,
+          45.1427814
+        ]
+      },
+      "id": "way/913077327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914052252",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Linia 20",
+        "surface": "paving_stones",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8218446,
+          45.1426165
+        ]
+      },
+      "id": "way/914052252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914528398",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7319236,
+          45.2044116
+        ]
+      },
+      "id": "way/914528398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914985175",
+        "operator": "TFC",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7150047,
+          45.2450092
+        ]
+      },
+      "id": "way/914985175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915417376",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6486084,
+          45.280463
+        ]
+      },
+      "id": "way/915417376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915663104",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5510644,
+          45.2787316
+        ]
+      },
+      "id": "way/915663104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915663106",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5514625,
+          45.278682
+        ]
+      },
+      "id": "way/915663106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915697453",
+        "public_transport": "platform",
+        "railway": "platform",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5095532,
+          45.2572117
+        ]
+      },
+      "id": "way/915697453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/916890774",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "gravel",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3583937,
+          45.2771859
+        ]
+      },
+      "id": "way/916890774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917229564",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.348019,
+          45.3503309
+        ]
+      },
+      "id": "way/917229564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917269242",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3229037,
+          45.3813028
+        ]
+      },
+      "id": "way/917269242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917397133",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3196295,
+          45.3994816
+        ]
+      },
+      "id": "way/917397133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917438972",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3069709,
+          45.4164667
+        ]
+      },
+      "id": "way/917438972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917824768",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7026101,
+          45.1009642
+        ]
+      },
+      "id": "way/917824768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917830589",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7015437,
+          45.1005507
+        ]
+      },
+      "id": "way/917830589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917830590",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7018039,
+          45.1005694
+        ]
+      },
+      "id": "way/917830590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075559",
+        "area": "yes",
+        "departures_board": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3059576,
+          45.4312795
+        ]
+      },
+      "id": "way/918075559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075560",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3056347,
+          45.4306512
+        ]
+      },
+      "id": "way/918075560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075561",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "asphalt",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3059018,
+          45.4309492
+        ]
+      },
+      "id": "way/918075561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918484163",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.651779,
+          45.0814335
+        ]
+      },
+      "id": "way/918484163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918486513",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "paving_stones",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6516546,
+          45.0814764
+        ]
+      },
+      "id": "way/918486513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918638850",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6047828,
+          45.0632251
+        ]
+      },
+      "id": "way/918638850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918638851",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6046313,
+          45.0630705
+        ]
+      },
+      "id": "way/918638851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/919051263",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5187686,
+          45.0299517
+        ]
+      },
+      "id": "way/919051263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/988077592",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.674753,
+          45.2782172
+        ]
+      },
+      "id": "way/988077592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1209115951",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6331531,
+          45.0779427
+        ]
+      },
+      "id": "way/1209115951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1252321041",
+        "bus": "yes",
+        "oneway": "yes",
+        "public_transport": "platform",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7740237,
+          45.1740402
+        ]
+      },
+      "id": "way/1252321041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2929560485",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6830909,
+          45.2857324
+        ]
+      },
+      "id": "node/2929560485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2929580839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6833558,
+          45.2858603
+        ]
+      },
+      "id": "node/2929580839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3092004699",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8129206,
+          45.1425708
+        ]
+      },
+      "id": "node/3092004699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684668639",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vernești - Căminul Cultural",
+        "public_transport": "platform",
+        "ref": "23, 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7258805,
+          45.2056637
+        ]
+      },
+      "id": "node/3684668639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684668640",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.726315,
+          45.2054904
+        ]
+      },
+      "id": "node/3684668640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684668643",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7350138,
+          45.2025647
+        ]
+      },
+      "id": "node/3684668643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684668644",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7350889,
+          45.2026753
+        ]
+      },
+      "id": "node/3684668644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3732952475",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8162826,
+          45.1564505
+        ]
+      },
+      "id": "node/3732952475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876905397",
+        "highway": "bus_stop",
+        "name": "Parcul Sf. Îngeri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8189483,
+          45.1527255
+        ]
+      },
+      "id": "node/3876905397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876905398",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8175626,
+          45.152455
+        ]
+      },
+      "id": "node/3876905398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4029952064",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vernești - Combinat",
+        "public_transport": "platform",
+        "ref": "25, 25B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7289312,
+          45.203842
+        ]
+      },
+      "id": "node/4029952064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030108761",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6942333,
+          45.2172146
+        ]
+      },
+      "id": "node/4030108761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030108762",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6940964,
+          45.2171135
+        ]
+      },
+      "id": "node/4030108762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030108763",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nișcov Traseu 23",
+        "network": "Nișcov Traseu 23",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "Nișcov Traseu 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6867396,
+          45.2245041
+        ]
+      },
+      "id": "node/4030108763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030108777",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nișcov Traseu 23",
+        "network": "Nișcov Traseu 23",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "Nișcov Traseu 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.68018,
+          45.2247309
+        ]
+      },
+      "id": "node/4030108777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030634689",
+        "highway": "bus_stop",
+        "name": "Stația Big Buzău"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8099123,
+          45.1433512
+        ]
+      },
+      "id": "node/4030634689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323161990",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0192248,
+          45.3751931
+        ]
+      },
+      "id": "node/4323161990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323190891",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0102797,
+          45.3774662
+        ]
+      },
+      "id": "node/4323190891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323220790",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0128537,
+          45.3797253
+        ]
+      },
+      "id": "node/4323220790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323228189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0073274,
+          45.3791605
+        ]
+      },
+      "id": "node/4323228189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370742328",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8377914,
+          45.1478243
+        ]
+      },
+      "id": "node/4370742328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393030389",
+        "name": "Gara Buzău",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8247176,
+          45.1431646
+        ]
+      },
+      "id": "node/4393030389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4403908089",
+        "addr:street": "Bulevardul Unirii",
+        "highway": "bus_stop",
+        "name": "Bulevardul Unirii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8143005,
+          45.1479317
+        ]
+      },
+      "id": "node/4403908089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423164191",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8001779,
+          45.1518583
+        ]
+      },
+      "id": "node/4423164191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423172889",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8002875,
+          45.1519428
+        ]
+      },
+      "id": "node/4423172889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423211389",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7960102,
+          45.1543999
+        ]
+      },
+      "id": "node/4423211389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4424528099",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8235524,
+          45.1553974
+        ]
+      },
+      "id": "node/4424528099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427253290",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8040123,
+          45.1484953
+        ]
+      },
+      "id": "node/4427253290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427365295",
+        "highway": "bus_stop",
+        "operator": "2,5,8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8344584,
+          45.155212
+        ]
+      },
+      "id": "node/4427365295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428433790",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tohaneni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8185699,
+          45.1429542
+        ]
+      },
+      "id": "node/4428433790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430223392",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Statia Transbuz - Camelia",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8136221,
+          45.1512323
+        ]
+      },
+      "id": "node/4430223392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435538990",
+        "highway": "bus_stop",
+        "name": "Hașdeu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8246409,
+          45.1483987
+        ]
+      },
+      "id": "node/4435538990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435587689",
+        "highway": "bus_stop",
+        "name": "Horticolei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8547604,
+          45.1489662
+        ]
+      },
+      "id": "node/4435587689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435634292",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Statia RAM Transbuz",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8170255,
+          45.1508259
+        ]
+      },
+      "id": "node/4435634292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440122089",
+        "highway": "bus_stop",
+        "operator": "2,5,8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8344536,
+          45.1550641
+        ]
+      },
+      "id": "node/4440122089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440174489",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.844068,
+          45.1507309
+        ]
+      },
+      "id": "node/4440174489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443326790",
+        "highway": "bus_stop",
+        "name": "Sala Sporturilor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8306471,
+          45.1583874
+        ]
+      },
+      "id": "node/4443326790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454629489",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8288022,
+          45.1583041
+        ]
+      },
+      "id": "node/4454629489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4457615391",
+        "highway": "bus_stop",
+        "name": "Stația Cantina Ductil Buzău"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8169803,
+          45.1338484
+        ]
+      },
+      "id": "node/4457615391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4734890911",
+        "highway": "bus_stop",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8175848,
+          45.1619799
+        ]
+      },
+      "id": "node/4734890911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755349798",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7007146,
+          45.3268548
+        ]
+      },
+      "id": "node/4755349798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755351181",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7095852,
+          45.3474884
+        ]
+      },
+      "id": "node/4755351181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075700755",
+        "highway": "bus_stop",
+        "name": "Joseni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6539788,
+          45.3114084
+        ]
+      },
+      "id": "node/5075700755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206366766",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "network": "Trans Buz",
+        "operator": "Trans Bus Buzau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8496118,
+          45.1351855
+        ]
+      },
+      "id": "node/5206366766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194127",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8442405,
+          45.1505156
+        ]
+      },
+      "id": "node/5228194127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194130",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8492026,
+          45.1468487
+        ]
+      },
+      "id": "node/5228194130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194131",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8455207,
+          45.1455512
+        ]
+      },
+      "id": "node/5228194131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194132",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8419811,
+          45.1445295
+        ]
+      },
+      "id": "node/5228194132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194134",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8398684,
+          45.1440475
+        ]
+      },
+      "id": "node/5228194134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194135",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8398603,
+          45.1439511
+        ]
+      },
+      "id": "node/5228194135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194137",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8354841,
+          45.1437041
+        ]
+      },
+      "id": "node/5228194137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228194138",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8353374,
+          45.1438105
+        ]
+      },
+      "id": "node/5228194138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228203474",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gară",
+        "network": "TransBus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.827073,
+          45.1432865
+        ]
+      },
+      "id": "node/5228203474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228234453",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.815174,
+          45.1379491
+        ]
+      },
+      "id": "node/5228234453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228236423",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8154949,
+          45.136839
+        ]
+      },
+      "id": "node/5228236423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251535",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8197789,
+          45.1339695
+        ]
+      },
+      "id": "node/5228251535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251536",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8181809,
+          45.1336066
+        ]
+      },
+      "id": "node/5228251536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251539",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Agrana",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8400566,
+          45.134833
+        ]
+      },
+      "id": "node/5228251539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251540",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rotec",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8397415,
+          45.1345305
+        ]
+      },
+      "id": "node/5228251540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251541",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cibela - A",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8445178,
+          45.1349712
+        ]
+      },
+      "id": "node/5228251541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228251542",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8479801,
+          45.1348814
+        ]
+      },
+      "id": "node/5228251542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228263924",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8449727,
+          45.1423812
+        ]
+      },
+      "id": "node/5228263924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228263925",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.85252,
+          45.1371329
+        ]
+      },
+      "id": "node/5228263925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228263926",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8523537,
+          45.1375267
+        ]
+      },
+      "id": "node/5228263926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232526204",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8251828,
+          45.134296
+        ]
+      },
+      "id": "node/5232526204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232526205",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8242416,
+          45.1340409
+        ]
+      },
+      "id": "node/5232526205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5232574477",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul 7 - Retur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8341894,
+          45.1346671
+        ]
+      },
+      "id": "node/5232574477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886187",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "24",
+        "shelter": "yes",
+        "website": "https://www.transbusbuzau.ro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7133147,
+          45.2390071
+        ]
+      },
+      "id": "node/8412886187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "24",
+        "shelter": "no",
+        "website": "https://www.transbusbuzau.ro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7132531,
+          45.2387424
+        ]
+      },
+      "id": "node/8412886188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886189",
+        "bus": "yes",
+        "bus_number": "24",
+        "highway": "bus_stop",
+        "name": "Cândești - Biserică",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7108616,
+          45.2443624
+        ]
+      },
+      "id": "node/8412886189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886190",
+        "bench": "yes",
+        "bus": "yes",
+        "bus_number": "24",
+        "highway": "bus_stop",
+        "name": "Cândești-Biserică",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7108983,
+          45.2439355
+        ]
+      },
+      "id": "node/8412886190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886192",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grădiniță",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7063389,
+          45.2484699
+        ]
+      },
+      "id": "node/8412886192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886193",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7047802,
+          45.2509664
+        ]
+      },
+      "id": "node/8412886193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886194",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Școala Cândești",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7045676,
+          45.2529229
+        ]
+      },
+      "id": "node/8412886194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886195",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7036592,
+          45.2548207
+        ]
+      },
+      "id": "node/8412886195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8412886196",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7028977,
+          45.2569072
+        ]
+      },
+      "id": "node/8412886196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8708682017",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grădiniță",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "24, 27",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.706691,
+          45.2482084
+        ]
+      },
+      "id": "node/8708682017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7444946,
+          45.2365925
+        ]
+      },
+      "id": "node/8719250842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250843",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7446124,
+          45.2365907
+        ]
+      },
+      "id": "node/8719250843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250845",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7471058,
+          45.2393439
+        ]
+      },
+      "id": "node/8719250845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250846",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7470103,
+          45.2393873
+        ]
+      },
+      "id": "node/8719250846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250847",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7510869,
+          45.2430103
+        ]
+      },
+      "id": "node/8719250847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719250848",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7509782,
+          45.2430294
+        ]
+      },
+      "id": "node/8719250848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719254062",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7446561,
+          45.2343413
+        ]
+      },
+      "id": "node/8719254062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719254063",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7447083,
+          45.2302399
+        ]
+      },
+      "id": "node/8719254063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719254064",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7447954,
+          45.2304354
+        ]
+      },
+      "id": "node/8719254064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8719254065",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.750064,
+          45.2217629
+        ]
+      },
+      "id": "node/8719254065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8722353153",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8192823,
+          45.1688548
+        ]
+      },
+      "id": "node/8722353153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553103",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Murgesti 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8885211,
+          45.3846917
+        ]
+      },
+      "id": "node/9189553103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553104",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Murgesti 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8899903,
+          45.3764877
+        ]
+      },
+      "id": "node/9189553104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553105",
+        "bus": "yes",
+        "description": "Bus Station",
+        "highway": "bus_stop",
+        "name": "Murgesti 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8866749,
+          45.3952775
+        ]
+      },
+      "id": "node/9189553105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553106",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Murgesti 4",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8850272,
+          45.3994702
+        ]
+      },
+      "id": "node/9189553106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553107",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Murgesti 5",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8821907,
+          45.4038694
+        ]
+      },
+      "id": "node/9189553107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553108",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Batogu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8777191,
+          45.4116623
+        ]
+      },
+      "id": "node/9189553108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553109",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Valea Ratei",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8942775,
+          45.4139866
+        ]
+      },
+      "id": "node/9189553109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553110",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Murgesti 6",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8913049,
+          45.3935526
+        ]
+      },
+      "id": "node/9189553110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189553111",
+        "bus": "yes",
+        "description": "Statie Transport comun",
+        "highway": "bus_stop",
+        "name": "Funduri",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9205836,
+          45.4096873
+        ]
+      },
+      "id": "node/9189553111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244442800",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tohaneni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8189617,
+          45.142862
+        ]
+      },
+      "id": "node/9244442800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244442801",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Scdl - Statie Facultativa",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8268211,
+          45.1577283
+        ]
+      },
+      "id": "node/9244442801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9610390170",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8190239,
+          45.1528976
+        ]
+      },
+      "id": "node/9610390170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706665832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7408347,
+          45.1966335
+        ]
+      },
+      "id": "node/9706665832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9706665833",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.740721,
+          45.1965424
+        ]
+      },
+      "id": "node/9706665833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810326060",
+        "bus": "yes",
+        "bus_routes": "19,20",
+        "highway": "bus_stop",
+        "name": "Merei - Scoala",
+        "operator": "TransBus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6742627,
+          45.1312365
+        ]
+      },
+      "id": "node/9810326060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810326062",
+        "bus": "yes",
+        "bus_routes": "19,20",
+        "highway": "bus_stop",
+        "name": "Intersecția Ogrăzile Merei",
+        "operator": "TransBus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6700055,
+          45.1293596
+        ]
+      },
+      "id": "node/9810326062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810326063",
+        "bus": "yes",
+        "bus_routes": "19,20",
+        "highway": "bus_stop",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "La Bulimac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6690285,
+          45.1290497
+        ]
+      },
+      "id": "node/9810326063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810408142",
+        "bus": "yes",
+        "bus_routes": "18,19",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "Gura Saratii - Scoala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6535704,
+          45.1138564
+        ]
+      },
+      "id": "node/9810408142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825931830",
+        "bus": "yes",
+        "bus_routes": "11,117",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "Principala V.B.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8648444,
+          45.1743379
+        ]
+      },
+      "id": "node/9825931830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825931831",
+        "bus": "yes",
+        "bus_routes": "11,117",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "public_transport": "platform",
+        "ref": "Principala VB2 B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.864762,
+          45.1741878
+        ]
+      },
+      "id": "node/9825931831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825931891",
+        "bus": "yes",
+        "bus_routes": "11,118,117",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "Principala V.P. 4 - B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.878995,
+          45.1621543
+        ]
+      },
+      "id": "node/9825931891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825931892",
+        "bus": "yes",
+        "bus_routes": "11,118,117",
+        "highway": "bus_stop",
+        "network": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "Principala V.P. 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.879034,
+          45.161946
+        ]
+      },
+      "id": "node/9825931892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9827005040",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0855236,
+          44.9694176
+        ]
+      },
+      "id": "node/9827005040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9827005045",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0867721,
+          44.9693324
+        ]
+      },
+      "id": "node/9827005045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10540024125",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kaufland Sud/E85",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "1, 15, 16, 18, 18B, 19, 20",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8011274,
+          45.1390865
+        ]
+      },
+      "id": "node/10540024125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10815726972",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6500506,
+          45.2170045
+        ]
+      },
+      "id": "node/10815726972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10818847246",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nișcov Traseu 23",
+        "network": "Nișcov Traseu 23",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6536449,
+          45.2179232
+        ]
+      },
+      "id": "node/10818847246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10860094897",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Penny Gară",
+        "network": "TransBus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8268048,
+          45.1433595
+        ]
+      },
+      "id": "node/10860094897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11089005160",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7715705,
+          45.3382378
+        ]
+      },
+      "id": "node/11089005160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11091465331",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1900551,
+          45.3689702
+        ]
+      },
+      "id": "node/11091465331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11091465358",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2068782,
+          45.3582863
+        ]
+      },
+      "id": "node/11091465358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11091465388",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2010262,
+          45.3642591
+        ]
+      },
+      "id": "node/11091465388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11091614407",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2161516,
+          45.3482385
+        ]
+      },
+      "id": "node/11091614407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11099184197",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.474168,
+          45.3514269
+        ]
+      },
+      "id": "node/11099184197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11102737708",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.991712,
+          45.3775147
+        ]
+      },
+      "id": "node/11102737708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11102737762",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9224292,
+          45.3963496
+        ]
+      },
+      "id": "node/11102737762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11102967264",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3761033,
+          45.4550971
+        ]
+      },
+      "id": "node/11102967264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11104235656",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1781371,
+          44.9717991
+        ]
+      },
+      "id": "node/11104235656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11108757905",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.624276,
+          45.1073581
+        ]
+      },
+      "id": "node/11108757905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11108757907",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.630018,
+          45.1212512
+        ]
+      },
+      "id": "node/11108757907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11108758021",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6376947,
+          45.1482552
+        ]
+      },
+      "id": "node/11108758021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11111487010",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apostari",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6794936,
+          45.479389
+        ]
+      },
+      "id": "node/11111487010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11111487011",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Beșlii",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6728979,
+          45.4838587
+        ]
+      },
+      "id": "node/11111487011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11111487012",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mânzălești",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6574897,
+          45.4868761
+        ]
+      },
+      "id": "node/11111487012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11111487013",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Grunj",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6409659,
+          45.4890633
+        ]
+      },
+      "id": "node/11111487013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11127333488",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1941274,
+          45.3859181
+        ]
+      },
+      "id": "node/11127333488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203163789",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saranga Magazin Zaplaic",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6091595,
+          45.093861
+        ]
+      },
+      "id": "node/11203163789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203163790",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Şaranga Magazin Paul",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.613695,
+          45.0962069
+        ]
+      },
+      "id": "node/11203163790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203163791",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Saranga Scoala",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6122449,
+          45.0919437
+        ]
+      },
+      "id": "node/11203163791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203163792",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pietroasele centru",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5784331,
+          45.0932508
+        ]
+      },
+      "id": "node/11203163792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11209852352",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.54457,
+          45.0759447
+        ]
+      },
+      "id": "node/11209852352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11210055303",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8050435,
+          45.1403878
+        ]
+      },
+      "id": "node/11210055303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11276629728",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Verguleasa",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8863333,
+          45.1210639
+        ]
+      },
+      "id": "node/11276629728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508135919",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "23, 24, 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7310704,
+          45.205346
+        ]
+      },
+      "id": "node/11508135919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11508135920",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "TransBus",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "23, 24, 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7313649,
+          45.2053291
+        ]
+      },
+      "id": "node/11508135920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513428996",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fabrica de bere",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "4, 6, 6B, 23, 24, 25, 25B, 26, 27, 114, 115, 115B, 124B",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7874379,
+          45.1640185
+        ]
+      },
+      "id": "node/11513428996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513428997",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fabrica de bere",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "4, 6, 6B, 23, 24, 25, 25B, 26, 27, 114, 115, 115B, 124B, 125",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7879575,
+          45.1637581
+        ]
+      },
+      "id": "node/11513428997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513698720",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jandarmerie",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "117, 124B",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7940796,
+          45.1584711
+        ]
+      },
+      "id": "node/11513698720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513698761",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jandarmerie - B",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "117, 124B, 125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7953839,
+          45.1595109
+        ]
+      },
+      "id": "node/11513698761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513698945",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bazalt",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "4, 6, 6B, 23, 24, 25, 25B, 26, 27, 114, 115, 115B, 117, 124B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7967683,
+          45.1611554
+        ]
+      },
+      "id": "node/11513698945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513753691",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul Mihai Eminescu (lic)",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "4, 6, 6B, 23, 24, 25, 25B, 26, 27, 114, 115B, 117",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8023577,
+          45.1600073
+        ]
+      },
+      "id": "node/11513753691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11513753692",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul Mihai Eminescu",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "4, 6, 6B, 23, 24, 25, 25B, 26, 27, 114, 115B, 117",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8024781,
+          45.1598321
+        ]
+      },
+      "id": "node/11513753692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527780834",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "KAUFLAND SUD 2",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7992682,
+          45.1392989
+        ]
+      },
+      "id": "node/11527780834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527780835",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "KAUFLAND SUD 1",
+        "operator": "TransBus",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7994421,
+          45.1392066
+        ]
+      },
+      "id": "node/11527780835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528011973",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "General Membrane",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "14, 14B, 120, 120B, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8196254,
+          45.1294246
+        ]
+      },
+      "id": "node/11528011973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11533519437",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8169739,
+          45.1557946
+        ]
+      },
+      "id": "node/11533519437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11533519452",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8169729,
+          45.1562526
+        ]
+      },
+      "id": "node/11533519452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11533543474",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8164808,
+          45.159394
+        ]
+      },
+      "id": "node/11533543474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563744128",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Constam A",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8427246,
+          45.1349081
+        ]
+      },
+      "id": "node/11563744128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563744129",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Constam B",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8427331,
+          45.1346384
+        ]
+      },
+      "id": "node/11563744129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563744130",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cibela - B",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "10, 110, 111, 114, 115, 117, 121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8445619,
+          45.1346785
+        ]
+      },
+      "id": "node/11563744130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563744149",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul 7 - B",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8352925,
+          45.1346995
+        ]
+      },
+      "id": "node/11563744149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11563744150",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Liceul 7 - A",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.832988,
+          45.1343604
+        ]
+      },
+      "id": "node/11563744150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11569303130",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7466069,
+          45.1899862
+        ]
+      },
+      "id": "node/11569303130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11573047146",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lipia - Școală",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "16, 18B",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7333289,
+          45.139213
+        ]
+      },
+      "id": "node/11573047146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11573047188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lipia - La Costea",
+        "public_transport": "platform",
+        "ref": "16, 18B",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7368486,
+          45.1405284
+        ]
+      },
+      "id": "node/11573047188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11573047205",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6784087,
+          45.1317849
+        ]
+      },
+      "id": "node/11573047205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11573047206",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6747877,
+          45.131612
+        ]
+      },
+      "id": "node/11573047206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11576768913",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ograzile - Fac",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6809165,
+          45.1187728
+        ]
+      },
+      "id": "node/11576768913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11576768914",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.675184,
+          45.1245971
+        ]
+      },
+      "id": "node/11576768914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11584370720",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.739238,
+          45.2405007
+        ]
+      },
+      "id": "node/11584370720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610556631",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7125685,
+          45.2781509
+        ]
+      },
+      "id": "node/11610556631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610556632",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.717294,
+          45.2723849
+        ]
+      },
+      "id": "node/11610556632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610569895",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7011759,
+          45.2812592
+        ]
+      },
+      "id": "node/11610569895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610569896",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7011724,
+          45.2810649
+        ]
+      },
+      "id": "node/11610569896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11610569912",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7076494,
+          45.2815343
+        ]
+      },
+      "id": "node/11610569912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11640400188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Metro",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "6B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7634825,
+          45.1761645
+        ]
+      },
+      "id": "node/11640400188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11640665551",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Somet",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7726669,
+          45.1728774
+        ]
+      },
+      "id": "node/11640665551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11640665552",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Comet 2",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "4, 6B, 23, 24, 25, 25B, 26, 27, 114, 115B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7740503,
+          45.174146
+        ]
+      },
+      "id": "node/11640665552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11640691518",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Comet 1",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "4, 6B, 23, 24, 25, 25B, 26, 27, 114, 115B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7740487,
+          45.1738564
+        ]
+      },
+      "id": "node/11640691518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683822664",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7271346,
+          45.2099263
+        ]
+      },
+      "id": "node/11683822664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683822665",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7272526,
+          45.2102865
+        ]
+      },
+      "id": "node/11683822665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683822666",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vernești - Cămin Cultural (retur)",
+        "operator": "Trans Bus",
+        "public_transport": "platform",
+        "ref": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7233281,
+          45.2068962
+        ]
+      },
+      "id": "node/11683822666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11683903546",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7197253,
+          45.1967632
+        ]
+      },
+      "id": "node/11683903546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11740670582",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.804651,
+          45.1549323
+        ]
+      },
+      "id": "node/11740670582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11740670591",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stația Brătianu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8129664,
+          45.1511489
+        ]
+      },
+      "id": "node/11740670591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11750348827",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parcul Crang - B",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8050163,
+          45.1483532
+        ]
+      },
+      "id": "node/11750348827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11875280430",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Costeşti Consiliul Local",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7651614,
+          45.0545515
+        ]
+      },
+      "id": "node/11875280430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12241699905",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5891834,
+          44.9281977
+        ]
+      },
+      "id": "node/12241699905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12472656629",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Greceanca 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5384828,
+          45.0835655
+        ]
+      },
+      "id": "node/12472656629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12749398341",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Stația Catedrala Sf.Sava Buzău",
+        "name:ro": "Statia Catedrala Sf.Sava Buzau",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8174848,
+          45.1538802
+        ]
+      },
+      "id": "node/12749398341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12765434977",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8103027,
+          45.1481796
+        ]
+      },
+      "id": "node/12765434977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624886584",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Transbus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.804341,
+          45.1466854
+        ]
+      },
+      "id": "node/13624886584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624945520",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8196557,
+          45.1518464
+        ]
+      },
+      "id": "node/13624945520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13649039748",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6660639,
+          45.3446122
+        ]
+      },
+      "id": "node/13649039748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13657642329",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7668261,
+          45.3828552
+        ]
+      },
+      "id": "node/13657642329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13657642330",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7662534,
+          45.3822693
+        ]
+      },
+      "id": "node/13657642330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13665367395",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8305902,
+          45.1825501
+        ]
+      },
+      "id": "node/13665367395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13685923359",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.576322,
+          45.1032355
+        ]
+      },
+      "id": "node/13685923359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13687936771",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8301383,
+          45.0726014
+        ]
+      },
+      "id": "node/13687936771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13697323154",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.292303,
+          45.2480078
+        ]
+      },
+      "id": "node/13697323154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869480604",
+        "bus": "yes",
+        "fixme": "locatie aproximativa",
+        "highway": "bus_stop",
+        "name": "Șaranga Moara Rînceanu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6120838,
+          45.0981931
+        ]
+      },
+      "id": "node/13869480604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869499108",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dara ramificatie",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6011277,
+          45.0992075
+        ]
+      },
+      "id": "node/13869499108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869499109",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hotar Pietroasele - Clondiru de Sus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5871429,
+          45.0970874
+        ]
+      },
+      "id": "node/13869499109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869499110",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pietroasele Școală",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5730161,
+          45.0904951
+        ]
+      },
+      "id": "node/13869499110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869499111",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pietroasele SCDVV (Pietroasa blocuri)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5757078,
+          45.0862032
+        ]
+      },
+      "id": "node/13869499111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13869499112",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Greceanca Biserică",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5448904,
+          45.0759381
+        ]
+      },
+      "id": "node/13869499112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872060911",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Căldăruşanca",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6872766,
+          44.8814581
+        ]
+      },
+      "id": "node/13872060911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872093738",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mihăileşti",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6889277,
+          44.9172801
+        ]
+      },
+      "id": "node/13872093738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872137643",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cernăteşti",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7611134,
+          45.2549007
+        ]
+      },
+      "id": "node/13872137643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872148847",
+        "bus": "yes",
+        "fixme": "Locatia nu e exacta dar imi trebuie pentru GTFS",
+        "highway": "bus_stop",
+        "name": "Costeşti Școală",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7588413,
+          45.0474543
+        ]
+      },
+      "id": "node/13872148847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872170378",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sălcioara Pod",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1709733,
+          45.3118067
+        ]
+      },
+      "id": "node/13872170378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872229784",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sudiși",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8744981,
+          45.2791944
+        ]
+      },
+      "id": "node/13872229784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872254596",
+        "bus": "yes",
+        "fixme": "Locatie aproximativa, necesar pentru GTFS.\nDaca stie cineva locatia exacta va rog corectati",
+        "highway": "bus_stop",
+        "name": "Sălcioara",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1752971,
+          45.3089411
+        ]
+      },
+      "id": "node/13872254596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872256736",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cremenea",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7975987,
+          45.0265692
+        ]
+      },
+      "id": "node/13872256736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872294870",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Smeeni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8590471,
+          44.9965797
+        ]
+      },
+      "id": "node/13872294870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872294872",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lunca",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2145629,
+          45.0053491
+        ]
+      },
+      "id": "node/13872294872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13872300146",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Moisica",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8895642,
+          44.9960204
+        ]
+      },
+      "id": "node/13872300146"
+    }
+  ]
+}
