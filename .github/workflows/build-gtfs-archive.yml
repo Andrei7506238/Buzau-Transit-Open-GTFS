@@ -29,15 +29,15 @@ jobs:
 
       - name: Create zip archive
         run: |
-          cd build_pipeline/output
-          zip -r "../../${{ steps.vars.outputs.zip_name }}" gtfs
+          cd build_pipeline/output/gtfs
+          zip -r "../../../${{ steps.vars.outputs.zip_name }}" .
 
       - name: Publish zip to GitHub Release
         uses: ncipollo/release-action@v1
         with:
           tag: gtfs-latest
           name: GTFS Latest
-          body: Automated GTFS archive generated from build_pipeline/output/gtfs.
+          body: Automated GTFS archive generated from build_pipeline/output/gtfs (files at archive root).
           allowUpdates: true
           replacesArtifacts: true
           removeArtifacts: true

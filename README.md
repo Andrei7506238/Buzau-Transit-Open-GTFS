@@ -1,13 +1,13 @@
 # Buzau-Transit-Open-GTFS
 
-**EN** - Converts Buzău County (Romania) intercity bus timetables into a
+## **EN** - Converts Buzău County (Romania) intercity bus timetables into a
 [GTFS](https://gtfs.org/) feed.  
 All data is stored directly in this repository and is based on the official
 [Consiliul Județean Buzău](https://www.cjbuzau.ro) PDF schedules. The information is curated and then processed by an automated pipeline.
 This pipeline extracts routes and schedules, geocodes every bus stop using a
 four-step process (Transbus GTFS → OpenStreetMap → Nominatim → OSRM interpolation), and finally generates a fully compliant, validator-passing GTFS package.
 
-**RO** - Transformă orarele de transport județean din Buzău într-un format
+## **RO** - Transformă orarele de transport județean din Buzău într-un format
 [GTFS](https://gtfs.org/) standardizat.  
 Datele utilizate sunt stocate exclusiv în acest repository și se bazează pe orarele în format PDF publicate de [Consiliul Județean Buzău](https://www.cjbuzau.ro).
 Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în patru pași (Transbus GTFS → OpenStreetMap → Nominatim →
@@ -32,6 +32,7 @@ This project is developed and maintained by [Popa Andrei-Robert](https://andrei7
 Contributions, suggestions, and feedback are welcomed, but the best way to support the project is by adding the missing coordinates for the stops on OpenStreetMap, which benefits everyone and improves the feed quality for all users.
 
 If the exact timetable is available in a machine-readable format from the source authority, please let me know so I can update the feed with more accurate schedules and reduce the reliance on interpolation.
+
 ---
 
 ## Data sources
