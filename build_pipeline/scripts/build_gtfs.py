@@ -83,17 +83,6 @@ def _day_flags(days: list[int]) -> dict[str, str]:
     }
 
 
-def _interpolate(dep: int, arr: int, fraction: float) -> int:
-    """
-    Linear interpolation between dep and arr (minutes since midnight).
-    Handles overnight trips where arr < dep.
-    """
-    total = arr - dep
-    if total < 0:          # crosses midnight
-        total += 24 * 60
-    return dep + round(fraction * total)
-
-
 # ---------------------------------------------------------------------------
 # Stop coordinate resolution
 # ---------------------------------------------------------------------------
@@ -158,32 +147,41 @@ def build_stop_times(
     km_values[i] = km from previous station (first entry is 0.0).
     dep_min / arr_min = departure/arrival minutes since midnight.
     If reverse=True, the station sequence is travelled backwards.
-    """
-    # Cumulative km
-    cumkm: list[float] = []
-    total_km = 0.0
-    for k in km_values:
-        total_km += k
-        cumkm.append(total_km)
 
-    if total_km == 0:
-        total_km = 1.0  # avoid division by zero for single-stop routes
+    GTFS permits intermediate stops without times, so we only emit explicit
+    times for the first and last stop (anchor timetable points).
+    """
+    # km_values is retained in the signature for compatibility with the
+    # existing call sites and future use, but stop timing is now anchor-only.
+    _ = km_values
 
     names = list(station_names)
-    cums  = list(cumkm)
     if reverse:
         names = list(reversed(names))
-        cums  = [total_km - c for c in reversed(cums)]
 
     rows = []
-    for seq, (name, km) in enumerate(zip(names, cums), start=1):
-        fraction = km / total_km
-        t = _gtfs_time(_interpolate(dep_min, arr_min, fraction))
+    first_time = _gtfs_time(dep_min)
+    last_time = _gtfs_time(arr_min)
+
+    for seq, name in enumerate(names, start=1):
+        is_first = seq == 1
+        is_last = seq == len(names)
+
+        if is_first:
+            arrival_time = first_time
+            departure_time = first_time
+        elif is_last:
+            arrival_time = last_time
+            departure_time = last_time
+        else:
+            arrival_time = ""
+            departure_time = ""
+
         stop_id = stop_name_to_id.get(name, "UNKNOWN")
         rows.append({
             "trip_id": trip_id,
-            "arrival_time": t,
-            "departure_time": t,
+            "arrival_time": arrival_time,
+            "departure_time": departure_time,
             "stop_id": stop_id,
             "stop_sequence": seq,
         })
