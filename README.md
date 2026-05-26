@@ -5,13 +5,13 @@
 All data is stored directly in this repository and is based on the official
 [Consiliul Județean Buzău](https://www.cjbuzau.ro) PDF schedules. The information is curated and then processed by an automated pipeline.
 This pipeline extracts routes and schedules, geocodes every bus stop using a
-four-step process (Transbus GTFS → OpenStreetMap → Nominatim → OSRM interpolation), and finally generates a fully compliant, validator-passing GTFS package.
+five-phase process (Transbus GTFS → OpenStreetMap → Nominatim → OSRM interpolation → outlier repair), and finally generates a fully compliant, validator-passing GTFS package.
 
 ## **RO** - Transformă orarele de transport județean din Buzău într-un format
 [GTFS](https://gtfs.org/) standardizat.  
 Datele utilizate sunt stocate exclusiv în acest repository și se bazează pe orarele în format PDF publicate de [Consiliul Județean Buzău](https://www.cjbuzau.ro).
-Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în patru pași (Transbus GTFS → OpenStreetMap → Nominatim →
-interpolare OSRM) și generează un pachet GTFS complet, validat fără erori.
+Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în cinci etape (Transbus GTFS → OpenStreetMap → Nominatim →
+interpolare OSRM → reparare outlieri) și generează un pachet GTFS complet, validat fără erori.
 
 ---
 
@@ -68,10 +68,10 @@ build_pipeline/               # Build/validation/preview scripts + generated out
   scripts/
     build_gtfs.py             # JSON + geocoded stops → output/gtfs/
     validate_geocoding.py     # Coverage report per route
-    make_geojson_preview.py   # Writes output/stops_preview.geojson
+    make_geojson_preview.py   # Writes output/stops_preview.geojson (stops + route paths)
   output/
     gtfs/                     # Generated GTFS feed
-    stops_preview.geojson     # Generated GeoJSON preview
+    stops_preview.geojson     # Generated GeoJSON preview (stops + route paths)
 
 transbus_stations/            # Buzău city bus GTFS stops (source: mdb-2106)
   transbus_stops.txt          # GTFS stops.txt - used in Phase 0 geocoding
@@ -88,6 +88,7 @@ station_finder/               # Station geocoding
   stops_geocoded.json         # Generated - final geocoded coordinates
 
 overpass/
+  fetch_overpass.py           # Fetches OSM data from the Overpass API → export.geojson
   export.geojson              # OSM bus stop nodes (Overpass export)
   request.txt                 # The Overpass QL query used to generate export.geojson
 
@@ -100,16 +101,17 @@ build_pipeline/output/gtfs/   # Generated GTFS feed
 
 ## Geocoding pipeline
 
-The four-phase geocoder resolves canonical stop names to coordinates in priority order.
+The geocoder resolves canonical stop names to coordinates in priority order across six phases.
 Each phase only fills in stops not yet matched by an earlier phase.
 
 | Phase | Source | Notes |
 |---|---|---|
-| **0 - Transbus GTFS** | `transbus_stations/transbus_stops.txt` | City-bus stops with surveyed GPS coordinates; threshold 85 (token sort ratio) |
+| **0 - Transbus GTFS** | `transbus_stations/transbus_stops.txt` | City-bus stops with surveyed GPS coordinates; threshold 90 (token sort ratio) |
 | **1 - OSM** | `overpass/export.geojson` | Named bus-stop nodes from OpenStreetMap; threshold 72 |
 | **2 - Nominatim cache** | `station_finder/nominatim_cache.json` | Pre-computed results - refresh with `nominatim/geocode_nominatim.py` |
 | **2b - Manual** | `station_finder/manual_coords.json` | Always applied last (overrides any earlier phase) |
 | **3 - OSRM interpolation** | router.project-osrm.org | Places remaining stops along road geometry between anchors (2 passes) |
+| **4 - Outlier repair** | Route context | **Interior stops**: detour excess > 15 km relative to in-route neighbors → replaced with OSRM-interpolated position. **Terminal stops**: haversine / timetable-km ratio > 1.5 (physically impossible) → removed; dependent OSRM-interpolated stops cascade-evicted; extra Phase 3 pass re-fills the gap. |
 
 ---
 
@@ -150,7 +152,8 @@ python station_finder/build_station_set.py
 
 # 2. (Optional) Refresh the Nominatim cache for newly unmatched stops
 #    Skip this step if nominatim_cache.json is already up to date.
-#    Also regenerate the overpass export (overpass/export.geojson)
+#    Also regenerate the overpass export (overpass/export.geojson):
+python overpass/fetch_overpass.py
 python station_finder/nominatim/geocode_nominatim.py
 
 # 3. Re-geocode all stops (uses existing Nominatim cache - no API calls)
@@ -159,20 +162,26 @@ python station_finder/geocode_stations.py
 # (Optional) Inspect per-route coverage
 python build_pipeline/scripts/validate_geocoding.py
 
-# (Optional) Generate a GeoJSON preview for geojson.io
-python build_pipeline/scripts/make_geojson_preview.py
-
 # 4. Rebuild the GTFS feed
 python build_pipeline/scripts/build_gtfs.py
+
+# (Optional) Generate a GeoJSON preview for geojson.io (stops + route paths)
+python build_pipeline/scripts/make_geojson_preview.py
 ```
 
 > **Nominatim rate limit** - a full cache refresh with `geocode_nominatim.py` and an
 > empty cache takes roughly 9 minutes (≤ 1 request/second, per the Nominatim ToS).
 > Subsequent runs only query new or forced entries.
 
-To refresh the OSM export, run the query in `overpass/request.txt` at
-[Overpass Turbo](https://overpass-turbo.eu/), export as GeoJSON, and save the result
-to `overpass/export.geojson`.
+To refresh the OSM export, run:
+
+```powershell
+python overpass/fetch_overpass.py
+```
+
+This POSTs the query in `overpass/request.txt` to the Overpass API and writes
+the result to `overpass/export.geojson` in the same GeoJSON format that
+Overpass Turbo produces.
 
 ---
 
@@ -197,6 +206,7 @@ python station_finder/build_station_set.py
 python station_finder/nominatim/geocode_nominatim.py   # only needed for new stops
 python station_finder/geocode_stations.py
 python build_pipeline/scripts/build_gtfs.py
+python build_pipeline/scripts/make_geojson_preview.py  # optional - inspect stops + routes
 ```
 
 > If the new PDFs introduce station names not yet in `station_finder/manual_coords.json`,

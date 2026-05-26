@@ -29,6 +29,22 @@ Phase 3 - OSRM linear interpolation (two passes)
     km_from_previous_station values.  Two passes let stops geocoded in the
     first pass act as anchors in the second.
 
+Phase 4 - Route-context outlier repair
+    For every route, inspect each geocoded stop against its nearest
+    geocoded neighbors.  Two sub-checks:
+
+    Interior stops (anchors on both sides):
+      If dist(P,X)+dist(X,N) − dist(P,N) > REPAIR_DETOUR_EXCESS_KM and
+      max(dist(P,X),dist(X,N)) > REPAIR_MIN_LEG_KM, the stop is replaced
+      with an OSRM-interpolated position along the P→N segment.
+
+    Terminal stops (anchor on one side only):
+      Haversine distance can never exceed road distance, so if
+      haversine(anchor,X) / timetable_km > REPAIR_TERMINAL_RATIO the stop
+      is physically impossible and is removed from geocoded.  Any
+      OSRM-interpolated stops that depended on it are also evicted.
+      An extra Phase 3 pass then re-interpolates the cleaned gap.
+
 Output:
     station_finder/stops_geocoded.json
         { canonical_name: {lat, lon, source, ...}, ... }
@@ -71,6 +87,11 @@ OUT_PATH = PROJECT_ROOT / "station_finder" / "stops_geocoded.json"
 # Bounding box for Buzău county (lon_min, lat_min, lon_max, lat_max)
 BUZAU_BBOX = (26.30, 44.95, 27.30, 45.70)
 
+# Phase 4 thresholds
+REPAIR_DETOUR_EXCESS_KM = 15.0  # flag when detour excess exceeds this (km)
+REPAIR_MIN_LEG_KM = 5.0         # only flag when at least one leg > this (km)
+REPAIR_TERMINAL_RATIO = 1.5     # flag terminal stop when haversine > timetable_km * this
+
 # ---------------------------------------------------------------------------
 # Text normalisation (mirrors build_station_set.py)
 # ---------------------------------------------------------------------------
@@ -89,7 +110,7 @@ def _normalize(name: str) -> str:
 # Words that are pure stop designations (not place names) that can be
 # stripped to get a Nominatim-searchable locality name.
 # NOTE: "autogara/autogară" is intentionally NOT here — it IS a real named
-# amenity and must be kept so Nominatim can find it.
+# amenity and must eb kept so Nominatim can find it.
 _STRIP_QUALIFIERS = re.compile(
     r"\b(centru|ramificatie|ramificaţie|scoala|şcoala|şcoală|"
     r"consiliul\s+local|bifurcatie|cap\s+traseu|cl\.?\s*local|"
@@ -160,16 +181,26 @@ def match_transbus(
     canonical_name: str,
     stops_by_norm: dict[str, tuple[float, float]],
     norm_keys: list[str],
-    threshold: int = 85,
+    threshold: int = 90,
 ) -> Optional[tuple[float, float]]:
     """
     Return (lat, lon) if canonical_name has a confident Transbus match,
     else None.  Exact normalised match takes priority over fuzzy.
+
+    For fuzzy matching, qualifier words are stripped from the query before
+    scoring (same logic as match_osm) to prevent generic words like
+    "autogara" or "centru" from producing false matches across unrelated
+    stops.  If the stripped query is shorter than 3 chars, fuzzy matching
+    is skipped entirely.
     """
     norm = _normalize(canonical_name)
     if norm in stops_by_norm:
         return stops_by_norm[norm]
-    result = rfprocess.extractOne(norm, norm_keys, scorer=fuzz.token_sort_ratio)
+    norm_stripped = _STRIP_QUALIFIERS.sub("", norm).strip(" -,")
+    norm_stripped = re.sub(r"\s+", " ", norm_stripped).strip()
+    if len(norm_stripped) < 3:
+        return None
+    result = rfprocess.extractOne(norm_stripped, norm_keys, scorer=fuzz.token_sort_ratio)
     if result and result[1] >= threshold:
         return stops_by_norm[result[0]]
     return None
@@ -211,12 +242,24 @@ def match_osm(
     """
     Return (lat, lon) if canonical_name has a high-confidence OSM match,
     else None.  Exact normalised match takes priority over fuzzy.
+
+    For fuzzy matching, qualifier words (ramificatie, centru, scoala, …)
+    are stripped from the query before scoring so that a shared generic
+    suffix cannot dominate the similarity score and produce false matches
+    (e.g. "Berca ramificatie" must NOT match "Dara Ramificatie").
+    If the stripped query is shorter than 3 chars, fuzzy matching is
+    skipped entirely.
     """
     norm = _normalize(canonical_name)
     if norm in osm_by_norm:
         return osm_by_norm[norm]
+    # Strip qualifier words before fuzzy scoring.
+    norm_stripped = _STRIP_QUALIFIERS.sub("", norm).strip(" -,")
+    norm_stripped = re.sub(r"\s+", " ", norm_stripped).strip()
+    if len(norm_stripped) < 3:
+        return None
     result = rfprocess.extractOne(
-        norm, osm_norm_keys, scorer=fuzz.token_sort_ratio
+        norm_stripped, osm_norm_keys, scorer=fuzz.token_sort_ratio
     )
     if result and result[1] >= threshold:
         return osm_by_norm[result[0]]
@@ -440,6 +483,175 @@ def geocode_route_via_osrm(
 
 
 # ---------------------------------------------------------------------------
+# Phase 4 - Route-context outlier repair
+# ---------------------------------------------------------------------------
+
+def repair_route_outliers(
+    routes: list[dict],
+    geocoded: dict[str, dict],
+    cmap: dict[str, str],
+    detour_excess_km: float = REPAIR_DETOUR_EXCESS_KM,
+    min_leg_km: float = REPAIR_MIN_LEG_KM,
+    terminal_ratio: float = REPAIR_TERMINAL_RATIO,
+) -> tuple[int, int]:
+    """
+    Detect and repair stops whose geocoded coordinates are implausible
+    given their in-route neighbors.
+
+    Two checks are performed:
+
+    Interior stops (geocoded anchor on BOTH sides):
+      Flagged when dist(P,X)+dist(X,N) − dist(P,N) > detour_excess_km
+      AND max(dist(P,X),dist(X,N)) > min_leg_km.
+      → Replaced with an OSRM-interpolated (or linearly interpolated)
+        position along the P→N segment.
+
+    Terminal stops (geocoded anchor on ONE side only):
+      The timetable provides the road km from the single anchor to the
+      stop.  Haversine (straight-line) distance can never exceed road
+      distance, so haversine / timetable_km > 1.0 is physically
+      impossible.  Flagged when ratio > terminal_ratio AND
+      haversine > min_leg_km.
+      → Removed from geocoded (un-geocoded) so the next Phase 3 pass
+        can re-interpolate the gap cleanly.  Any OSRM-interpolated stops
+        whose anchors list the removed stop are also evicted.
+
+    First-route-wins when a stop is flagged by multiple routes.
+    Returns (n_replaced, n_removed).
+    """
+    repairs: dict[str, dict] = {}   # interior: replace with interpolation
+    removals: dict[str, str] = {}   # terminal: remove (name → route_num)
+
+    for route in routes:
+        stations = route.get("stations", [])
+        if len(stations) < 3:
+            continue
+        route_num = route.get("route_number", "?")
+
+        ordered: list[tuple[str, float]] = []
+        cum_km = 0.0
+        for st in stations:
+            raw = st.get("station_name", "").strip()
+            if not raw:
+                continue
+            canon = cmap.get(raw, raw)
+            cum_km += st.get("kilometers_from_previous_station", 0.0)
+            ordered.append((canon, cum_km))
+
+        for i, (name, ckm) in enumerate(ordered):
+            if name not in geocoded:
+                continue
+            if name in repairs or name in removals:
+                continue  # already scheduled; first-route-wins
+
+            prev = next(
+                (j for j in range(i - 1, -1, -1) if ordered[j][0] in geocoded),
+                None,
+            )
+            nxt = next(
+                (j for j in range(i + 1, len(ordered)) if ordered[j][0] in geocoded),
+                None,
+            )
+
+            x_c = geocoded[name]
+
+            if prev is not None and nxt is not None:
+                # --- interior detour check ---
+                p_name, p_ckm = ordered[prev]
+                n_name, n_ckm = ordered[nxt]
+                p_c = geocoded[p_name]
+                n_c = geocoded[n_name]
+
+                dist_px = haversine(p_c["lat"], p_c["lon"], x_c["lat"], x_c["lon"]) / 1000.0
+                dist_xn = haversine(x_c["lat"], x_c["lon"], n_c["lat"], n_c["lon"]) / 1000.0
+                dist_pn = haversine(p_c["lat"], p_c["lon"], n_c["lat"], n_c["lon"]) / 1000.0
+
+                detour = dist_px + dist_xn - dist_pn
+                if detour > detour_excess_km and max(dist_px, dist_xn) > min_leg_km:
+                    repairs[name] = {
+                        "route": route_num,
+                        "p_name": p_name, "p_coord": p_c, "p_ckm": p_ckm,
+                        "n_name": n_name, "n_coord": n_c, "n_ckm": n_ckm,
+                        "ckm": ckm,
+                        "old_source": x_c["source"],
+                    }
+                    print(
+                        f"  Route {route_num}: '{name}' interior outlier "
+                        f"(detour={detour:.0f} km, "
+                        f"legs={dist_px:.0f}+{dist_xn:.0f} km, "
+                        f"direct={dist_pn:.0f} km, was {x_c['source']})"
+                    )
+
+            else:
+                # --- terminal haversine/timetable-km ratio check ---
+                if prev is not None and nxt is None:
+                    anchor_name, anchor_ckm = ordered[prev]
+                    road_km = ckm - anchor_ckm
+                    direction = "trailing"
+                elif nxt is not None and prev is None:
+                    anchor_name, anchor_ckm = ordered[nxt]
+                    road_km = anchor_ckm - ckm
+                    direction = "leading"
+                else:
+                    continue  # no anchors at all — skip
+
+                if road_km <= 0:
+                    continue
+
+                a_c = geocoded[anchor_name]
+                hav_km = haversine(a_c["lat"], a_c["lon"], x_c["lat"], x_c["lon"]) / 1000.0
+                ratio = hav_km / road_km
+
+                if ratio > terminal_ratio and hav_km > min_leg_km:
+                    removals[name] = route_num
+                    print(
+                        f"  Route {route_num}: '{name}' {direction} terminal outlier "
+                        f"(haversine={hav_km:.1f} km, timetable={road_km:.1f} km, "
+                        f"ratio={ratio:.2f} > {terminal_ratio}, was {x_c['source']})"
+                    )
+
+    # Apply interior replacements
+    for name, r in repairs.items():
+        p_c, n_c = r["p_coord"], r["n_coord"]
+        pts = call_osrm_route(p_c["lat"], p_c["lon"], n_c["lat"], n_c["lon"])
+
+        seg_km = r["n_ckm"] - r["p_ckm"]
+        fraction = (r["ckm"] - r["p_ckm"]) / seg_km if seg_km > 0 else 0.5
+        fraction = max(0.0, min(1.0, fraction))
+
+        if pts:
+            lat, lon = point_at_fraction(pts, fraction)
+        else:
+            lat = r["p_coord"]["lat"] + fraction * (r["n_coord"]["lat"] - r["p_coord"]["lat"])
+            lon = r["p_coord"]["lon"] + fraction * (r["n_coord"]["lon"] - r["p_coord"]["lon"])
+
+        geocoded[name] = {
+            "lat": lat,
+            "lon": lon,
+            "source": "route_interpolated",
+            "anchors": [r["p_name"], r["n_name"]],
+            "route": r["route"],
+            "replaced_source": r["old_source"],
+        }
+
+    # Remove terminal outliers and cascade-evict any OSRM stops anchored on them
+    for name in list(removals):
+        geocoded.pop(name, None)
+
+    cascade = [
+        stop for stop, entry in list(geocoded.items())
+        if entry.get("source") == "osrm_interpolated"
+        and any(a in removals for a in entry.get("anchors", []))
+    ]
+    for stop in cascade:
+        geocoded.pop(stop)
+    if cascade:
+        print(f"  Cascade-evicted {len(cascade)} OSRM-interpolated stops dependent on removed terminals")
+
+    return len(repairs), len(removals)
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -547,6 +759,25 @@ def main() -> None:
         print(f"  Pass {pass_num} complete: +{gained} new stops geocoded")
         if gained == 0:
             break  # converged
+
+    # -----------------------------------------------------------------------
+    # Phase 4 - Route-context outlier repair
+    # -----------------------------------------------------------------------
+    print("Phase 4 - Route-context outlier repair …")
+    replaced, removed = repair_route_outliers(routes, geocoded, cmap)
+    if replaced or removed:
+        print(f"  Replaced {replaced} interior outlier(s), removed {removed} terminal outlier(s)")
+    else:
+        print("  No outliers detected")
+    print()
+
+    # Extra Phase 3 pass to fill gaps left by terminal removals
+    if removed:
+        print("Phase 3 (extra pass after terminal removals) \u2026")
+        before = len(geocoded)
+        for route in routes:
+            geocode_route_via_osrm(route, geocoded, cmap)
+        print(f"  +{len(geocoded) - before} stops re-interpolated\n")
 
     # -----------------------------------------------------------------------
     # Results

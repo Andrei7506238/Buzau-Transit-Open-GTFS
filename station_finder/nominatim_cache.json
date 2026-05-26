@@ -18,7 +18,10 @@
     45.1437355,
     26.8297906
   ],
-  "Autogara XXL": null,
+  "Autogara XXL": [
+    45.1625069,
+    26.8147196
+  ],
   "Balta Albă": [
     45.3046294,
     27.2848285
@@ -84,7 +87,10 @@
     45.1437355,
     26.8297906
   ],
-  "Buzău Autogara XXL": null,
+  "Buzău Autogara XXL": [
+    45.1625069,
+    26.8147196
+  ],
   "Buzău Chimica": null,
   "Buzău Cimitirul Evreiesc": null,
   "Buzău Clubul poliţiştilor": null,
@@ -111,7 +117,10 @@
     45.0090502,
     27.1484056
   ],
-  "Bălăceanu Cap traseu": null,
+  "Bălăceanu Cap traseu": [
+    45.2485502,
+    27.1360919
+  ],
   "Bălăneşti": [
     45.3408989,
     26.4854676
@@ -278,7 +287,10 @@
     45.1070799,
     26.4997704
   ],
-  "Ghergheasa Biserică": null,
+  "Ghergheasa Biserică": [
+    45.2744623,
+    27.205439
+  ],
   "Ghergheasa Cap Traseu": null,
   "Gherăseni": [
     45.0252509,
@@ -490,7 +502,10 @@
   ],
   "Ogrăzi ramificaţie": null,
   "Ojasca spital": null,
-  "Oreavul terasă": null,
+  "Oreavul terasă": [
+    45.3707497,
+    27.0299835
+  ],
   "Pardoşi": [
     45.4545741,
     26.8827343
@@ -592,15 +607,30 @@
     45.2889214,
     26.5461663
   ],
-  "Pătârlagele Autogara": null,
-  "Pătârlagele centru": null,
+  "Pătârlagele Autogara": [
+    45.3237624,
+    26.3575036
+  ],
+  "Pătârlagele centru": [
+    45.3147742,
+    26.3614156
+  ],
   "Racoviţeni Botești": null,
   "Racoviţeni Moară": null,
   "Racoviţeni Poliție": null,
-  "Rm. Sărat Autogara TUC SA": null,
-  "Rm. Sărat Autogara Valman Tur": null,
+  "Rm. Sărat Autogara TUC SA": [
+    45.3873416,
+    27.0527743
+  ],
+  "Rm. Sărat Autogara Valman Tur": [
+    45.3882484,
+    27.0511042
+  ],
   "Rm. Sărat autobază": null,
-  "Rm. Sărat cartier Barasca": null,
+  "Rm. Sărat cartier Barasca": [
+    45.3780473,
+    27.0247976
+  ],
   "Rm. Sărat pod": null,
   "Robeşti": [
     45.2956004,
@@ -676,8 +706,14 @@
     45.3087383,
     27.1769152
   ],
-  "Sălcioara Centru": null,
-  "Sălcioara Dispensar": null,
+  "Sălcioara Centru": [
+    45.3089411,
+    27.1752971
+  ],
+  "Sălcioara Dispensar": [
+    45.3053598,
+    27.1780035
+  ],
   "Sălcioara Pod": [
     45.3118067,
     27.1709733
@@ -738,7 +774,10 @@
     45.3621581,
     26.7754647
   ],
-  "Valea Rîmnicului": null,
+  "Valea Rîmnicului": [
+    45.3660677,
+    27.0373994
+  ],
   "Valea Salciei": [
     45.4970408,
     26.8258716
@@ -808,8 +847,14 @@
     45.2977942,
     26.870929
   ],
-  "Zărneşti Slănic": null,
-  "Zărneşti de Slănic": null,
+  "Zărneşti Slănic": [
+    45.2787946,
+    26.7533508
+  ],
+  "Zărneşti de Slănic": [
+    45.2787946,
+    26.7533508
+  ],
   "Şaranga magazin Paul": [
     45.0962069,
     26.613695

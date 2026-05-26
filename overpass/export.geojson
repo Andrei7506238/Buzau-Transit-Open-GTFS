@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
+  "generator": "overpass-api",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-05-24T15:57:00Z",
+  "timestamp": "2026-05-26T22:20:20Z",
   "features": [
     {
       "type": "Feature",
@@ -156,1545 +156,6 @@
         ]
       },
       "id": "node/601053143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/787913727",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3774904,
-          45.2466692
-        ]
-      },
-      "id": "way/787913727"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/787955640",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0212964,
-          45.0431997
-        ]
-      },
-      "id": "way/787955640"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/787955642",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "gravel",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0212199,
-          45.0432747
-        ]
-      },
-      "id": "way/787955642"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/788679624",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8633553,
-          44.8142925
-        ]
-      },
-      "id": "way/788679624"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/809325667",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5817527,
-          45.2814433
-        ]
-      },
-      "id": "way/809325667"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/809927009",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.363893,
-          45.2589211
-        ]
-      },
-      "id": "way/809927009"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/812985470",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0728366,
-          45.0437137
-        ]
-      },
-      "id": "way/812985470"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/812985471",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0729739,
-          45.043665
-        ]
-      },
-      "id": "way/812985471"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/822332250",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3576649,
-          45.3243794
-        ]
-      },
-      "id": "way/822332250"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/822332252",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "3",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3576815,
-          45.3244499
-        ]
-      },
-      "id": "way/822332252"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/824669640",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5516302,
-          45.2787401
-        ]
-      },
-      "id": "way/824669640"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/825472810",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9990486,
-          44.8844332
-        ]
-      },
-      "id": "way/825472810"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/825472811",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9989728,
-          44.8844504
-        ]
-      },
-      "id": "way/825472811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/825472812",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9991446,
-          44.8846245
-        ]
-      },
-      "id": "way/825472812"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/832937873",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0580246,
-          45.3792991
-        ]
-      },
-      "id": "way/832937873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/832937874",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0580189,
-          45.3797755
-        ]
-      },
-      "id": "way/832937874"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/832937875",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.058228,
-          45.3792323
-        ]
-      },
-      "id": "way/832937875"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833130923",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.2018124,
-          44.9886703
-        ]
-      },
-      "id": "way/833130923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/833130927",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.2017364,
-          44.9887466
-        ]
-      },
-      "id": "way/833130927"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835069344",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5185535,
-          45.0297925
-        ]
-      },
-      "id": "way/835069344"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835069345",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5181525,
-          45.0295322
-        ]
-      },
-      "id": "way/835069345"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835087650",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9353732,
-          44.8515885
-        ]
-      },
-      "id": "way/835087650"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/839731372",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.096054,
-          45.4421152
-        ]
-      },
-      "id": "way/839731372"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846350637",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3624099,
-          45.2916137
-        ]
-      },
-      "id": "way/846350637"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846359647",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.4559779,
-          45.2310286
-        ]
-      },
-      "id": "way/846359647"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846359648",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.4897154,
-          45.2412366
-        ]
-      },
-      "id": "way/846359648"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846359655",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6181071,
-          45.282818
-        ]
-      },
-      "id": "way/846359655"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846359659",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6747923,
-          45.2782599
-        ]
-      },
-      "id": "way/846359659"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846359660",
-        "area": "yes",
-        "departures_board": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6747985,
-          45.2781727
-        ]
-      },
-      "id": "way/846359660"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846365296",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7319191,
-          45.2043544
-        ]
-      },
-      "id": "way/846365296"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846377913",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7731797,
-          45.1667379
-        ]
-      },
-      "id": "way/846377913"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846419709",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8688096,
-          45.1213841
-        ]
-      },
-      "id": "way/846419709"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846419710",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8688233,
-          45.1211787
-        ]
-      },
-      "id": "way/846419710"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846419711",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8689205,
-          45.1213699
-        ]
-      },
-      "id": "way/846419711"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849257868",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3477197,
-          45.3507423
-        ]
-      },
-      "id": "way/849257868"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849478779",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.1514254,
-          45.0589243
-        ]
-      },
-      "id": "way/849478779"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849478780",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.151537,
-          45.059052
-        ]
-      },
-      "id": "way/849478780"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849478810",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.1918211,
-          45.0666693
-        ]
-      },
-      "id": "way/849478810"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849478811",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.1917417,
-          45.0667567
-        ]
-      },
-      "id": "way/849478811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/859063565",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0119219,
-          45.2853467
-        ]
-      },
-      "id": "way/859063565"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/859063567",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0117676,
-          45.285326
-        ]
-      },
-      "id": "way/859063567"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/859063568",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0116764,
-          45.2853742
-        ]
-      },
-      "id": "way/859063568"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909001597",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "3",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.2019877,
-          44.9889321
-        ]
-      },
-      "id": "way/909001597"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909304049",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "3",
-        "surface": "gravel",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0214266,
-          45.0433221
-        ]
-      },
-      "id": "way/909304049"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909541221",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9748312,
-          45.0567887
-        ]
-      },
-      "id": "way/909541221"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909541222",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9747957,
-          45.0567255
-        ]
-      },
-      "id": "way/909541222"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909586861",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9242072,
-          45.0713971
-        ]
-      },
-      "id": "way/909586861"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909586862",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9241589,
-          45.0713174
-        ]
-      },
-      "id": "way/909586862"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909831940",
-        "public_transport": "platform",
-        "railway": "platform",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9057896,
-          45.0808198
-        ]
-      },
-      "id": "way/909831940"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/909831941",
-        "public_transport": "platform",
-        "railway": "platform",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.9055086,
-          45.0809778
-        ]
-      },
-      "id": "way/909831941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/913077325",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "4 - 5",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8257931,
-          45.1425654
-        ]
-      },
-      "id": "way/913077325"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/913077326",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2 - 3",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.825828,
-          45.142695
-        ]
-      },
-      "id": "way/913077326"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/913077327",
-        "area": "yes",
-        "departures_board": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8253432,
-          45.1427814
-        ]
-      },
-      "id": "way/913077327"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/914052252",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "Linia 20",
-        "surface": "paving_stones",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.8218446,
-          45.1426165
-        ]
-      },
-      "id": "way/914052252"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/914528398",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7319236,
-          45.2044116
-        ]
-      },
-      "id": "way/914528398"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/914985175",
-        "operator": "TFC",
-        "public_transport": "platform",
-        "railway": "platform",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7150047,
-          45.2450092
-        ]
-      },
-      "id": "way/914985175"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/915417376",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6486084,
-          45.280463
-        ]
-      },
-      "id": "way/915417376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/915663104",
-        "area": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5510644,
-          45.2787316
-        ]
-      },
-      "id": "way/915663104"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/915663106",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "3",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5514625,
-          45.278682
-        ]
-      },
-      "id": "way/915663106"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/915697453",
-        "public_transport": "platform",
-        "railway": "platform",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5095532,
-          45.2572117
-        ]
-      },
-      "id": "way/915697453"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/916890774",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "gravel",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3583937,
-          45.2771859
-        ]
-      },
-      "id": "way/916890774"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917229564",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.348019,
-          45.3503309
-        ]
-      },
-      "id": "way/917229564"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917269242",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3229037,
-          45.3813028
-        ]
-      },
-      "id": "way/917269242"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917397133",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3196295,
-          45.3994816
-        ]
-      },
-      "id": "way/917397133"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917438972",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3069709,
-          45.4164667
-        ]
-      },
-      "id": "way/917438972"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917824768",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7026101,
-          45.1009642
-        ]
-      },
-      "id": "way/917824768"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917830589",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7015437,
-          45.1005507
-        ]
-      },
-      "id": "way/917830589"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/917830590",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7018039,
-          45.1005694
-        ]
-      },
-      "id": "way/917830590"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918075559",
-        "area": "yes",
-        "departures_board": "yes",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3059576,
-          45.4312795
-        ]
-      },
-      "id": "way/918075559"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918075560",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3056347,
-          45.4306512
-        ]
-      },
-      "id": "way/918075560"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918075561",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "3",
-        "surface": "asphalt",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.3059018,
-          45.4309492
-        ]
-      },
-      "id": "way/918075561"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918484163",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "2",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.651779,
-          45.0814335
-        ]
-      },
-      "id": "way/918484163"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918486513",
-        "area": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "surface": "paving_stones",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6516546,
-          45.0814764
-        ]
-      },
-      "id": "way/918486513"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918638850",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6047828,
-          45.0632251
-        ]
-      },
-      "id": "way/918638850"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/918638851",
-        "public_transport": "platform",
-        "railway": "platform",
-        "surface": "concrete:plates",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6046313,
-          45.0630705
-        ]
-      },
-      "id": "way/918638851"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/919051263",
-        "area": "yes",
-        "departures_board": "yes",
-        "operator": "CFR",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.5187686,
-          45.0299517
-        ]
-      },
-      "id": "way/919051263"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/988077592",
-        "public_transport": "platform",
-        "railway": "platform",
-        "ref": "1",
-        "train": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.674753,
-          45.2782172
-        ]
-      },
-      "id": "way/988077592"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1209115951",
-        "bench": "yes",
-        "bin": "yes",
-        "bus": "yes",
-        "public_transport": "platform",
-        "shelter": "yes",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.6331531,
-          45.0779427
-        ]
-      },
-      "id": "way/1209115951"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1252321041",
-        "bus": "yes",
-        "oneway": "yes",
-        "public_transport": "platform",
-        "surface": "asphalt",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7740237,
-          45.1740402
-        ]
-      },
-      "id": "way/1252321041"
     },
     {
       "type": "Feature",
@@ -3784,6 +2245,7 @@
         "@id": "node/11091465331",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Bâsca Chiojdului Magazin",
         "public_transport": "platform"
       },
       "geometry": {
@@ -4680,6 +3142,7 @@
         "@id": "node/11573047206",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Merei Consiliul Local",
         "public_transport": "platform"
       },
       "geometry": {
@@ -5500,7 +3963,7 @@
         "bus": "yes",
         "fixme": "Locatie aproximativa, necesar pentru GTFS.\nDaca stie cineva locatia exacta va rog corectati",
         "highway": "bus_stop",
-        "name": "Sălcioara",
+        "name": "Sălcioara Centru",
         "public_transport": "platform"
       },
       "geometry": {
@@ -5583,6 +4046,2025 @@
         ]
       },
       "id": "node/13872300146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885188298",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vâlcelele",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3549867,
+          45.3403116
+        ]
+      },
+      "id": "node/13885188298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885219320",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sălcioara Dispensar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1780035,
+          45.3053598
+        ]
+      },
+      "id": "node/13885219320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885264860",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Calvini Primărie",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2968527,
+          45.2497696
+        ]
+      },
+      "id": "node/13885264860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885276913",
+        "alt_name": "Transport Urban de Călători",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rm. Sărat Autogara TUC SA",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0527743,
+          45.3873416
+        ]
+      },
+      "id": "node/13885276913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885276914",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rm. Sărat Autogara Valman Tur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0511042,
+          45.3882484
+        ]
+      },
+      "id": "node/13885276914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885276915",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rm. Sărat cartier Barasca",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0247976,
+          45.3780473
+        ]
+      },
+      "id": "node/13885276915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885280506",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pogoanele Piaţă",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9861675,
+          44.9182154
+        ]
+      },
+      "id": "node/13885280506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885401564",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ghergheasa Biserică",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.205439,
+          45.2744623
+        ]
+      },
+      "id": "node/13885401564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885420235",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bâsca Chiojdului Cap traseu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1749784,
+          45.3753182
+        ]
+      },
+      "id": "node/13885420235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885420238",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Oreavul terasa",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0299835,
+          45.3707497
+        ]
+      },
+      "id": "node/13885420238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885420243",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Smeeni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8528973,
+          44.9988456
+        ]
+      },
+      "id": "node/13885420243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885439117",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bălăceanu 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1254653,
+          45.2484151
+        ]
+      },
+      "id": "node/13885439117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885439118",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bălăceanu Cap traseu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1360919,
+          45.2485502
+        ]
+      },
+      "id": "node/13885439118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885439126",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gura Teghii",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4217039,
+          45.4845486
+        ]
+      },
+      "id": "node/13885439126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885459881",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Valea Rîmnicului",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0373994,
+          45.3660677
+        ]
+      },
+      "id": "node/13885459881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885484899",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bîscenii de Sus 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2719605,
+          45.2607255
+        ]
+      },
+      "id": "node/13885484899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885501328",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pătârlagele centru",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3614156,
+          45.3147742
+        ]
+      },
+      "id": "node/13885501328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885503022",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pătârlagele Autogara",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3575036,
+          45.3237624
+        ]
+      },
+      "id": "node/13885503022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885503422",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Câmpulungeanca",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8199594,
+          45.4511976
+        ]
+      },
+      "id": "node/13885503422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885506753",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nehoiu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3006492,
+          45.4170539
+        ]
+      },
+      "id": "node/13885506753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885513784",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bîscenii de Sus 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2656745,
+          45.2674323
+        ]
+      },
+      "id": "node/13885513784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885539862",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Zărneşti Slănic",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7533508,
+          45.2787946
+        ]
+      },
+      "id": "node/13885539862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885541867",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pruneni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8449655,
+          45.3317024
+        ]
+      },
+      "id": "node/13885541867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885697362",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lunca",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3577178,
+          45.296465
+        ]
+      },
+      "id": "node/13885697362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885706729",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lunca Frumoasă 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5347787,
+          45.3022712
+        ]
+      },
+      "id": "node/13885706729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885706730",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Trestia 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5152831,
+          45.3277587
+        ]
+      },
+      "id": "node/13885706730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885716960",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cozieni Consiliu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4879514,
+          45.3318087
+        ]
+      },
+      "id": "node/13885716960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885728411",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bozioru 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.48784,
+          45.3739675
+        ]
+      },
+      "id": "node/13885728411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885728412",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bozioru 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.490912,
+          45.3814466
+        ]
+      },
+      "id": "node/13885728412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885758006",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dulbanu",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5988398,
+          44.905342
+        ]
+      },
+      "id": "node/13885758006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885785802",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lacu Sinaia",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5576461,
+          44.9263477
+        ]
+      },
+      "id": "node/13885785802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787913727",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3774904,
+          45.2466692
+        ]
+      },
+      "id": "way/787913727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787955640",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0212964,
+          45.0431997
+        ]
+      },
+      "id": "way/787955640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787955642",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "gravel",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0212199,
+          45.0432747
+        ]
+      },
+      "id": "way/787955642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/788679624",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8633553,
+          44.8142925
+        ]
+      },
+      "id": "way/788679624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809325667",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5817527,
+          45.2814433
+        ]
+      },
+      "id": "way/809325667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/809927009",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.363893,
+          45.2589211
+        ]
+      },
+      "id": "way/809927009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812985470",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0728366,
+          45.0437137
+        ]
+      },
+      "id": "way/812985470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/812985471",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0729739,
+          45.043665
+        ]
+      },
+      "id": "way/812985471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822332250",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3576649,
+          45.3243794
+        ]
+      },
+      "id": "way/822332250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822332252",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3576815,
+          45.3244499
+        ]
+      },
+      "id": "way/822332252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824669640",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5516302,
+          45.2787401
+        ]
+      },
+      "id": "way/824669640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472810",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9990486,
+          44.8844332
+        ]
+      },
+      "id": "way/825472810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472811",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9989728,
+          44.8844504
+        ]
+      },
+      "id": "way/825472811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825472812",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9991446,
+          44.8846245
+        ]
+      },
+      "id": "way/825472812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937873",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0580246,
+          45.3792991
+        ]
+      },
+      "id": "way/832937873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937874",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0580189,
+          45.3797755
+        ]
+      },
+      "id": "way/832937874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/832937875",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.058228,
+          45.3792323
+        ]
+      },
+      "id": "way/832937875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833130923",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2018124,
+          44.9886703
+        ]
+      },
+      "id": "way/833130923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833130927",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2017364,
+          44.9887466
+        ]
+      },
+      "id": "way/833130927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835069344",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5185535,
+          45.0297925
+        ]
+      },
+      "id": "way/835069344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835069345",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5181525,
+          45.0295322
+        ]
+      },
+      "id": "way/835069345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835087650",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9353732,
+          44.8515885
+        ]
+      },
+      "id": "way/835087650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839731372",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.096054,
+          45.4421152
+        ]
+      },
+      "id": "way/839731372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846350637",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3624099,
+          45.2916137
+        ]
+      },
+      "id": "way/846350637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359647",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4559779,
+          45.2310286
+        ]
+      },
+      "id": "way/846359647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359648",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4897154,
+          45.2412366
+        ]
+      },
+      "id": "way/846359648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359655",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6181071,
+          45.282818
+        ]
+      },
+      "id": "way/846359655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359659",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6747923,
+          45.2782599
+        ]
+      },
+      "id": "way/846359659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846359660",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6747985,
+          45.2781727
+        ]
+      },
+      "id": "way/846359660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846365296",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7319191,
+          45.2043544
+        ]
+      },
+      "id": "way/846365296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846377913",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7731797,
+          45.1667379
+        ]
+      },
+      "id": "way/846377913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419709",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8688096,
+          45.1213841
+        ]
+      },
+      "id": "way/846419709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419710",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8688233,
+          45.1211787
+        ]
+      },
+      "id": "way/846419710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846419711",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8689205,
+          45.1213699
+        ]
+      },
+      "id": "way/846419711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849257868",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3477197,
+          45.3507423
+        ]
+      },
+      "id": "way/849257868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478779",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1514254,
+          45.0589243
+        ]
+      },
+      "id": "way/849478779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478780",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.151537,
+          45.059052
+        ]
+      },
+      "id": "way/849478780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478810",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1918211,
+          45.0666693
+        ]
+      },
+      "id": "way/849478810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/849478811",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1917417,
+          45.0667567
+        ]
+      },
+      "id": "way/849478811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063565",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0119219,
+          45.2853467
+        ]
+      },
+      "id": "way/859063565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063567",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0117676,
+          45.285326
+        ]
+      },
+      "id": "way/859063567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859063568",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0116764,
+          45.2853742
+        ]
+      },
+      "id": "way/859063568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909001597",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2019877,
+          44.9889321
+        ]
+      },
+      "id": "way/909001597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909304049",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "gravel",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0214266,
+          45.0433221
+        ]
+      },
+      "id": "way/909304049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909541221",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9748312,
+          45.0567887
+        ]
+      },
+      "id": "way/909541221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909541222",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9747957,
+          45.0567255
+        ]
+      },
+      "id": "way/909541222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909586861",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9242072,
+          45.0713971
+        ]
+      },
+      "id": "way/909586861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909586862",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9241589,
+          45.0713174
+        ]
+      },
+      "id": "way/909586862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909831940",
+        "public_transport": "platform",
+        "railway": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9057896,
+          45.0808198
+        ]
+      },
+      "id": "way/909831940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/909831941",
+        "public_transport": "platform",
+        "railway": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9055086,
+          45.0809778
+        ]
+      },
+      "id": "way/909831941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077325",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "4 - 5",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8257931,
+          45.1425654
+        ]
+      },
+      "id": "way/913077325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077326",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2 - 3",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.825828,
+          45.142695
+        ]
+      },
+      "id": "way/913077326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913077327",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8253432,
+          45.1427814
+        ]
+      },
+      "id": "way/913077327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914052252",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Linia 20",
+        "surface": "paving_stones",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8218446,
+          45.1426165
+        ]
+      },
+      "id": "way/914052252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914528398",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7319236,
+          45.2044116
+        ]
+      },
+      "id": "way/914528398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914985175",
+        "operator": "TFC",
+        "public_transport": "platform",
+        "railway": "platform",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7150047,
+          45.2450092
+        ]
+      },
+      "id": "way/914985175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915417376",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6486084,
+          45.280463
+        ]
+      },
+      "id": "way/915417376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915663104",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5510644,
+          45.2787316
+        ]
+      },
+      "id": "way/915663104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915663106",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5514625,
+          45.278682
+        ]
+      },
+      "id": "way/915663106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/915697453",
+        "public_transport": "platform",
+        "railway": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5095532,
+          45.2572117
+        ]
+      },
+      "id": "way/915697453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/916890774",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "gravel",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3583937,
+          45.2771859
+        ]
+      },
+      "id": "way/916890774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917229564",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.348019,
+          45.3503309
+        ]
+      },
+      "id": "way/917229564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917269242",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3229037,
+          45.3813028
+        ]
+      },
+      "id": "way/917269242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917397133",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3196295,
+          45.3994816
+        ]
+      },
+      "id": "way/917397133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917438972",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3069709,
+          45.4164667
+        ]
+      },
+      "id": "way/917438972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917824768",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7026101,
+          45.1009642
+        ]
+      },
+      "id": "way/917824768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917830589",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7015437,
+          45.1005507
+        ]
+      },
+      "id": "way/917830589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917830590",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7018039,
+          45.1005694
+        ]
+      },
+      "id": "way/917830590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075559",
+        "area": "yes",
+        "departures_board": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3059576,
+          45.4312795
+        ]
+      },
+      "id": "way/918075559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075560",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3056347,
+          45.4306512
+        ]
+      },
+      "id": "way/918075560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918075561",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "3",
+        "surface": "asphalt",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3059018,
+          45.4309492
+        ]
+      },
+      "id": "way/918075561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918484163",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "2",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.651779,
+          45.0814335
+        ]
+      },
+      "id": "way/918484163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918486513",
+        "area": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "surface": "paving_stones",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6516546,
+          45.0814764
+        ]
+      },
+      "id": "way/918486513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918638850",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6047828,
+          45.0632251
+        ]
+      },
+      "id": "way/918638850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918638851",
+        "public_transport": "platform",
+        "railway": "platform",
+        "surface": "concrete:plates",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6046313,
+          45.0630705
+        ]
+      },
+      "id": "way/918638851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/919051263",
+        "area": "yes",
+        "departures_board": "yes",
+        "operator": "CFR",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5187686,
+          45.0299517
+        ]
+      },
+      "id": "way/919051263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/988077592",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "1",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.674753,
+          45.2782172
+        ]
+      },
+      "id": "way/988077592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1209115951",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6331531,
+          45.0779427
+        ]
+      },
+      "id": "way/1209115951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1252321041",
+        "bus": "yes",
+        "oneway": "yes",
+        "public_transport": "platform",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7740237,
+          45.1740402
+        ]
+      },
+      "id": "way/1252321041"
     }
   ]
 }
