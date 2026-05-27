@@ -60,8 +60,8 @@
   "Blăjani Cap Traseu": null,
   "Blăjani Centru": null,
   "Boboc Gară": [
-    45.2094997,
-    26.9287514
+    45.209273,
+    26.9308109
   ],
   "Boldu": [
     45.3227859,
@@ -196,7 +196,10 @@
     45.3309668,
     26.4906295
   ],
-  "Cozieni Consiliu": null,
+  "Cozieni Consiliu": [
+    45.3318087,
+    26.4879514
+  ],
   "Cremenea": [
     45.0265692,
     26.7975987
@@ -229,7 +232,10 @@
     45.3975777,
     26.6027073
   ],
-  "Căpăţîneşti": null,
+  "Căpăţîneşti": [
+    45.1901024,
+    26.7908959
+  ],
   "Cărpiniştea": [
     45.3618337,
     26.7667369
@@ -278,7 +284,10 @@
     45.2914112,
     26.8802817
   ],
-  "Fundeni Poliție": null,
+  "Fundeni Poliție": [
+    45.2906762,
+    26.8808492
+  ],
   "Furtuneşti": [
     45.4620804,
     26.4035323
@@ -411,8 +420,14 @@
     26.5925145
   ],
   "Luciu Moară": null,
-  "Luciu Parc": null,
-  "Luciu Primărie": null,
+  "Luciu Parc": [
+    44.9694176,
+    27.0855236
+  ],
+  "Luciu Primărie": [
+    44.9714019,
+    27.0786965
+  ],
   "Lunca": [
     45.2966099,
     26.3573673
@@ -428,7 +443,10 @@
     45.0509055,
     26.8558164
   ],
-  "Merei Consiliul Local": null,
+  "Merei Consiliul Local": [
+    45.131612,
+    26.6747877
+  ],
   "Merei moară": null,
   "Mihăileşti": null,
   "Mihăileşti Cl. Local": null,
@@ -515,7 +533,10 @@
     26.5432744
   ],
   "Petrişoru Mustăţari": null,
-  "Petrişoru Școală": null,
+  "Petrişoru Școală": [
+    45.3289626,
+    26.8937528
+  ],
   "Piatra Albă": [
     45.3801431,
     26.5393612
@@ -617,7 +638,10 @@
   ],
   "Racoviţeni Botești": null,
   "Racoviţeni Moară": null,
-  "Racoviţeni Poliție": null,
+  "Racoviţeni Poliție": [
+    45.3544156,
+    26.8922633
+  ],
   "Rm. Sărat Autogara TUC SA": [
     45.3873416,
     27.0527743
@@ -693,10 +717,13 @@
   ],
   "Spătaru Gomoiești Ramificație": null,
   "Spătaru Școală": null,
-  "Sudiţi Aliceni": null,
+  "Sudiţi Aliceni": [
+    45.2720229,
+    26.8712375
+  ],
   "Sudiți": [
-    45.0229761,
-    26.8100947
+    45.2689045,
+    26.8718346
   ],
   "Sârbeşti": [
     45.4768497,
@@ -743,7 +770,10 @@
     26.3770304
   ],
   "Toca": null,
-  "Topliceni 1 Primărie": null,
+  "Topliceni 1 Primărie": [
+    45.3875518,
+    27.0215386
+  ],
   "Trestioara": [
     45.5031661,
     26.6109393

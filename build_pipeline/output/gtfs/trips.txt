@@ -175,36 +175,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id
 016,1234567,r016_e05_b,Buzău Autogara Sud,1
 016,12345_SCH,r016_e06_w,Padina,0
 016,12345_SCH,r016_e06_b,Buzău Autogara Sud,1
-017,12345,r017_e00_w,Lunca,0
-017,12345,r017_e00_b,Buzău Autogara Sud,1
-017,123456,r017_e01_w,Lunca,0
-017,123456,r017_e01_b,Buzău Autogara Sud,1
-017,1234567,r017_e02_w,Lunca,0
-017,1234567,r017_e02_b,Buzău Autogara Sud,1
-017,123456,r017_e03_w,Lunca,0
-017,123456,r017_e03_b,Buzău Autogara Sud,1
-017,1234567,r017_e04_w,Lunca,0
-017,1234567,r017_e04_b,Buzău Autogara Sud,1
-017,12345,r017_e05_w,Lunca,0
-017,12345,r017_e05_b,Buzău Autogara Sud,1
-017,1234567,r017_e06_w,Lunca,0
-017,1234567,r017_e06_b,Buzău Autogara Sud,1
-017,12345,r017_e07_w,Lunca,0
-017,12345,r017_e07_b,Buzău Autogara Sud,1
-017,123456,r017_e08_w,Lunca,0
-017,123456,r017_e08_b,Buzău Autogara Sud,1
-017,1234567,r017_e09_w,Lunca,0
-017,1234567,r017_e09_b,Buzău Autogara Sud,1
-017,1234567,r017_e10_w,Lunca,0
-017,1234567,r017_e10_b,Buzău Autogara Sud,1
-017,12345,r017_e11_w,Lunca,0
-017,12345,r017_e11_b,Buzău Autogara Sud,1
-017,12345,r017_e12_w,Lunca,0
-017,12345,r017_e12_b,Buzău Autogara Sud,1
-017,1234567,r017_e13_w,Lunca,0
-017,1234567,r017_e13_b,Buzău Autogara Sud,1
-017,123456,r017_e14_w,Lunca,0
-017,123456,r017_e14_b,Buzău Autogara Sud,1
 018,123456,r018_e00_w,Ruşeţu,0
 018,123456,r018_e00_b,Buzău Autogara Sud,1
 018,1234567,r018_e01_w,Ruşeţu,0

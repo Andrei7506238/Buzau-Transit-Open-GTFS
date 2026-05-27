@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-api",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2026-05-26T22:20:20Z",
+  "timestamp": "2026-05-27T23:41:05Z",
   "features": [
     {
       "type": "Feature",
@@ -2114,6 +2114,7 @@
         "@id": "node/9827005040",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Luciu Parc",
         "public_transport": "platform",
         "shelter": "yes"
       },
@@ -2382,6 +2383,7 @@
         "@id": "node/11104235656",
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Scărlătești",
         "public_transport": "platform"
       },
       "geometry": {
@@ -4591,6 +4593,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/13885783532",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Soreşti 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8187295,
+          45.2836948
+        ]
+      },
+      "id": "node/13885783532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/13885785802",
         "bus": "yes",
         "highway": "bus_stop",
@@ -4605,6 +4625,617 @@
         ]
       },
       "id": "node/13885785802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885786879",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rușețu 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2090837,
+          44.9642449
+        ]
+      },
+      "id": "node/13885786879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885849704",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Smărdan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8408181,
+          44.8770217
+        ]
+      },
+      "id": "node/13885849704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885859932",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ileana",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6279786,
+          44.8613871
+        ]
+      },
+      "id": "node/13885859932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885861297",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rușeţu 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2138521,
+          44.9547786
+        ]
+      },
+      "id": "node/13885861297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885861783",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sudiţi Aliceni",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8712375,
+          45.2720229
+        ]
+      },
+      "id": "node/13885861783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885873548",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Roșioru",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0793979,
+          45.2128866
+        ]
+      },
+      "id": "node/13885873548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13885902494",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Petrişoru Școală",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8937528,
+          45.3289626
+        ]
+      },
+      "id": "node/13885902494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889478519",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cochirleanca 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0295783,
+          45.2109302
+        ]
+      },
+      "id": "node/13889478519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889485509",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cochirleanca 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0379249,
+          45.2091252
+        ]
+      },
+      "id": "node/13889485509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889500867",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Valea Nucului 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7251412,
+          45.2618739
+        ]
+      },
+      "id": "node/13889500867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889504590",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Poșta Câlnău",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8711738,
+          45.2337077
+        ]
+      },
+      "id": "node/13889504590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889505326",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Valea Nucului",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7310694,
+          45.2554906
+        ]
+      },
+      "id": "node/13889505326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889505393",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Fundeni Poliție",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8808492,
+          45.2906762
+        ]
+      },
+      "id": "node/13889505393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889509439",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Potărnicheşti",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.861362,
+          45.2192116
+        ]
+      },
+      "id": "node/13889509439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889519046",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Boboc 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9871033,
+          45.1944918
+        ]
+      },
+      "id": "node/13889519046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889519047",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Boboc 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9812282,
+          45.1948811
+        ]
+      },
+      "id": "node/13889519047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889528105",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Boboc Gară",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9308109,
+          45.209273
+        ]
+      },
+      "id": "node/13889528105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889530356",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cochirleanca 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0514223,
+          45.2076737
+        ]
+      },
+      "id": "node/13889530356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889625357",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Luciu Primărie",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0786965,
+          44.9714019
+        ]
+      },
+      "id": "node/13889625357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889625358",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Largu 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1403172,
+          44.9756478
+        ]
+      },
+      "id": "node/13889625358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889625359",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Largu 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1475816,
+          44.9749829
+        ]
+      },
+      "id": "node/13889625359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889672014",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Racovițeni Poliție",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8922633,
+          45.3544156
+        ]
+      },
+      "id": "node/13889672014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889672015",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vadu Sorești 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8768656,
+          45.3145139
+        ]
+      },
+      "id": "node/13889672015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889697744",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Căpăţîneşti",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7908959,
+          45.1901024
+        ]
+      },
+      "id": "node/13889697744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812290",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Topliceni 1 Primărie",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0215386,
+          45.3875518
+        ]
+      },
+      "id": "node/13889812290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812291",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Răducești 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0052342,
+          45.4250913
+        ]
+      },
+      "id": "node/13889812291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812292",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0035469,
+          45.429939
+        ]
+      },
+      "id": "node/13889812292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812293",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Răducești 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0025236,
+          45.4303777
+        ]
+      },
+      "id": "node/13889812293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812294",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Băbeni 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9791609,
+          45.4444382
+        ]
+      },
+      "id": "node/13889812294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812295",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Deduleşti",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9637311,
+          45.4698242
+        ]
+      },
+      "id": "node/13889812295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812296",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.941367,
+          45.4762166
+        ]
+      },
+      "id": "node/13889812296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889812297",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Buda 2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9026134,
+          45.4965545
+        ]
+      },
+      "id": "node/13889812297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889827247",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mucești Dănulești",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9317647,
+          45.5187794
+        ]
+      },
+      "id": "node/13889827247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13889830658",
+        "bus": "yes",
+        "fixme": "Locatie aproximativa",
+        "highway": "bus_stop",
+        "name": "Al. Odobescu 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9119006,
+          45.5078229
+        ]
+      },
+      "id": "node/13889830658"
     },
     {
       "type": "Feature",

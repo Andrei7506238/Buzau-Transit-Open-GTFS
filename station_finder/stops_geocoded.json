@@ -1,1362 +1,1476 @@
 {
-  "Bentu": {
-    "lat": 45.06613282257857,
-    "lon": 26.972864476443565,
-    "source": "transbus"
-  },
-  "Călţuna": {
-    "lat": 44.96452242863011,
-    "lon": 26.948663185168545,
-    "source": "transbus"
-  },
-  "Fulga": {
-    "lat": 45.33750261357772,
-    "lon": 26.770961321175943,
-    "source": "transbus"
-  },
-  "Joseni": {
-    "lat": 45.326017600000014,
-    "lon": 26.659895500000008,
-    "source": "transbus"
-  },
-  "Merei moară": {
-    "lat": 45.1246323,
-    "lon": 26.686446200000002,
-    "source": "transbus"
-  },
-  "Săpoca Pod": {
-    "lat": 45.249770220259194,
-    "lon": 26.75562052115261,
-    "source": "transbus"
-  },
-  "Apostari": {
-    "lat": 45.479389,
-    "lon": 26.6794936,
-    "source": "osm"
-  },
-  "Batogu": {
-    "lat": 45.4116623,
-    "lon": 26.8777191,
-    "source": "osm"
-  },
-  "Beşlii": {
-    "lat": 45.4838587,
-    "lon": 26.6728979,
-    "source": "osm"
-  },
-  "Bozioru 1": {
-    "lat": 45.3739675,
-    "lon": 26.48784,
-    "source": "osm"
-  },
-  "Bozioru 2": {
-    "lat": 45.3814466,
-    "lon": 26.490912,
-    "source": "osm"
-  },
-  "Buzău Drăgaică": {
-    "lat": 45.1431646,
-    "lon": 26.8247176,
-    "source": "osm"
-  },
-  "Buzău Fabrica de bere": {
-    "lat": 45.1640185,
-    "lon": 26.7874379,
-    "source": "osm"
-  },
-  "Bâsca Chiojdului Cap traseu": {
-    "lat": 45.3753182,
-    "lon": 26.1749784,
-    "source": "osm"
-  },
-  "Bâsca Chiojdului Magazin": {
-    "lat": 45.3689702,
-    "lon": 26.1900551,
-    "source": "osm"
-  },
-  "Bâscenii de Jos 1": {
-    "lat": 45.2607255,
-    "lon": 26.2719605,
-    "source": "osm"
-  },
-  "Bâscenii de Jos 2": {
-    "lat": 45.2674323,
-    "lon": 26.2656745,
-    "source": "osm"
-  },
-  "Bîscenii de Sus 1": {
-    "lat": 45.2607255,
-    "lon": 26.2719605,
-    "source": "osm"
-  },
-  "Bîscenii de Sus 2": {
-    "lat": 45.2674323,
-    "lon": 26.2656745,
-    "source": "osm"
-  },
-  "Bălăceanu 1": {
-    "lat": 45.2484151,
-    "lon": 27.1254653,
-    "source": "osm"
-  },
-  "Bălăceanu Cap traseu": {
-    "lat": 45.2485502,
-    "lon": 27.1360919,
-    "source": "osm"
-  },
-  "Calvini Primărie": {
-    "lat": 45.2497696,
-    "lon": 26.2968527,
-    "source": "osm"
-  },
-  "Cernăteşti": {
-    "lat": 45.2549007,
-    "lon": 26.7611134,
-    "source": "osm"
-  },
-  "Costeşti Consiliul Local": {
-    "lat": 45.0545515,
-    "lon": 26.7651614,
-    "source": "osm"
-  },
-  "Costeşti Școală": {
-    "lat": 45.0474543,
-    "lon": 26.7588413,
-    "source": "osm"
-  },
-  "Cozieni Consiliu": {
-    "lat": 45.3318087,
-    "lon": 26.4879514,
-    "source": "osm"
-  },
-  "Cremenea": {
-    "lat": 45.0265692,
-    "lon": 26.7975987,
-    "source": "osm"
-  },
-  "Câmpulungeanca": {
-    "lat": 45.4511976,
-    "lon": 26.8199594,
-    "source": "osm"
-  },
-  "Cîndeşti (Biserică)": {
-    "lat": 45.2443624,
-    "lon": 26.7108616,
-    "source": "osm"
-  },
-  "Căldăruşanca": {
-    "lat": 44.8814581,
-    "lon": 26.6872766,
-    "source": "osm"
-  },
-  "Dara Ramificaţie": {
-    "lat": 45.0992075,
-    "lon": 26.6011277,
-    "source": "osm"
-  },
-  "Ghergheasa Biserică": {
-    "lat": 45.2744623,
-    "lon": 27.205439,
-    "source": "osm"
-  },
-  "Greceanca 2": {
-    "lat": 45.0835655,
-    "lon": 26.5384828,
-    "source": "osm"
-  },
-  "Greceanca Biserică": {
-    "lat": 45.0759381,
-    "lon": 26.5448904,
-    "source": "osm"
-  },
-  "Grunji ramificaţie": {
-    "lat": 45.4890633,
-    "lon": 26.6409659,
-    "source": "osm"
-  },
-  "Gura Teghii": {
-    "lat": 45.4845486,
-    "lon": 26.4217039,
-    "source": "osm"
-  },
-  "Hotar Pietroasele - Clondiru de Sus": {
-    "lat": 45.0970874,
-    "lon": 26.5871429,
-    "source": "osm"
-  },
-  "Lacu Sinaia": {
-    "lat": 45.366813,
-    "lon": 26.663501,
-    "source": "route_interpolated",
-    "anchors": [
-      "Scorţeanca",
-      "Scorţeanca"
-    ],
-    "route": "011",
-    "replaced_source": "osm"
-  },
-  "Lunca": {
-    "lat": 45.29506839652214,
-    "lon": 26.357358684499328,
-    "source": "route_interpolated",
-    "anchors": [
-      "Mărunţişu",
-      "Pătârlagele centru"
-    ],
-    "route": "045",
-    "replaced_source": "osm"
-  },
-  "Lunca Frumoasă 1": {
-    "lat": 45.3022712,
-    "lon": 26.5347787,
-    "source": "osm"
-  },
-  "Lunca Frumoasă 2": {
-    "lat": 45.3022712,
-    "lon": 26.5347787,
-    "source": "osm"
-  },
-  "Luncaşi": {
-    "lat": 45.19138073818092,
-    "lon": 26.850153346165143,
-    "source": "route_interpolated",
-    "anchors": [
-      "Sudiţi Aliceni",
-      "Fundeni"
-    ],
-    "route": "024",
-    "replaced_source": "osm"
-  },
-  "Merei Consiliul Local": {
-    "lat": 45.131612,
-    "lon": 26.6747877,
-    "source": "osm"
-  },
-  "Mihăileşti": {
-    "lat": 44.9172801,
-    "lon": 26.6889277,
-    "source": "osm"
-  },
-  "Mihăileşti Cl. Local": {
-    "lat": 44.9172801,
-    "lon": 26.6889277,
-    "source": "osm"
-  },
-  "Moisica": {
-    "lat": 44.9960204,
-    "lon": 26.8895642,
-    "source": "osm"
-  },
-  "Motohani": {
-    "lat": 45.1429542,
-    "lon": 26.8185699,
-    "source": "osm"
-  },
-  "Murgeşti 2": {
-    "lat": 45.3846917,
-    "lon": 26.8885211,
-    "source": "osm"
-  },
-  "Murgeşti 3": {
-    "lat": 45.3952775,
-    "lon": 26.8866749,
-    "source": "osm"
-  },
-  "Murgești 1": {
-    "lat": 45.3764877,
-    "lon": 26.8899903,
-    "source": "osm"
-  },
-  "Mânzăleşti": {
-    "lat": 45.4868761,
-    "lon": 26.6574897,
-    "source": "osm"
-  },
-  "Nehoiu": {
-    "lat": 45.4170539,
-    "lon": 26.3006492,
-    "source": "osm"
-  },
-  "Oreavul terasă": {
-    "lat": 45.3707497,
-    "lon": 27.0299835,
-    "source": "osm"
-  },
-  "Pietroasele Centru": {
-    "lat": 45.0932508,
-    "lon": 26.5784331,
-    "source": "osm"
-  },
-  "Pietroasele SCDVV (Pietroasa blocuri)": {
-    "lat": 45.0862032,
-    "lon": 26.5757078,
-    "source": "osm"
-  },
-  "Pietroasele şcoală": {
-    "lat": 45.0904951,
-    "lon": 26.5730161,
-    "source": "osm"
-  },
-  "Pogoanele Abator": {
-    "lat": 44.9182154,
-    "lon": 26.9861675,
-    "source": "osm"
-  },
-  "Pogoanele Brutărie": {
-    "lat": 44.9182154,
-    "lon": 26.9861675,
-    "source": "osm"
-  },
-  "Pogoanele Centru": {
-    "lat": 44.9182154,
-    "lon": 26.9861675,
-    "source": "osm"
-  },
-  "Pogoanele Electrica": {
-    "lat": 44.9182154,
-    "lon": 26.9861675,
-    "source": "osm"
-  },
-  "Pogoanele Piaţă": {
-    "lat": 44.9182154,
-    "lon": 26.9861675,
-    "source": "osm"
-  },
-  "Policiori 1": {
-    "lat": 45.3443649,
-    "lon": 26.6658445,
-    "source": "osm"
-  },
-  "Policiori 2": {
-    "lat": 45.3443649,
-    "lon": 26.6658445,
-    "source": "osm"
-  },
-  "Policiori ramificaţie": {
-    "lat": 45.3443649,
-    "lon": 26.6658445,
-    "source": "osm"
-  },
-  "Poşta Școală": {
-    "lat": 45.479389,
-    "lon": 26.6794936,
-    "source": "osm"
-  },
-  "Pruneni": {
-    "lat": 45.3317024,
-    "lon": 26.8449655,
-    "source": "osm"
-  },
-  "Pătârlagele Autogara": {
-    "lat": 45.3237624,
-    "lon": 26.3575036,
-    "source": "osm"
-  },
-  "Pătârlagele centru": {
-    "lat": 45.3147742,
-    "lon": 26.3614156,
-    "source": "osm"
-  },
-  "Rm. Sărat Autogara TUC SA": {
-    "lat": 45.3873416,
-    "lon": 27.0527743,
-    "source": "osm"
-  },
-  "Rm. Sărat Autogara Valman Tur": {
-    "lat": 45.3882484,
-    "lon": 27.0511042,
-    "source": "osm"
-  },
-  "Rm. Sărat autobază": {
-    "lat": 45.3873416,
-    "lon": 27.0527743,
-    "source": "osm"
-  },
-  "Rm. Sărat cartier Barasca": {
-    "lat": 45.3780473,
-    "lon": 27.0247976,
-    "source": "osm"
-  },
-  "Roşioru 1": {
-    "lat": 45.3739675,
-    "lon": 26.48784,
-    "source": "osm"
-  },
-  "Roşioru 2": {
-    "lat": 45.3814466,
-    "lon": 26.490912,
-    "source": "osm"
-  },
-  "Saranga moara Rînceanu": {
-    "lat": 45.0981931,
-    "lon": 26.6120838,
-    "source": "osm"
-  },
-  "Scorţeanca": {
-    "lat": 45.09867376711733,
-    "lon": 26.68933937058914,
-    "source": "route_interpolated",
-    "anchors": [
-      "Amaru",
-      "Lacu Sinaia"
-    ],
-    "route": "011",
-    "replaced_source": "osm"
-  },
-  "Scorţoasa": {
-    "lat": 45.3668014,
-    "lon": 26.6636696,
-    "source": "osm"
-  },
-  "Scărlăteşti": {
-    "lat": 45.2549007,
-    "lon": 26.7611134,
-    "source": "osm"
-  },
-  "Smeeni": {
-    "lat": 44.9965797,
-    "lon": 26.8590471,
-    "source": "osm"
-  },
-  "Soreşti 1": {
-    "lat": 45.3764877,
-    "lon": 26.8899903,
-    "source": "osm"
-  },
-  "Sudiți": {
-    "lat": 45.021137416781656,
-    "lon": 26.807697468673336,
-    "source": "route_interpolated",
-    "anchors": [
-      "Cremenea",
-      "Bălaia"
-    ],
-    "route": "008",
-    "replaced_source": "osm"
-  },
-  "Sălcioara": {
-    "lat": 44.992338089305896,
-    "lon": 26.87092210679627,
-    "source": "route_interpolated",
-    "anchors": [
-      "Smeeni",
-      "Moisica"
-    ],
-    "route": "014",
-    "replaced_source": "osm"
-  },
-  "Sălcioara Centru": {
-    "lat": 45.3089411,
-    "lon": 27.1752971,
-    "source": "osm"
-  },
-  "Sălcioara Dispensar": {
-    "lat": 45.3053598,
-    "lon": 27.1780035,
-    "source": "osm"
-  },
-  "Sălcioara Pod": {
-    "lat": 45.3118067,
-    "lon": 27.1709733,
-    "source": "osm"
-  },
-  "Sătuc": {
-    "lat": 45.2795662,
-    "lon": 26.6678756,
-    "source": "osm"
-  },
-  "Tainița": {
-    "lat": 45.25599140754369,
-    "lon": 26.36111135457767,
-    "source": "route_interpolated",
-    "anchors": [
-      "Podul Bălan",
-      "Gura Teghii"
-    ],
-    "route": "046",
-    "replaced_source": "osm"
-  },
-  "Trestia 1": {
-    "lat": 45.3277587,
-    "lon": 26.5152831,
-    "source": "osm"
-  },
-  "Trestia 2": {
-    "lat": 45.3277587,
-    "lon": 26.5152831,
-    "source": "osm"
-  },
-  "Valea Fântânii": {
-    "lat": 45.397312708134876,
-    "lon": 26.508412530303392,
-    "source": "route_interpolated",
-    "anchors": [
-      "Bozioru 2",
-      "Lacu"
-    ],
-    "route": "043",
-    "replaced_source": "osm"
-  },
-  "Valea Largă": {
-    "lat": 45.4139866,
-    "lon": 26.8942775,
-    "source": "osm"
-  },
-  "Valea Nucului 1": {
-    "lat": 45.3660677,
-    "lon": 27.0373994,
-    "source": "osm"
-  },
-  "Valea Nucului 2": {
-    "lat": 45.3660677,
-    "lon": 27.0373994,
-    "source": "osm"
-  },
-  "Valea Părului": {
-    "lat": 45.36627056760359,
-    "lon": 26.774685245636437,
-    "source": "route_interpolated",
-    "anchors": [
-      "Cărpiniştea",
-      "Beceni"
-    ],
-    "route": "027",
-    "replaced_source": "osm"
-  },
-  "Valea Rîmnicului": {
-    "lat": 45.3660677,
-    "lon": 27.0373994,
-    "source": "osm"
-  },
-  "Valea Salciei": {
-    "lat": 45.4139866,
-    "lon": 26.8942775,
-    "source": "osm"
-  },
-  "Verneşti Ginar": {
-    "lat": 45.203842,
-    "lon": 26.7289312,
-    "source": "osm"
-  },
-  "Vilcele": {
-    "lat": 45.08282408814323,
-    "lon": 26.648365758109946,
-    "source": "route_interpolated",
-    "anchors": [
-      "Ulmeni Gară",
-      "Ulmeni"
-    ],
-    "route": "005",
-    "replaced_source": "osm"
-  },
-  "Vâlcelele": {
-    "lat": 45.3403116,
-    "lon": 27.3549867,
-    "source": "osm"
-  },
-  "Zărneşti Slănic": {
-    "lat": 45.2787946,
-    "lon": 26.7533508,
-    "source": "osm"
-  },
-  "Zărneşti de Slănic": {
-    "lat": 45.2787946,
-    "lon": 26.7533508,
-    "source": "osm"
-  },
-  "Şaranga magazin Paul": {
-    "lat": 45.0962069,
-    "lon": 26.613695,
-    "source": "osm"
-  },
-  "Şarânga Magazin Zaplaic": {
-    "lat": 45.093861,
-    "lon": 26.6091595,
-    "source": "osm"
-  },
-  "Şarânga Școală": {
-    "lat": 45.0919437,
-    "lon": 26.6122449,
-    "source": "osm"
+  "Al. Odobescu 1": {
+    "lat": 45.5078229,
+    "lon": 26.9119006,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Al. Odobescu 2": {
+    "lat": 45.5078229,
+    "lon": 26.9119006,
+    "source": "osm",
+    "match_score": 83.6
   },
   "Albeşti": {
     "lat": 44.9904188,
     "lon": 26.9254914,
     "source": "nominatim",
-    "query": "Albeşti"
+    "match_score": 75.0
   },
   "Aldeni": {
     "lat": 45.3191323,
     "lon": 26.7567622,
     "source": "nominatim",
-    "query": "Aldeni"
+    "match_score": 75.0
+  },
+  "Apostari": {
+    "lat": 45.479389,
+    "lon": 26.6794936,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Autogara Sud": {
     "lat": 45.1437355,
     "lon": 26.8297906,
     "source": "nominatim",
-    "query": "Autogara Sud"
+    "match_score": 75.0
   },
   "Autogara XXL": {
     "lat": 45.1625069,
     "lon": 26.8147196,
     "source": "nominatim",
-    "query": "Autogara XXL"
+    "match_score": 75.0
   },
   "Balta Albă": {
     "lat": 45.3046294,
     "lon": 27.2848285,
     "source": "nominatim",
-    "query": "Balta Albă"
+    "match_score": 75.0
   },
   "Balta Tocila": {
     "lat": 45.4047559,
     "lon": 26.6975616,
     "source": "nominatim",
-    "query": "Balta Tocila"
+    "match_score": 75.0
+  },
+  "Batogu": {
+    "lat": 45.4116623,
+    "lon": 26.8777191,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Beceni": {
     "lat": 45.3821003,
     "lon": 26.769004,
     "source": "nominatim",
-    "query": "Beceni"
+    "match_score": 75.0
   },
   "Beciu": {
     "lat": 45.3754504,
     "lon": 26.7107282,
     "source": "nominatim",
-    "query": "Beciu"
+    "match_score": 75.0
+  },
+  "Bentu": {
+    "lat": 45.06613282257857,
+    "lon": 26.972864476443565,
+    "source": "transbus",
+    "match_score": 100.0
+  },
+  "Beşlii": {
+    "lat": 45.4838587,
+    "lon": 26.6728979,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Bisoca": {
     "lat": 45.5422326,
     "lon": 26.706427,
     "source": "nominatim",
-    "query": "Bisoca"
+    "match_score": 75.0
+  },
+  "Boboc 1": {
+    "lat": 45.1948811,
+    "lon": 26.9812282,
+    "source": "osm",
+    "match_score": 77.1
+  },
+  "Boboc 2": {
+    "lat": 45.1948811,
+    "lon": 26.9812282,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Boboc 3": {
+    "lat": 45.1944918,
+    "lon": 26.9871033,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Boboc Gară": {
-    "lat": 45.2094997,
-    "lon": 26.9287514,
-    "source": "nominatim",
-    "query": "Boboc Gară"
+    "lat": 45.209273,
+    "lon": 26.9308109,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Boldu": {
     "lat": 45.3227859,
     "lon": 27.2402692,
     "source": "nominatim",
-    "query": "Boldu"
+    "match_score": 75.0
   },
-  "Brăeşti": {
-    "lat": 45.4303432,
-    "lon": 26.5102517,
-    "source": "nominatim",
-    "query": "Brăeşti"
+  "Bozioru 1": {
+    "lat": 45.3739675,
+    "lon": 26.48784,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Brătileşti": {
     "lat": 45.4687135,
     "lon": 26.4826606,
     "source": "nominatim",
-    "query": "Brătileşti"
+    "match_score": 75.0
+  },
+  "Buda 1": {
+    "lat": 45.4965545,
+    "lon": 26.9026134,
+    "source": "osm",
+    "match_score": 75.0
+  },
+  "Buda 2": {
+    "lat": 45.4965545,
+    "lon": 26.9026134,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Budişteni": {
     "lat": 45.0436425,
     "lon": 26.7857023,
     "source": "nominatim",
-    "query": "Budişteni"
-  },
-  "Buzău Autogara Sud": {
-    "lat": 45.1437355,
-    "lon": 26.8297906,
-    "source": "nominatim",
-    "query": "Buzău Autogara Sud"
+    "match_score": 75.0
   },
   "Buzău Autogara XXL": {
     "lat": 45.1625069,
     "lon": 26.8147196,
     "source": "nominatim",
-    "query": "Buzău Autogara XXL"
+    "match_score": 75.0
+  },
+  "Buzău Drăgaică": {
+    "lat": 45.1431646,
+    "lon": 26.8247176,
+    "source": "osm",
+    "match_score": 67.5
+  },
+  "Buzău Fabrica de bere": {
+    "lat": 45.1640185,
+    "lon": 26.7874379,
+    "source": "osm",
+    "match_score": 75.0
+  },
+  "Bâsca Chiojdului Cap traseu": {
+    "lat": 45.3753182,
+    "lon": 26.1749784,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Bâsca Chiojdului Magazin": {
+    "lat": 45.3689702,
+    "lon": 26.1900551,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Bâscenii de Jos 1": {
+    "lat": 45.2607255,
+    "lon": 26.2719605,
+    "source": "osm",
+    "match_score": 79.4
+  },
+  "Bâscenii de Jos 2": {
+    "lat": 45.2674323,
+    "lon": 26.2656745,
+    "source": "osm",
+    "match_score": 79.4
+  },
+  "Bîscenii de Sus 1": {
+    "lat": 45.2607255,
+    "lon": 26.2719605,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Bîscenii de Sus 2": {
+    "lat": 45.2674323,
+    "lon": 26.2656745,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Băbeni 1": {
+    "lat": 45.4444382,
+    "lon": 26.9791609,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Băbeni 2": {
+    "lat": 45.4444382,
+    "lon": 26.9791609,
+    "source": "osm",
+    "match_score": 78.8
   },
   "Bălaia": {
     "lat": 45.0132154,
     "lon": 26.8304809,
     "source": "nominatim",
-    "query": "Bălaia"
+    "match_score": 75.0
   },
-  "Bălteni": {
-    "lat": 45.0090502,
-    "lon": 27.1484056,
-    "source": "nominatim",
-    "query": "Bălteni"
+  "Bălăceanu 1": {
+    "lat": 45.2484151,
+    "lon": 27.1254653,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Bălăceanu Cap traseu": {
+    "lat": 45.2485502,
+    "lon": 27.1360919,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Bălăneşti": {
     "lat": 45.3408989,
     "lon": 26.4854676,
     "source": "nominatim",
-    "query": "Bălăneşti"
+    "match_score": 75.0
   },
-  "CA Rosetti": {
-    "lat": 45.0473971,
-    "lon": 27.164784,
-    "source": "nominatim",
-    "query": "CA Rosetti"
+  "Calvini Primărie": {
+    "lat": 45.2497696,
+    "lon": 26.2968527,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Cernăteşti": {
+    "lat": 45.2549007,
+    "lon": 26.7611134,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Cilibia": {
     "lat": 45.0601851,
     "lon": 27.0652939,
     "source": "nominatim",
-    "query": "Cilibia"
+    "match_score": 75.0
   },
   "Cilibia gară": {
     "lat": 45.0431648,
     "lon": 27.0216953,
     "source": "nominatim",
-    "query": "Cilibia gară"
+    "match_score": 75.0
   },
   "Cioranca": {
     "lat": 44.9875282,
     "lon": 26.7162662,
     "source": "nominatim",
-    "query": "Cioranca"
+    "match_score": 75.0
   },
   "Ciuta": {
     "lat": 45.2615253,
     "lon": 26.5224895,
     "source": "nominatim",
-    "query": "Ciuta"
+    "match_score": 75.0
   },
   "Clondiru de sus (Ghitcu)": {
     "lat": 45.0984349,
     "lon": 26.5934104,
     "source": "nominatim",
-    "query": "Clondiru de sus (Ghitcu)"
+    "match_score": 75.0
+  },
+  "Cochirleanca 1": {
+    "lat": 45.2109302,
+    "lon": 27.0295783,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Cochirleanca 2": {
+    "lat": 45.2091252,
+    "lon": 27.0379249,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Cochirleanca 3": {
+    "lat": 45.2076737,
+    "lon": 27.0514223,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Coconari": {
     "lat": 45.2459957,
     "lon": 26.8773715,
     "source": "nominatim",
-    "query": "Coconari"
+    "match_score": 75.0
   },
   "Colţi": {
     "lat": 45.3777772,
     "lon": 26.3907327,
     "source": "nominatim",
-    "query": "Colţi"
+    "match_score": 75.0
+  },
+  "Costeşti Consiliul Local": {
+    "lat": 45.0545515,
+    "lon": 26.7651614,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Costeşti Școală": {
+    "lat": 45.0474543,
+    "lon": 26.7588413,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Costieni": {
     "lat": 45.2784355,
     "lon": 27.0415479,
     "source": "nominatim",
-    "query": "Costieni"
+    "match_score": 75.0
   },
   "Costomiru": {
     "lat": 45.4590489,
     "lon": 26.8574833,
     "source": "nominatim",
-    "query": "Costomiru"
+    "match_score": 75.0
   },
   "Cozieni": {
     "lat": 45.3309668,
     "lon": 26.4906295,
     "source": "nominatim",
-    "query": "Cozieni"
+    "match_score": 75.0
+  },
+  "Cozieni Consiliu": {
+    "lat": 45.3318087,
+    "lon": 26.4879514,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Cuculeasa": {
     "lat": 45.2815203,
     "lon": 27.0073874,
     "source": "nominatim",
-    "query": "Cuculeasa"
+    "match_score": 75.0
   },
   "Câmpeni": {
     "lat": 44.9683628,
     "lon": 26.6305634,
     "source": "nominatim",
-    "query": "Câmpeni"
+    "match_score": 75.0
+  },
+  "Câmpulungeanca": {
+    "lat": 45.4511976,
+    "lon": 26.8199594,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Cîndeşti şcoală": {
+    "lat": 45.1901024,
+    "lon": 26.7908959,
+    "source": "osm",
+    "match_score": 66.3
+  },
+  "Căldăruşanca": {
+    "lat": 44.8814581,
+    "lon": 26.6872766,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Călţuna": {
+    "lat": 44.96452242863011,
+    "lon": 26.948663185168545,
+    "source": "transbus",
+    "match_score": 100.0
   },
   "Căneşti": {
     "lat": 45.3975777,
     "lon": 26.6027073,
     "source": "nominatim",
-    "query": "Căneşti"
+    "match_score": 75.0
+  },
+  "Căpăţîneşti": {
+    "lat": 45.1901024,
+    "lon": 26.7908959,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Cărpiniştea": {
     "lat": 45.3618337,
     "lon": 26.7667369,
     "source": "nominatim",
-    "query": "Cărpiniştea"
+    "match_score": 75.0
   },
   "Cărătnău": {
     "lat": 45.4637686,
     "lon": 26.7563078,
     "source": "nominatim",
-    "query": "Cărătnău"
+    "match_score": 75.0
+  },
+  "Dara Ramificaţie": {
+    "lat": 45.0992075,
+    "lon": 26.6011277,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Dealul Viei": {
     "lat": 45.1133524,
     "lon": 26.6553115,
     "source": "nominatim",
-    "query": "Dealul Viei"
-  },
-  "Deduleşti": {
-    "lat": 45.4700264,
-    "lon": 26.9673743,
-    "source": "nominatim",
-    "query": "Deduleşti"
+    "match_score": 75.0
   },
   "Dogari": {
     "lat": 45.4128453,
     "lon": 26.7563333,
     "source": "nominatim",
-    "query": "Dogari"
+    "match_score": 75.0
+  },
+  "Dulbanu": {
+    "lat": 44.905342,
+    "lon": 26.5988398,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Finţeşti": {
     "lat": 45.0881529,
     "lon": 26.4643468,
     "source": "nominatim",
-    "query": "Finţeşti"
+    "match_score": 75.0
   },
   "Fișici": {
     "lat": 45.4022696,
     "lon": 26.4676767,
     "source": "nominatim",
-    "query": "Fișici"
+    "match_score": 75.0
+  },
+  "Fulga": {
+    "lat": 45.33750261357772,
+    "lon": 26.770961321175943,
+    "source": "transbus",
+    "match_score": 100.0
   },
   "Fundeni": {
     "lat": 45.2914112,
     "lon": 26.8802817,
     "source": "nominatim",
-    "query": "Fundeni"
+    "match_score": 75.0
+  },
+  "Fundeni Poliție": {
+    "lat": 45.2906762,
+    "lon": 26.8808492,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Furtuneşti": {
     "lat": 45.4620804,
     "lon": 26.4035323,
     "source": "nominatim",
-    "query": "Furtuneşti"
+    "match_score": 75.0
   },
-  "Fântânele": {
-    "lat": 45.42201342343219,
-    "lon": 26.849170515818383,
-    "source": "route_interpolated",
-    "anchors": [
-      "Batogu",
-      "Mărgăriteşti"
-    ],
-    "route": "026",
-    "replaced_source": "nominatim"
+  "Ghergheasa Biserică": {
+    "lat": 45.2744623,
+    "lon": 27.205439,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Gherăseni": {
     "lat": 45.0252509,
     "lon": 26.7915955,
     "source": "nominatim",
-    "query": "Gherăseni"
+    "match_score": 75.0
   },
   "Glodu Petcari": {
     "lat": 45.4540039,
     "lon": 26.6271076,
     "source": "nominatim",
-    "query": "Glodu Petcari"
+    "match_score": 75.0
   },
   "Goidești": {
     "lat": 45.4674136,
     "lon": 26.5046862,
     "source": "nominatim",
-    "query": "Goidești"
+    "match_score": 75.0
   },
   "Grebănu": {
     "lat": 45.3764509,
     "lon": 26.9824751,
     "source": "nominatim",
-    "query": "Grebănu"
+    "match_score": 75.0
+  },
+  "Greceanca 2": {
+    "lat": 45.0835655,
+    "lon": 26.5384828,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Greceanca Biserică": {
+    "lat": 45.0759381,
+    "lon": 26.5448904,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Grunji ramificaţie": {
+    "lat": 45.4890633,
+    "lon": 26.6409659,
+    "source": "osm",
+    "match_score": 81.8
   },
   "Gura Bâscei": {
     "lat": 45.2573373,
     "lon": 26.3597307,
     "source": "nominatim",
-    "query": "Gura Bâscei"
+    "match_score": 75.0
   },
   "Gura Bădicului": {
     "lat": 45.5113167,
     "lon": 26.6299508,
     "source": "nominatim",
-    "query": "Gura Bădicului"
+    "match_score": 75.0
+  },
+  "Gura Teghii": {
+    "lat": 45.4845486,
+    "lon": 26.4217039,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Gura Văii": {
     "lat": 45.3785759,
     "lon": 26.6636623,
     "source": "nominatim",
-    "query": "Gura Văii"
+    "match_score": 75.0
   },
   "Gägeni": {
     "lat": 45.0148173,
     "lon": 26.5859151,
     "source": "nominatim",
-    "query": "Gägeni"
+    "match_score": 75.0
   },
   "Gălbinaşi": {
     "lat": 45.0792289,
     "lon": 26.9395161,
     "source": "nominatim",
-    "query": "Gălbinaşi"
+    "match_score": 75.0
   },
   "Heliade Rădulescu": {
     "lat": 45.2915143,
     "lon": 27.1205746,
     "source": "nominatim",
-    "query": "Heliade Rădulescu"
+    "match_score": 75.0
+  },
+  "Hotar Pietroasele - Clondiru de Sus": {
+    "lat": 45.0970874,
+    "lon": 26.5871429,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Ileana": {
+    "lat": 44.8613871,
+    "lon": 26.6279786,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Istriţa de Jos": {
     "lat": 45.0537173,
     "lon": 26.5665679,
     "source": "nominatim",
-    "query": "Istriţa de Jos"
+    "match_score": 75.0
   },
   "Istriţa jos": {
     "lat": 45.0537173,
     "lon": 26.5665679,
     "source": "nominatim",
-    "query": "Istriţa jos"
+    "match_score": 75.0
   },
   "Ivanețu": {
     "lat": 45.4622668,
     "lon": 26.4917843,
     "source": "nominatim",
-    "query": "Ivanețu"
+    "match_score": 75.0
   },
   "Izvoru Dulce": {
     "lat": 45.11153,
     "lon": 26.6321233,
     "source": "nominatim",
-    "query": "Izvoru Dulce"
+    "match_score": 75.0
   },
   "Jghiab": {
     "lat": 45.5239685,
     "lon": 26.6389469,
     "source": "nominatim",
-    "query": "Jghiab"
+    "match_score": 75.0
+  },
+  "Joseni": {
+    "lat": 45.326017600000014,
+    "lon": 26.659895500000008,
+    "source": "transbus",
+    "match_score": 100.0
   },
   "Jurubești": {
     "lat": 45.4829414,
     "lon": 26.5965004,
     "source": "nominatim",
-    "query": "Jurubești"
+    "match_score": 75.0
   },
   "Lacu": {
     "lat": 45.4034348,
     "lon": 26.5296227,
     "source": "nominatim",
-    "query": "Lacu"
+    "match_score": 75.0
+  },
+  "Lacu Sinaia": {
+    "lat": 44.9263477,
+    "lon": 26.5576461,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Largu 1": {
+    "lat": 44.9756478,
+    "lon": 27.1403172,
+    "source": "osm",
+    "match_score": 77.1
+  },
+  "Largu 2": {
+    "lat": 44.9756478,
+    "lon": 27.1403172,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Largu 3": {
+    "lat": 44.9749829,
+    "lon": 27.1475816,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Limpeziş": {
     "lat": 44.9534619,
     "lon": 26.7019679,
     "source": "nominatim",
-    "query": "Limpeziş"
+    "match_score": 75.0
   },
   "Livada": {
     "lat": 45.3818241,
     "lon": 26.9476417,
     "source": "nominatim",
-    "query": "Livada"
+    "match_score": 75.0
   },
   "Livada Mică": {
     "lat": 45.3903214,
     "lon": 26.9217221,
     "source": "nominatim",
-    "query": "Livada Mică"
+    "match_score": 75.0
   },
   "Lopătari": {
     "lat": 45.4832312,
     "lon": 26.5925145,
     "source": "nominatim",
-    "query": "Lopătari"
+    "match_score": 75.0
+  },
+  "Luciu Moară": {
+    "lat": 44.9694176,
+    "lon": 27.0855236,
+    "source": "osm",
+    "match_score": 68.6
+  },
+  "Luciu Parc": {
+    "lat": 44.9694176,
+    "lon": 27.0855236,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Luciu Primărie": {
+    "lat": 44.9714019,
+    "lon": 27.0786965,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Lunca": {
+    "lat": 45.29646,
+    "lon": 26.35772,
+    "source": "manual"
+  },
+  "Lunca Frumoasă 1": {
+    "lat": 45.3022712,
+    "lon": 26.5347787,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Lunca Frumoasă 2": {
+    "lat": 45.3022712,
+    "lon": 26.5347787,
+    "source": "osm",
+    "match_score": 84.4
   },
   "Luncile": {
     "lat": 45.496327,
     "lon": 26.5442824,
     "source": "nominatim",
-    "query": "Luncile"
+    "match_score": 75.0
   },
   "Maxenu": {
     "lat": 45.0509055,
     "lon": 26.8558164,
     "source": "nominatim",
-    "query": "Maxenu"
+    "match_score": 75.0
+  },
+  "Merei Consiliul Local": {
+    "lat": 45.131612,
+    "lon": 26.6747877,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Merei moară": {
+    "lat": 45.1246323,
+    "lon": 26.686446200000002,
+    "source": "transbus",
+    "match_score": 91.7
+  },
+  "Mihăileşti": {
+    "lat": 44.9172801,
+    "lon": 26.6889277,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Mihăileşti Cl. Local": {
+    "lat": 44.9172801,
+    "lon": 26.6889277,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Moisica": {
+    "lat": 44.9960204,
+    "lon": 26.8895642,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Mucești Dănulești": {
-    "lat": 45.5216051,
-    "lon": 26.9293326,
-    "source": "nominatim",
-    "query": "Mucești Dănulești"
+    "lat": 45.5187794,
+    "lon": 26.9317647,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Mucești Dănulești Cap traseu": {
+    "lat": 45.5187794,
+    "lon": 26.9317647,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Murgeşti 2": {
+    "lat": 45.3846917,
+    "lon": 26.8885211,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Murgeşti 3": {
+    "lat": 45.3952775,
+    "lon": 26.8866749,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Murgești 1": {
+    "lat": 45.3764877,
+    "lon": 26.8899903,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Mânzu": {
     "lat": 45.0621159,
     "lon": 27.0436858,
     "source": "nominatim",
-    "query": "Mânzu"
+    "match_score": 75.0
+  },
+  "Mânzăleşti": {
+    "lat": 45.4868761,
+    "lon": 26.6574897,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Mărgăriteşti": {
     "lat": 45.4318306,
     "lon": 26.8386631,
     "source": "nominatim",
-    "query": "Mărgăriteşti"
+    "match_score": 75.0
   },
   "Mărgăriţi": {
     "lat": 45.3921841,
     "lon": 26.7592614,
     "source": "nominatim",
-    "query": "Mărgăriţi"
+    "match_score": 75.0
   },
   "Mărunţişu": {
     "lat": 45.2860993,
     "lon": 26.3542081,
     "source": "nominatim",
-    "query": "Mărunţişu"
+    "match_score": 75.0
   },
   "Mărăcineni": {
     "lat": 45.1768567,
     "lon": 26.8246376,
     "source": "nominatim",
-    "query": "Mărăcineni"
+    "match_score": 75.0
   },
   "Măteşti": {
     "lat": 45.2133931,
     "lon": 26.7560674,
     "source": "nominatim",
-    "query": "Măteşti"
+    "match_score": 75.0
   },
   "Negoşina": {
     "lat": 45.3775753,
     "lon": 26.6109483,
     "source": "nominatim",
-    "query": "Negoşina"
+    "match_score": 75.0
   },
   "Nehoiașu Gara": {
     "lat": 45.4314069,
     "lon": 26.3059311,
     "source": "nominatim",
-    "query": "Nehoiașu Gara"
+    "match_score": 75.0
+  },
+  "Nehoiu": {
+    "lat": 45.4170539,
+    "lon": 26.3006492,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Niculeşti": {
     "lat": 45.4380132,
     "lon": 26.7425206,
     "source": "nominatim",
-    "query": "Niculeşti"
+    "match_score": 75.0
   },
   "Năeni": {
     "lat": 45.0932119,
     "lon": 26.4922657,
     "source": "nominatim",
-    "query": "Năeni"
+    "match_score": 75.0
   },
   "Odăile": {
     "lat": 45.396531,
     "lon": 26.5363929,
     "source": "nominatim",
-    "query": "Odăile"
+    "match_score": 75.0
+  },
+  "Oreavul terasă": {
+    "lat": 45.3707497,
+    "lon": 27.0299835,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Pardoşi": {
     "lat": 45.4545741,
     "lon": 26.8827343,
     "source": "nominatim",
-    "query": "Pardoşi"
+    "match_score": 75.0
   },
-  "Pestriţu": {
-    "lat": 45.4883538,
-    "lon": 26.5432744,
-    "source": "nominatim",
-    "query": "Pestriţu"
+  "Petrişoru Școală": {
+    "lat": 45.3289626,
+    "lon": 26.8937528,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Piatra Albă": {
     "lat": 45.3801431,
     "lon": 26.5393612,
     "source": "nominatim",
-    "query": "Piatra Albă"
+    "match_score": 75.0
+  },
+  "Pietroasele Centru": {
+    "lat": 45.0932508,
+    "lon": 26.5784331,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Pietroasele SCDVV (Pietroasa blocuri)": {
+    "lat": 45.0862032,
+    "lon": 26.5757078,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Pietroasele şcoală": {
+    "lat": 45.0904951,
+    "lon": 26.5730161,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Plevna": {
     "lat": 45.3781536,
     "lon": 27.0130976,
     "source": "nominatim",
-    "query": "Plevna"
+    "match_score": 75.0
   },
   "Pleșești": {
     "lat": 45.2830751,
     "lon": 26.7036484,
     "source": "nominatim",
-    "query": "Pleșești"
+    "match_score": 75.0
   },
   "Ploștina": {
     "lat": 45.5144238,
     "lon": 26.5151047,
     "source": "nominatim",
-    "query": "Ploștina"
+    "match_score": 75.0
   },
   "Podu Muncii": {
     "lat": 45.4252706,
     "lon": 26.7443393,
     "source": "nominatim",
-    "query": "Podu Muncii"
+    "match_score": 75.0
   },
   "Podul Muncii": {
     "lat": 45.4302568,
     "lon": 26.7723882,
     "source": "nominatim",
-    "query": "Podul Muncii"
+    "match_score": 75.0
+  },
+  "Pogoanele Abator": {
+    "lat": 44.9182154,
+    "lon": 26.9861675,
+    "source": "osm",
+    "match_score": 67.5
+  },
+  "Pogoanele Brutărie": {
+    "lat": 44.9182154,
+    "lon": 26.9861675,
+    "source": "osm",
+    "match_score": 67.5
+  },
+  "Pogoanele Centru": {
+    "lat": 44.9182154,
+    "lon": 26.9861675,
+    "source": "osm",
+    "match_score": 67.5
+  },
+  "Pogoanele Electrica": {
+    "lat": 44.9182154,
+    "lon": 26.9861675,
+    "source": "osm",
+    "match_score": 67.5
+  },
+  "Pogoanele Piaţă": {
+    "lat": 44.9182154,
+    "lon": 26.9861675,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Poienile": {
     "lat": 45.2661413,
     "lon": 26.3553237,
     "source": "nominatim",
-    "query": "Poienile"
+    "match_score": 75.0
+  },
+  "Policiori 1": {
+    "lat": 45.3443649,
+    "lon": 26.6658445,
+    "source": "osm",
+    "match_score": 81.0
+  },
+  "Policiori 2": {
+    "lat": 45.3443649,
+    "lon": 26.6658445,
+    "source": "osm",
+    "match_score": 81.0
+  },
+  "Policiori ramificaţie": {
+    "lat": 45.3443649,
+    "lon": 26.6658445,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Potărnicheşti": {
-    "lat": 45.2191377,
-    "lon": 26.8612058,
-    "source": "nominatim",
-    "query": "Potărnicheşti"
+    "lat": 45.2192116,
+    "lon": 26.861362,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Poşta Cilibia": {
     "lat": 45.0672996,
     "lon": 27.0141221,
     "source": "nominatim",
-    "query": "Poşta Cilibia"
+    "match_score": 75.0
   },
   "Poşta Câlnău": {
-    "lat": 45.2358365,
-    "lon": 26.8677529,
-    "source": "nominatim",
-    "query": "Poşta Câlnău"
+    "lat": 45.2337077,
+    "lon": 26.8711738,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Poşta Școală": {
+    "lat": 45.382799,
+    "lon": 27.028239,
+    "source": "manual"
   },
   "Prosca": {
     "lat": 45.0948974,
     "lon": 26.4825618,
     "source": "nominatim",
-    "query": "Prosca"
+    "match_score": 75.0
+  },
+  "Pruneni": {
+    "lat": 45.3317024,
+    "lon": 26.8449655,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Păltineni": {
     "lat": 45.3955272,
     "lon": 26.321122,
     "source": "nominatim",
-    "query": "Păltineni"
+    "match_score": 75.0
   },
   "Păltiniş": {
     "lat": 45.4630132,
     "lon": 26.3732712,
     "source": "nominatim",
-    "query": "Păltiniş"
+    "match_score": 75.0
   },
   "Părscov": {
     "lat": 45.2889214,
     "lon": 26.5461663,
     "source": "nominatim",
-    "query": "Părscov"
+    "match_score": 75.0
+  },
+  "Racoviţeni Poliție": {
+    "lat": 45.3544156,
+    "lon": 26.8922633,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Rm. Sărat Autogara TUC SA": {
+    "lat": 45.3873416,
+    "lon": 27.0527743,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Rm. Sărat Autogara Valman Tur": {
+    "lat": 45.3882484,
+    "lon": 27.0511042,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Rm. Sărat autobază": {
+    "lat": 45.3873416,
+    "lon": 27.0527743,
+    "source": "osm",
+    "match_score": 67.0
+  },
+  "Rm. Sărat cartier Barasca": {
+    "lat": 45.3780473,
+    "lon": 27.0247976,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Robeşti": {
     "lat": 45.2956004,
     "lon": 26.5847526,
     "source": "nominatim",
-    "query": "Robeşti"
+    "match_score": 75.0
+  },
+  "Roşioru 1": {
+    "lat": 45.2128866,
+    "lon": 27.0793979,
+    "source": "osm",
+    "match_score": 78.8
+  },
+  "Roşioru 2": {
+    "lat": 45.2128866,
+    "lon": 27.0793979,
+    "source": "osm",
+    "match_score": 78.8
   },
   "Rubla": {
     "lat": 45.353002,
     "lon": 27.0752528,
     "source": "nominatim",
-    "query": "Rubla"
+    "match_score": 75.0
+  },
+  "Ruşeţu 1": {
+    "lat": 44.9642449,
+    "lon": 27.2090837,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Ruşeţu 2": {
+    "lat": 44.9547786,
+    "lon": 27.2138521,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Ruşeţu 3*": {
+    "lat": 44.9642449,
+    "lon": 27.2090837,
+    "source": "osm",
+    "match_score": 78.8
   },
   "Rîmnicelu": {
     "lat": 45.364083,
     "lon": 27.1066641,
     "source": "nominatim",
-    "query": "Rîmnicelu"
+    "match_score": 75.0
+  },
+  "Răducesti 2": {
+    "lat": 45.4250913,
+    "lon": 27.0052342,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Răduceşti 1": {
+    "lat": 45.4250913,
+    "lon": 27.0052342,
+    "source": "osm",
+    "match_score": 81.8
+  },
+  "Răduceşti 3": {
+    "lat": 45.4303777,
+    "lon": 27.0025236,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Saranga moara Rînceanu": {
+    "lat": 45.0981931,
+    "lon": 26.6120838,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Sareni": {
     "lat": 45.482705,
     "lon": 26.6161796,
     "source": "nominatim",
-    "query": "Sareni"
+    "match_score": 75.0
+  },
+  "Scorţoasa": {
+    "lat": 45.3668014,
+    "lon": 26.6636696,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Scărişoara": {
     "lat": 45.221451,
     "lon": 26.3920528,
     "source": "nominatim",
-    "query": "Scărişoara"
+    "match_score": 75.0
+  },
+  "Scărlăteşti": {
+    "lat": 44.9717991,
+    "lon": 27.1781371,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Sibiciu de Jos": {
     "lat": 45.3181786,
     "lon": 26.3772124,
     "source": "nominatim",
-    "query": "Sibiciu de Jos"
+    "match_score": 75.0
   },
   "Sibiciu de Sus": {
     "lat": 45.3402243,
     "lon": 26.3574905,
     "source": "nominatim",
-    "query": "Sibiciu de Sus"
+    "match_score": 75.0
+  },
+  "Smărdan": {
+    "lat": 44.8770217,
+    "lon": 26.8408181,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Soreşti 1": {
+    "lat": 45.2836948,
+    "lon": 26.8187295,
+    "source": "osm",
+    "match_score": 80.0
+  },
+  "Soreşti 2": {
+    "lat": 45.2836948,
+    "lon": 26.8187295,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Sudiţi Aliceni": {
+    "lat": 45.2720229,
+    "lon": 26.8712375,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Sârbeşti": {
     "lat": 45.4768497,
     "lon": 26.703154,
     "source": "nominatim",
-    "query": "Sârbeşti"
+    "match_score": 75.0
+  },
+  "Sălcioara Centru": {
+    "lat": 45.3089411,
+    "lon": 27.1752971,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Sălcioara Dispensar": {
+    "lat": 45.3053598,
+    "lon": 27.1780035,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Sălcioara Pod": {
+    "lat": 45.3118067,
+    "lon": 27.1709733,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Săpoca Pod": {
+    "lat": 45.249770220259194,
+    "lon": 26.75562052115261,
+    "source": "transbus",
+    "match_score": 100.0
   },
   "Sărata": {
     "lat": 45.0603479,
     "lon": 26.6055831,
     "source": "nominatim",
-    "query": "Sărata"
+    "match_score": 75.0
   },
   "Sările": {
     "lat": 45.5330367,
     "lon": 26.7506756,
     "source": "nominatim",
-    "query": "Sările"
+    "match_score": 75.0
   },
   "Săruleşti": {
     "lat": 45.4843746,
     "lon": 26.7661278,
     "source": "nominatim",
-    "query": "Săruleşti"
+    "match_score": 75.0
+  },
+  "Sătuc": {
+    "lat": 45.2795662,
+    "lon": 26.6678756,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Tega": {
     "lat": 45.2761494,
     "lon": 26.3770304,
     "source": "nominatim",
-    "query": "Tega"
+    "match_score": 75.0
+  },
+  "Topliceni 1 Primărie": {
+    "lat": 45.3875518,
+    "lon": 27.0215386,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Trestia 1": {
+    "lat": 45.3277587,
+    "lon": 26.5152831,
+    "source": "osm",
+    "match_score": 80.0
+  },
+  "Trestia 2": {
+    "lat": 45.3277587,
+    "lon": 26.5152831,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Trestioara": {
+    "lat": 45.5031661,
+    "lon": 26.6109393,
+    "source": "nominatim",
+    "match_score": 75.0
   },
   "Ulmeni": {
     "lat": 45.0816585,
     "lon": 26.6386822,
     "source": "nominatim",
-    "query": "Ulmeni"
+    "match_score": 75.0
   },
   "Ulmeni Gară": {
     "lat": 45.0815382,
     "lon": 26.651517,
     "source": "nominatim",
-    "query": "Ulmeni Gară"
+    "match_score": 75.0
   },
-  "Valea Lupului": {
-    "lat": 45.3509962,
-    "lon": 26.3454632,
+  "Vadu Soreşti 1": {
+    "lat": 45.3145139,
+    "lon": 26.8768656,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Vadu Soreşti 2": {
+    "lat": 45.3145139,
+    "lon": 26.8768656,
+    "source": "osm",
+    "match_score": 83.6
+  },
+  "Valea Largă": {
+    "lat": 45.5078413,
+    "lon": 26.8754843,
     "source": "nominatim",
-    "query": "Valea Lupului"
+    "match_score": 75.0
+  },
+  "Valea Nucului 1": {
+    "lat": 45.2618739,
+    "lon": 26.7251412,
+    "source": "osm",
+    "match_score": 84.0
+  },
+  "Valea Nucului 2": {
+    "lat": 45.2618739,
+    "lon": 26.7251412,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Valea Puţului": {
-    "lat": 45.25125579643239,
-    "lon": 26.758341048406777,
-    "source": "route_interpolated",
-    "anchors": [
-      "Săpoca Pod",
-      "Cernăteşti"
-    ],
-    "route": "027",
-    "replaced_source": "nominatim"
+    "lat": 45.2554906,
+    "lon": 26.7310694,
+    "source": "osm",
+    "match_score": 76.2
+  },
+  "Valea Părului": {
+    "lat": 45.3621581,
+    "lon": 26.7754647,
+    "source": "nominatim",
+    "match_score": 75.0
+  },
+  "Valea Rîmnicului": {
+    "lat": 45.3660677,
+    "lon": 27.0373994,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Valea Salciei": {
+    "lat": 45.4970408,
+    "lon": 26.8258716,
+    "source": "nominatim",
+    "match_score": 75.0
   },
   "Valea Seacă": {
     "lat": 45.2771274,
     "lon": 26.3584069,
     "source": "nominatim",
-    "query": "Valea Seacă"
+    "match_score": 75.0
   },
   "Varlaam": {
     "lat": 45.5089008,
     "lon": 26.4415445,
     "source": "nominatim",
-    "query": "Varlaam"
+    "match_score": 75.0
   },
   "Verneşti ( Troita)": {
     "lat": 45.2031769,
     "lon": 26.7341437,
     "source": "nominatim",
-    "query": "Verneşti ( Troita)"
+    "match_score": 75.0
+  },
+  "Verneşti Ginar": {
+    "lat": 45.203842,
+    "lon": 26.7289312,
+    "source": "osm",
+    "match_score": 65.5
+  },
+  "Vilcele": {
+    "lat": 45.0878526,
+    "lon": 26.6356364,
+    "source": "nominatim",
+    "match_score": 75.0
   },
   "Vintileanca": {
     "lat": 44.9815467,
     "lon": 26.5789965,
     "source": "nominatim",
-    "query": "Vintileanca"
+    "match_score": 75.0
   },
   "Viperești": {
     "lat": 45.2276934,
     "lon": 26.4634118,
     "source": "nominatim",
-    "query": "Viperești"
+    "match_score": 75.0
   },
   "Vispesti": {
     "lat": 45.0972831,
     "lon": 26.5202356,
     "source": "nominatim",
-    "query": "Vispesti"
+    "match_score": 75.0
   },
-  "Vizireni*": {
-    "lat": 45.0476428,
-    "lon": 27.1960184,
-    "source": "nominatim",
-    "query": "Vizireni*"
+  "Vâlcelele": {
+    "lat": 45.3403116,
+    "lon": 27.3549867,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Văleanca Vilănești": {
     "lat": 45.0920163,
     "lon": 26.5062908,
     "source": "nominatim",
-    "query": "Văleanca Vilănești"
+    "match_score": 75.0
   },
   "Zaharești": {
     "lat": 45.2979357,
     "lon": 26.3758266,
     "source": "nominatim",
-    "query": "Zaharești"
+    "match_score": 75.0
   },
   "Ziduri": {
     "lat": 45.2854193,
     "lon": 27.0773992,
     "source": "nominatim",
-    "query": "Ziduri"
+    "match_score": 75.0
   },
   "Zilişteanca": {
     "lat": 45.2493483,
     "lon": 26.8697025,
     "source": "nominatim",
-    "query": "Zilişteanca"
+    "match_score": 75.0
   },
   "Zoița": {
     "lat": 45.2867506,
     "lon": 27.0229562,
     "source": "nominatim",
-    "query": "Zoița"
+    "match_score": 75.0
   },
   "Zărneşti": {
     "lat": 45.2977942,
     "lon": 26.870929,
     "source": "nominatim",
-    "query": "Zărneşti"
+    "match_score": 75.0
+  },
+  "Zărneşti Slănic": {
+    "lat": 45.2787946,
+    "lon": 26.7533508,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Zărneşti de Slănic": {
+    "lat": 45.2787946,
+    "lon": 26.7533508,
+    "source": "osm",
+    "match_score": 81.8
+  },
+  "Şaranga magazin Paul": {
+    "lat": 45.0962069,
+    "lon": 26.613695,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Şarânga Magazin Zaplaic": {
+    "lat": 45.093861,
+    "lon": 26.6091595,
+    "source": "osm",
+    "match_score": 90.0
+  },
+  "Şarânga Școală": {
+    "lat": 45.0919437,
+    "lon": 26.6122449,
+    "source": "osm",
+    "match_score": 90.0
   },
   "Șuchea": {
     "lat": 45.4106354,
     "lon": 26.5860825,
     "source": "nominatim",
-    "query": "Șuchea"
+    "match_score": 75.0
   },
   "Ghergheasa Cap Traseu": {
     "lat": 45.27241,
     "lon": 27.20654,
     "source": "manual"
-  },
-  "Buzău Intersecţie str.Independenţei": {
-    "lat": 45.13629036495566,
-    "lon": 26.78924361919562,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Buzău Autogara Sud",
-      "Ulmeni Gară"
-    ],
-    "route": "001"
-  },
-  "Popas Merei": {
-    "lat": 45.10096700056985,
-    "lon": 26.695345520819842,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Buzău Intersecţie str.Independenţei",
-      "Ulmeni Gară"
-    ],
-    "route": "002"
   },
   "Breaza 1": {
     "lat": 45.08588887131609,
@@ -1377,16 +1491,6 @@
       "Vispesti"
     ],
     "route": "002"
-  },
-  "Ogrăzi ramificaţie": {
-    "lat": 45.11581412806333,
-    "lon": 26.69247703093821,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Popas Merei",
-      "Merei moară"
-    ],
-    "route": "003"
   },
   "Săhăteni 1": {
     "lat": 45.033971641095064,
@@ -1409,14 +1513,14 @@
     "route": "004"
   },
   "Buzău Intersecţie str. Independenţei": {
-    "lat": 45.14256509770199,
-    "lon": 26.81241650220888,
+    "lat": 45.14330128944462,
+    "lon": 26.82670046072849,
     "source": "osrm_interpolated",
     "anchors": [
-      "Buzău Autogara Sud",
-      "Popas Merei"
+      "Autogara Sud",
+      "Buzău Drăgaică"
     ],
-    "route": "005"
+    "route": "007"
   },
   "Spătaru Școală": {
     "lat": 45.09230556144071,
@@ -1437,6 +1541,36 @@
       "Costeşti Consiliul Local"
     ],
     "route": "007"
+  },
+  "Cremenea": {
+    "lat": 45.02494201281329,
+    "lon": 26.800402806699335,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Gherăseni",
+      "Bălaia"
+    ],
+    "route": "008"
+  },
+  "Sudiți": {
+    "lat": 45.020328533136436,
+    "lon": 26.80982646012791,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Gherăseni",
+      "Bălaia"
+    ],
+    "route": "008"
+  },
+  "Buzău Intersecţie str.Independenţei": {
+    "lat": 45.14330128944462,
+    "lon": 26.82670046072849,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Autogara Sud",
+      "Buzău Drăgaică"
+    ],
+    "route": "010"
   },
   "Movila Banului 1": {
     "lat": 44.989407297942776,
@@ -1469,18 +1603,48 @@
     "route": "011"
   },
   "Amaru": {
-    "lat": 45.25300587566137,
-    "lon": 26.7044857027177,
+    "lat": 44.9303613887032,
+    "lon": 26.593198619469113,
     "source": "osrm_interpolated",
     "anchors": [
       "Câmpeni",
-      "Scorţeanca"
+      "Lacu Sinaia"
     ],
     "route": "011"
   },
+  "Scorţeanca": {
+    "lat": 44.93868296001267,
+    "lon": 26.577243042497063,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Câmpeni",
+      "Lacu Sinaia"
+    ],
+    "route": "011"
+  },
+  "Pitulicea": {
+    "lat": 44.891024743627355,
+    "lon": 26.657951357760485,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Căldăruşanca",
+      "Ileana"
+    ],
+    "route": "012"
+  },
+  "Glodeanu Sărat": {
+    "lat": 44.87368941409332,
+    "lon": 26.6482484243739,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Căldăruşanca",
+      "Ileana"
+    ],
+    "route": "012"
+  },
   "Buzău Cimitirul Evreiesc": {
-    "lat": 45.12836040227064,
-    "lon": 26.7673010222917,
+    "lat": 45.1390866984135,
+    "lon": 26.815436244282914,
     "source": "osrm_interpolated",
     "anchors": [
       "Buzău Intersecţie str.Independenţei",
@@ -1488,109 +1652,89 @@
     ],
     "route": "014"
   },
-  "Buzău Mariage IPIC CF": {
-    "lat": 45.142378596749175,
-    "lon": 26.84514385912905,
+  "Smeeni": {
+    "lat": 44.99683856154287,
+    "lon": 26.857696775667335,
     "source": "osrm_interpolated",
     "anchors": [
-      "Buzău Autogara Sud",
-      "Gălbinaşi"
+      "Maxenu",
+      "Moisica"
     ],
-    "route": "017"
+    "route": "014"
   },
-  "Buzău Metalurgica": {
-    "lat": 45.137335869158356,
-    "lon": 26.852486585298603,
+  "Sălcioara": {
+    "lat": 44.9927015227763,
+    "lon": 26.870221229334504,
     "source": "osrm_interpolated",
     "anchors": [
-      "Buzău Autogara Sud",
-      "Gălbinaşi"
+      "Maxenu",
+      "Moisica"
     ],
-    "route": "017"
+    "route": "014"
+  },
+  "Brădeanu": {
+    "lat": 44.9251947569324,
+    "lon": 26.86245693394678,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Smeeni",
+      "Smărdan"
+    ],
+    "route": "015"
   },
   "Bîlhacu": {
-    "lat": 45.04866454448142,
-    "lon": 27.13421173564297,
+    "lat": 45.13384114081172,
+    "lon": 26.857597672157198,
     "source": "osrm_interpolated",
     "anchors": [
       "Cilibia",
-      "CA Rosetti"
+      "Lunca"
+    ],
+    "route": "017"
+  },
+  "CA Rosetti": {
+    "lat": 45.27863752851449,
+    "lon": 26.629267729872417,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Cilibia",
+      "Lunca"
+    ],
+    "route": "017"
+  },
+  "Vizireni*": {
+    "lat": 45.23976270850775,
+    "lon": 26.712934301641482,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Cilibia",
+      "Lunca"
+    ],
+    "route": "017"
+  },
+  "Bălteni": {
+    "lat": 45.23382959090581,
+    "lon": 26.484746136456092,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Cilibia",
+      "Lunca"
     ],
     "route": "017"
   },
   "Caragele 2 DJ 214 A": {
-    "lat": 45.10880378103891,
-    "lon": 26.89411669996628,
+    "lat": 44.979671122006444,
+    "lon": 27.04508207128558,
     "source": "osrm_interpolated",
     "anchors": [
       "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Luciu Moară": {
-    "lat": 45.14440580990849,
-    "lon": 26.842204793045706,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Luciu Primărie": {
-    "lat": 45.152197325986776,
-    "lon": 26.831974709107072,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Luciu Parc": {
-    "lat": 45.15784580200086,
-    "lon": 26.816981420455384,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Largu 1": {
-    "lat": 45.20009644747659,
-    "lon": 26.771628561856115,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Largu 2": {
-    "lat": 45.209378759072095,
-    "lon": 26.75996749940497,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
-    ],
-    "route": "018"
-  },
-  "Largu 3": {
-    "lat": 45.21820666945834,
-    "lon": 26.751817570539146,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Cilibia gară",
-      "Scărlăteşti"
+      "Luciu Moară"
     ],
     "route": "018"
   },
   "Caragele 1 DJ 203 I": {
-    "lat": 45.09211718829952,
-    "lon": 26.9183846076746,
+    "lat": 44.98156930951882,
+    "lon": 27.035208867094074,
     "source": "osrm_interpolated",
     "anchors": [
       "Pogoanele Electrica",
@@ -1598,173 +1742,83 @@
     ],
     "route": "019"
   },
-  "Boboc 1": {
-    "lat": 45.171166425604326,
-    "lon": 26.800402483312702,
+  "Luncaşi": {
+    "lat": 45.28357375816721,
+    "lon": 26.87752085888951,
     "source": "osrm_interpolated",
     "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Boboc 2": {
-    "lat": 45.175519803954955,
-    "lon": 26.77043575947037,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Boboc 3": {
-    "lat": 45.185854092525,
-    "lon": 26.749430865532723,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Cochirleanca 1": {
-    "lat": 45.28531686004791,
-    "lon": 26.583170178355953,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Cochirleanca 2": {
-    "lat": 45.29214729462845,
-    "lon": 26.551932288469065,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Cochirleanca 3": {
-    "lat": 45.328095577476375,
-    "lon": 26.512536233566966,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Boboc Gară",
-      "Roşioru 1"
-    ],
-    "route": "021"
-  },
-  "Sudiţi Aliceni": {
-    "lat": 45.080219916643145,
-    "lon": 26.937358328884905,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Zilişteanca",
-      "Luncaşi"
+      "Sudiţi Aliceni",
+      "Fundeni"
     ],
     "route": "024"
   },
-  "Fundeni Poliție": {
-    "lat": 45.29579494611975,
-    "lon": 26.879858789420023,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Fundeni",
-      "Pruneni"
-    ],
-    "route": "025"
-  },
   "Fudeni sere": {
-    "lat": 45.30459780472127,
-    "lon": 26.87934992748763,
+    "lat": 45.30142618266594,
+    "lon": 26.879948109818258,
     "source": "osrm_interpolated",
     "anchors": [
-      "Fundeni",
-      "Pruneni"
-    ],
-    "route": "025"
-  },
-  "Vadu Soreşti 1": {
-    "lat": 45.31473535495165,
-    "lon": 26.876304778327825,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Fundeni",
-      "Pruneni"
-    ],
-    "route": "025"
-  },
-  "Vadu Soreşti 2": {
-    "lat": 45.32088613946412,
-    "lon": 26.867753394461495,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Fundeni",
-      "Pruneni"
+      "Fundeni Poliție",
+      "Vadu Soreşti 1"
     ],
     "route": "025"
   },
   "Lunca Petrişorului": {
-    "lat": 45.2781604798485,
-    "lon": 26.900966572141446,
+    "lat": 45.32449101596093,
+    "lon": 26.88697926685598,
     "source": "osrm_interpolated",
     "anchors": [
       "Vadu Soreşti 1",
-      "Motohani"
-    ],
-    "route": "026"
-  },
-  "Petrişoru Școală": {
-    "lat": 45.25281229722117,
-    "lon": 26.88380256747091,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Vadu Soreşti 1",
-      "Motohani"
+      "Petrişoru Școală"
     ],
     "route": "026"
   },
   "Petrişoru Mustăţari": {
-    "lat": 45.231671135857916,
-    "lon": 26.86955780407547,
+    "lat": 45.33722320756454,
+    "lon": 26.89361114577307,
     "source": "osrm_interpolated",
     "anchors": [
-      "Vadu Soreşti 1",
-      "Motohani"
+      "Petrişoru Școală",
+      "Racoviţeni Poliție"
     ],
     "route": "026"
   },
   "Racoviţeni Moară": {
-    "lat": 45.21053551270419,
-    "lon": 26.855301810266614,
+    "lat": 45.345500643500486,
+    "lon": 26.89413839633161,
     "source": "osrm_interpolated",
     "anchors": [
-      "Vadu Soreşti 1",
-      "Motohani"
-    ],
-    "route": "026"
-  },
-  "Racoviţeni Poliție": {
-    "lat": 45.18880680606553,
-    "lon": 26.837101843085225,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Vadu Soreşti 1",
-      "Motohani"
+      "Petrişoru Școală",
+      "Racoviţeni Poliție"
     ],
     "route": "026"
   },
   "Racoviţeni Botești": {
-    "lat": 45.163008712272834,
-    "lon": 26.816466603781922,
+    "lat": 45.36258717416202,
+    "lon": 26.892839810256675,
     "source": "osrm_interpolated",
     "anchors": [
-      "Vadu Soreşti 1",
-      "Motohani"
+      "Racoviţeni Poliție",
+      "Murgești 1"
+    ],
+    "route": "026"
+  },
+  "Motohani": {
+    "lat": 45.36868902139503,
+    "lon": 26.89018914487537,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Racoviţeni Poliție",
+      "Murgești 1"
+    ],
+    "route": "026"
+  },
+  "Fântânele": {
+    "lat": 45.42201342343219,
+    "lon": 26.849170515818383,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Batogu",
+      "Mărgăriteşti"
     ],
     "route": "026"
   },
@@ -1778,42 +1832,32 @@
     ],
     "route": "027"
   },
-  "Căpăţîneşti": {
-    "lat": 45.181459197867156,
-    "lon": 26.807081109688465,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Mărăcineni",
-      "Măteşti"
-    ],
-    "route": "027"
-  },
   "Potocenii de Jos": {
-    "lat": 45.18943624430676,
-    "lon": 26.79277088370748,
+    "lat": 45.194655408555164,
+    "lon": 26.77955298952828,
     "source": "osrm_interpolated",
     "anchors": [
-      "Mărăcineni",
+      "Căpăţîneşti",
       "Măteşti"
     ],
     "route": "027"
   },
   "Potocenii de Sus": {
-    "lat": 45.19863854186742,
-    "lon": 26.772813836660767,
+    "lat": 45.203017186923184,
+    "lon": 26.767915778877136,
     "source": "osrm_interpolated",
     "anchors": [
-      "Mărăcineni",
+      "Căpăţîneşti",
       "Măteşti"
     ],
     "route": "027"
   },
   "Măteşti pod": {
-    "lat": 45.207111297352036,
-    "lon": 26.762893662672056,
+    "lat": 45.20887157053639,
+    "lon": 26.760635897942937,
     "source": "osrm_interpolated",
     "anchors": [
-      "Mărăcineni",
+      "Căpăţîneşti",
       "Măteşti"
     ],
     "route": "027"
@@ -1979,8 +2023,8 @@
     "route": "033"
   },
   "Pleşcoi 1": {
-    "lat": 45.27849247319323,
-    "lon": 26.901191336698904,
+    "lat": 45.27080227015543,
+    "lon": 26.719678755356483,
     "source": "osrm_interpolated",
     "anchors": [
       "Valea Nucului 2",
@@ -1989,8 +2033,8 @@
     "route": "038"
   },
   "Pleşcoi 2": {
-    "lat": 45.191403568902444,
-    "lon": 26.78777545750961,
+    "lat": 45.2795593850942,
+    "lon": 26.71136728003065,
     "source": "osrm_interpolated",
     "anchors": [
       "Valea Nucului 2",
@@ -2098,23 +2142,23 @@
     ],
     "route": "042"
   },
-  "Cîndeşti farmacie": {
-    "lat": 45.2487034686196,
-    "lon": 26.706280221873314,
+  "Cîndeşti (Biserică)": {
+    "lat": 45.175175875747364,
+    "lon": 26.824553689305798,
     "source": "osrm_interpolated",
     "anchors": [
-      "Cîndeşti (Biserică)",
-      "Sătuc"
+      "Verneşti ( Troita)",
+      "Cîndeşti şcoală"
     ],
     "route": "042"
   },
-  "Cîndeşti şcoală": {
-    "lat": 45.2548070279494,
-    "lon": 26.703732335674175,
+  "Cîndeşti farmacie": {
+    "lat": 45.18118115480061,
+    "lon": 26.808537038227158,
     "source": "osrm_interpolated",
     "anchors": [
-      "Cîndeşti (Biserică)",
-      "Sătuc"
+      "Verneşti ( Troita)",
+      "Cîndeşti şcoală"
     ],
     "route": "042"
   },
@@ -2168,6 +2212,36 @@
     ],
     "route": "042"
   },
+  "Bozioru 2": {
+    "lat": 45.38669017979869,
+    "lon": 26.497256127194316,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Bozioru 1",
+      "Lacu"
+    ],
+    "route": "043"
+  },
+  "Valea Fântânii": {
+    "lat": 45.39966973801373,
+    "lon": 26.512013428141493,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Bozioru 1",
+      "Lacu"
+    ],
+    "route": "043"
+  },
+  "Brăeşti": {
+    "lat": 45.43258375679619,
+    "lon": 26.506513470565483,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Valea Fântânii",
+      "Goidești"
+    ],
+    "route": "044"
+  },
   "Măgura 2": {
     "lat": 45.28001310970881,
     "lon": 26.5838610241837,
@@ -2208,22 +2282,52 @@
     ],
     "route": "045"
   },
-  "Chirlești 1": {
-    "lat": 45.370036165450756,
-    "lon": 26.326394594647013,
+  "Pătârlagele centru": {
+    "lat": 45.31502065225483,
+    "lon": 26.361301895574385,
     "source": "osrm_interpolated",
     "anchors": [
-      "Valea Lupului",
+      "Lunca",
+      "Păltineni"
+    ],
+    "route": "045"
+  },
+  "Pătârlagele Autogara": {
+    "lat": 45.32371881319771,
+    "lon": 26.357591700846225,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Lunca",
+      "Păltineni"
+    ],
+    "route": "045"
+  },
+  "Valea Lupului": {
+    "lat": 45.3512912319059,
+    "lon": 26.34327454611734,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Lunca",
+      "Păltineni"
+    ],
+    "route": "045"
+  },
+  "Chirlești 1": {
+    "lat": 45.370411710826026,
+    "lon": 26.325341041621098,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Lunca",
       "Păltineni"
     ],
     "route": "045"
   },
   "Chirlești 2": {
-    "lat": 45.3831095022681,
-    "lon": 26.32315352520787,
+    "lat": 45.383509448465155,
+    "lon": 26.32321546716191,
     "source": "osrm_interpolated",
     "anchors": [
-      "Valea Lupului",
+      "Lunca",
       "Păltineni"
     ],
     "route": "045"
@@ -2309,22 +2413,32 @@
     "route": "046"
   },
   "Roscoi": {
-    "lat": 45.26816940447855,
-    "lon": 26.353658636042162,
+    "lat": 45.469277534838064,
+    "lon": 26.411020717129638,
     "source": "osrm_interpolated",
     "anchors": [
       "Furtuneşti",
-      "Tainița"
+      "Gura Teghii"
     ],
     "route": "046"
   },
   "Podul Bălan": {
-    "lat": 45.26488584244123,
-    "lon": 26.5369790716843,
+    "lat": 45.47233002633945,
+    "lon": 26.417530066935637,
     "source": "osrm_interpolated",
     "anchors": [
       "Furtuneşti",
-      "Tainița"
+      "Gura Teghii"
+    ],
+    "route": "046"
+  },
+  "Tainița": {
+    "lat": 45.475930777901425,
+    "lon": 26.418334751427114,
+    "source": "osrm_interpolated",
+    "anchors": [
+      "Furtuneşti",
+      "Gura Teghii"
     ],
     "route": "046"
   },
@@ -2449,8 +2563,8 @@
     "route": "047"
   },
   "Pănătău ramificaţie": {
-    "lat": 45.326858358117526,
-    "lon": 26.369913415795796,
+    "lat": 45.32689185737043,
+    "lon": 26.36988982782056,
     "source": "osrm_interpolated",
     "anchors": [
       "Pătârlagele Autogara",
@@ -2518,144 +2632,74 @@
     ],
     "route": "060"
   },
-  "Topliceni 1 Primărie": {
-    "lat": 45.477161782132875,
-    "lon": 26.69980870017986,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
-    ],
-    "route": "062"
-  },
   "Topliceni 2": {
-    "lat": 45.472396655722285,
-    "lon": 26.721829081643904,
+    "lat": 45.39527024681325,
+    "lon": 27.016195084461614,
     "source": "osrm_interpolated",
     "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
+      "Topliceni 1 Primărie",
+      "Răduceşti 1"
     ],
     "route": "062"
   },
   "Topliceni 3": {
-    "lat": 45.46233817153798,
-    "lon": 26.74432487484804,
+    "lat": 45.405263443903735,
+    "lon": 27.01103885543442,
     "source": "osrm_interpolated",
     "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
+      "Topliceni 1 Primărie",
+      "Răduceşti 1"
     ],
     "route": "062"
   },
-  "Răduceşti 1": {
-    "lat": 45.485715855698054,
-    "lon": 26.785443460342876,
+  "Deduleşti": {
+    "lat": 45.470658124663686,
+    "lon": 26.96063970132659,
     "source": "osrm_interpolated",
     "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
-    ],
-    "route": "062"
-  },
-  "Răducesti 2": {
-    "lat": 45.494720037025886,
-    "lon": 26.7973703839522,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
-    ],
-    "route": "062"
-  },
-  "Răduceşti 3": {
-    "lat": 45.501071883075305,
-    "lon": 26.80877680512551,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
-    ],
-    "route": "062"
-  },
-  "Băbeni 1": {
-    "lat": 45.49661050876917,
-    "lon": 26.832149497809247,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
-    ],
-    "route": "062"
-  },
-  "Băbeni 2": {
-    "lat": 45.50700255761966,
-    "lon": 26.87490039404914,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Poşta Școală",
-      "Deduleşti"
+      "Băbeni 2",
+      "Buda 1"
     ],
     "route": "062"
   },
   "Roiu": {
-    "lat": 45.47581930681334,
-    "lon": 26.942841942857722,
+    "lat": 45.477023381439196,
+    "lon": 26.93645236941443,
     "source": "osrm_interpolated",
     "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
+      "Băbeni 2",
+      "Buda 1"
     ],
     "route": "062"
   },
   "Pietroiu": {
-    "lat": 45.48185161478549,
-    "lon": 26.924650567594572,
+    "lat": 45.48363646467398,
+    "lon": 26.919999981987285,
     "source": "osrm_interpolated",
     "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
+      "Băbeni 2",
+      "Buda 1"
     ],
     "route": "062"
   },
-  "Buda 1": {
-    "lat": 45.493924868872575,
-    "lon": 26.904375143659582,
+  "Popas Merei": {
+    "lat": 45.10553300569074,
+    "lon": 26.70725146413558,
     "source": "osrm_interpolated",
     "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
+      "Buzău Intersecţie str.Independenţei",
+      "Ulmeni Gară"
     ],
-    "route": "062"
+    "route": "002"
   },
-  "Buda 2": {
-    "lat": 45.49965796414828,
-    "lon": 26.904791528010037,
+  "Ogrăzi ramificaţie": {
+    "lat": 45.11549599124314,
+    "lon": 26.692644862716474,
     "source": "osrm_interpolated",
     "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
+      "Popas Merei",
+      "Merei moară"
     ],
-    "route": "062"
-  },
-  "Al. Odobescu 1": {
-    "lat": 45.51332161239949,
-    "lon": 26.91665787158913,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
-    ],
-    "route": "062"
-  },
-  "Al. Odobescu 2": {
-    "lat": 45.51703026854177,
-    "lon": 26.92593173465082,
-    "source": "osrm_interpolated",
-    "anchors": [
-      "Deduleşti",
-      "Mucești Dănulești"
-    ],
-    "route": "062"
+    "route": "003"
   }
 }

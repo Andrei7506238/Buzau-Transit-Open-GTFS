@@ -1,7 +1,17 @@
 {
   "Ghergheasa Cap Traseu": {
-    "lat": 45.27241, 
+    "lat": 45.27241,
     "lon": 27.20654,
+    "source": "manual"
+  },
+  "Lunca": {
+    "lat": 45.29646,
+    "lon": 26.35772,
+    "source": "manual"
+  },
+  "Poşta Școală": {
+    "lat": 45.382799,
+    "lon": 27.028239,
     "source": "manual"
   }
 }

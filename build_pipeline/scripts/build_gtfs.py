@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 PARSED = ROOT / "parsed"
 STATION_FINDER = ROOT / "station_finder"
 GTFS_OUT = ROOT / "build_pipeline" / "output" / "gtfs"
+BANNED_ROUTES_PATH = ROOT / "banned_routes.json"
 
 AGENCY_ID = "BUZAU"
 AGENCY_NAME = "Consiliul Județean Buzău - Transport județean"
@@ -198,6 +199,16 @@ def main() -> None:
     prog    = json.loads((PARSED / "program_transport.json").read_text(encoding="utf-8"))
     geocoded = json.loads((STATION_FINDER / "stops_geocoded.json").read_text(encoding="utf-8"))
     cmap    = json.loads((STATION_FINDER / "canonical_map.json").read_text(encoding="utf-8"))
+
+    # Load and apply route ban-list
+    banned: set[str] = set()
+    if BANNED_ROUTES_PATH.exists():
+        ban_data = json.loads(BANNED_ROUTES_PATH.read_text(encoding="utf-8"))
+        banned = {str(r) for r in ban_data.get("banned", [])}
+    if banned:
+        lista = [r for r in lista if str(r["route_number"]) not in banned]
+        prog  = [p for p in prog  if str(p["route_number"]) not in banned]
+        print(f"  Banned routes excluded: {sorted(banned)}")
 
     # Index program_transport by route_number
     prog_by_route: dict[str, dict] = {p["route_number"]: p for p in prog}

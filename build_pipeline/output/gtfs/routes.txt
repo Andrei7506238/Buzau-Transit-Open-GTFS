@@ -15,7 +15,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 014,BUZAU,014,Buzău Autogara Sud - Brăgăreasa,3
 015,BUZAU,015,Buzău Autogara Sud - Arcanu,3
 016,BUZAU,016,Buzău Autogara Sud - Padina,3
-017,BUZAU,017,Buzău Autogara Sud - Lunca,3
 018,BUZAU,018,Buzău Autogara Sud - Ruşeţu,3
 019,BUZAU,019,Buzău Autogara Sud - Ruşeţu,3
 021,BUZAU,021,Autogara XXL - Buzău,3

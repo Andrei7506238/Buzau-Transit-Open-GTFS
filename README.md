@@ -1,17 +1,14 @@
 # Buzau-Transit-Open-GTFS
 
-## **EN** - Converts Buzău County (Romania) intercity bus timetables into a
-[GTFS](https://gtfs.org/) feed.  
+## **EN** - Converts Buzău County (Romania) intercity bus timetables into a [GTFS](https://gtfs.org/) feed.  
 All data is stored directly in this repository and is based on the official
 [Consiliul Județean Buzău](https://www.cjbuzau.ro) PDF schedules. The information is curated and then processed by an automated pipeline.
 This pipeline extracts routes and schedules, geocodes every bus stop using a
-five-phase process (Transbus GTFS → OpenStreetMap → Nominatim → OSRM interpolation → outlier repair), and finally generates a fully compliant, validator-passing GTFS package.
+four-phase process (combined-source scoring → manual overrides → OSRM interpolation → outlier repair), and finally generates a fully compliant, validator-passing GTFS package.
 
-## **RO** - Transformă orarele de transport județean din Buzău într-un format
-[GTFS](https://gtfs.org/) standardizat.  
+## **RO** - Transformă orarele de transport județean din Buzău într-un format [GTFS](https://gtfs.org/) standardizat.  
 Datele utilizate sunt stocate exclusiv în acest repository și se bazează pe orarele în format PDF publicate de [Consiliul Județean Buzău](https://www.cjbuzau.ro).
-Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în cinci etape (Transbus GTFS → OpenStreetMap → Nominatim →
-interpolare OSRM → reparare outlieri) și generează un pachet GTFS complet, validat fără erori.
+Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în patru etape (scorare surse combinate → coordonate manuale → interpolare OSRM → reparare outlieri) și generează un pachet GTFS complet, validat fără erori.
 
 ---
 
@@ -77,7 +74,7 @@ transbus_stations/            # Buzău city bus GTFS stops (source: mdb-2106)
   transbus_stops.txt          # GTFS stops.txt - used in Phase 0 geocoding
 
 station_finder/               # Station geocoding
-  geocode_stations.py         # 4-phase geocoder → stops_geocoded.json
+  geocode_stations.py         # geocoder: combined scoring → manual → OSRM → repair → stops_geocoded.json
   build_station_set.py        # Deduplicates names → stations.json + canonical_map.json
   nominatim/
     geocode_nominatim.py      # Standalone script - queries Nominatim, builds cache
@@ -92,6 +89,8 @@ overpass/
   export.geojson              # OSM bus stop nodes (Overpass export)
   request.txt                 # The Overpass QL query used to generate export.geojson
 
+banned_routes.json            # Route numbers to exclude from GTFS (add + note reason)
+
 build_pipeline/output/gtfs/   # Generated GTFS feed
   agency.txt, stops.txt, routes.txt, trips.txt,
   stop_times.txt, calendar.txt, feed_info.txt
@@ -101,17 +100,14 @@ build_pipeline/output/gtfs/   # Generated GTFS feed
 
 ## Geocoding pipeline
 
-The geocoder resolves canonical stop names to coordinates in priority order across six phases.
-Each phase only fills in stops not yet matched by an earlier phase.
+The geocoder resolves canonical stop names to coordinates in four phases.
 
 | Phase | Source | Notes |
 |---|---|---|
-| **0 - Transbus GTFS** | `transbus_stations/transbus_stops.txt` | City-bus stops with surveyed GPS coordinates; threshold 90 (token sort ratio) |
-| **1 - OSM** | `overpass/export.geojson` | Named bus-stop nodes from OpenStreetMap; threshold 72 |
-| **2 - Nominatim cache** | `station_finder/nominatim_cache.json` | Pre-computed results - refresh with `nominatim/geocode_nominatim.py` |
-| **2b - Manual** | `station_finder/manual_coords.json` | Always applied last (overrides any earlier phase) |
-| **3 - OSRM interpolation** | router.project-osrm.org | Places remaining stops along road geometry between anchors (2 passes) |
-| **4 - Outlier repair** | Route context | **Interior stops**: detour excess > 15 km relative to in-route neighbors → replaced with OSRM-interpolated position. **Terminal stops**: haversine / timetable-km ratio > 1.5 (physically impossible) → removed; dependent OSRM-interpolated stops cascade-evicted; extra Phase 3 pass re-fills the gap. |
+| **0/1/2 - Combined scoring** | `transbus_stops.txt` · `export.geojson` · `nominatim_cache.json` | All three sources run for every stop. Final score = `source_weight × fuzzy_score (0–100)`. Weights: Transbus 1.00, OSM 0.90, Nominatim 0.75. Min fuzzy scores: Transbus 90, OSM 72; Nominatim cache hits score 100. Best candidate across all sources wins. For OSM, `name`, `alt_name`, and `name:ro` tags are all indexed. Refresh Nominatim cache: `python station_finder/nominatim/geocode_nominatim.py` |
+| **2b - Manual** | `station_finder/manual_coords.json` | Applied after combined scoring; always overrides earlier results. |
+| **3 - OSRM interpolation** | router.project-osrm.org | Places remaining stops along road geometry between anchors (2 passes). Runs **after** Phase 4, so every anchor is a validated real position. |
+| **4 - Outlier eviction** | Route context | Runs **before** Phase 3 (pre-interpolation). At this point `geocoded` contains only directly-geocoded stops (Transbus / OSM / Nominatim / manual) — no interpolated stop can poison an anchor. Both checks use the invariant that haversine ≤ road distance, so haversine / timetable‑km > 1.0 is physically impossible. **Interior stops** (real anchor on both sides): flagged when `haversine(P,X) / timetable_km(P→X)` or `haversine(X,N) / timetable_km(X→N)` exceeds 5.0 on a leg ≥ 1 km → evicted; manual and Transbus-sourced coordinates are never evicted; Phase 3 fills the gap from clean anchors. **Terminal stops**: flagged when ratio > 1.5 and haversine > 5 km → permanently removed; a blacklist prevents Phase 3 from re-adding them. Each pass evicts the **single worst outlier per route**; correctly-placed stops that only look bad because a neighbour is wrong (shadow outliers) have a lower ratio and are deferred until the bad neighbour is removed. |
 
 ---
 
