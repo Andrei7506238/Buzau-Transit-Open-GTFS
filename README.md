@@ -4,11 +4,11 @@
 All data is stored directly in this repository and is based on the official
 [Consiliul Județean Buzău](https://www.cjbuzau.ro) PDF schedules. The information is curated and then processed by an automated pipeline.
 This pipeline extracts routes and schedules, geocodes every bus stop using a
-four-phase process (combined-source scoring → manual overrides → OSRM interpolation → outlier repair), and finally generates a fully compliant, validator-passing GTFS package.
+four-phase process (combined-source scoring → manual overrides → outlier repair → OSRM interpolation), and finally generates a fully compliant, validator-passing GTFS package.
 
 ## **RO** - Transformă orarele de transport județean din Buzău într-un format [GTFS](https://gtfs.org/) standardizat.  
 Datele utilizate sunt stocate exclusiv în acest repository și se bazează pe orarele în format PDF publicate de [Consiliul Județean Buzău](https://www.cjbuzau.ro).
-Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în patru etape (scorare surse combinate → coordonate manuale → interpolare OSRM → reparare outlieri) și generează un pachet GTFS complet, validat fără erori.
+Informațiile sunt centralizate și verificate, după care un pipeline automat extrage rutele și orarele, obține coordonatele fiecărei stații printr-un proces în patru etape (scorare surse combinate → coordonate manuale → reparare outlieri → interpolare OSRM) și generează un pachet GTFS complet, validat fără erori.
 
 ---
 
@@ -104,10 +104,10 @@ The geocoder resolves canonical stop names to coordinates in four phases.
 
 | Phase | Source | Notes |
 |---|---|---|
-| **0/1/2 - Combined scoring** | `transbus_stops.txt` · `export.geojson` · `nominatim_cache.json` | All three sources run for every stop. Final score = `source_weight × fuzzy_score (0–100)`. Weights: Transbus 1.00, OSM 0.90, Nominatim 0.75. Min fuzzy scores: Transbus 90, OSM 72; Nominatim cache hits score 100. Best candidate across all sources wins. For OSM, `name`, `alt_name`, and `name:ro` tags are all indexed. Refresh Nominatim cache: `python station_finder/nominatim/geocode_nominatim.py` |
-| **2b - Manual** | `station_finder/manual_coords.json` | Applied after combined scoring; always overrides earlier results. |
-| **3 - OSRM interpolation** | router.project-osrm.org | Places remaining stops along road geometry between anchors (2 passes). Runs **after** Phase 4, so every anchor is a validated real position. |
-| **4 - Outlier eviction** | Route context | Runs **before** Phase 3 (pre-interpolation). At this point `geocoded` contains only directly-geocoded stops (Transbus / OSM / Nominatim / manual) — no interpolated stop can poison an anchor. Both checks use the invariant that haversine ≤ road distance, so haversine / timetable‑km > 1.0 is physically impossible. **Interior stops** (real anchor on both sides): flagged when `haversine(P,X) / timetable_km(P→X)` or `haversine(X,N) / timetable_km(X→N)` exceeds 5.0 on a leg ≥ 1 km → evicted; manual and Transbus-sourced coordinates are never evicted; Phase 3 fills the gap from clean anchors. **Terminal stops**: flagged when ratio > 1.5 and haversine > 5 km → permanently removed; a blacklist prevents Phase 3 from re-adding them. Each pass evicts the **single worst outlier per route**; correctly-placed stops that only look bad because a neighbour is wrong (shadow outliers) have a lower ratio and are deferred until the bad neighbour is removed. |
+| **1 - Combined scoring** | `transbus_stops.txt` · `export.geojson` · `nominatim_cache.json` | All three sources run for every stop. Final score = `source_weight × fuzzy_score (0–100)`. Weights: Transbus 1.00, OSM 0.90, Nominatim 0.75. Min fuzzy scores: Transbus 90, OSM 72; Nominatim cache hits score 100. Best candidate across all sources wins. For OSM, `name`, `alt_name`, and `name:ro` tags are all indexed. Refresh Nominatim cache: `python station_finder/nominatim/geocode_nominatim.py` |
+| **2 - Manual** | `station_finder/manual_coords.json` | Applied after combined scoring; always overrides earlier results. |
+| **3 - Outlier eviction** | Route context | At this point `geocoded` contains only directly-geocoded stops (Transbus / OSM / Nominatim / manual)  -  no interpolated stop can poison an anchor. Both checks use the invariant that haversine ≤ road distance, so haversine / timetable‑km > 1.0 is physically impossible. **Interior stops** (real anchor on both sides): flagged when `haversine(P,X) / timetable_km(P→X)` or `haversine(X,N) / timetable_km(X→N)` exceeds 5.0 on a leg ≥ 1 km → evicted; manual and Transbus-sourced coordinates are never evicted; Phase 4 fills the gap from clean anchors. **Terminal stops**: flagged when ratio > 1.5 and haversine > 5 km → permanently removed; a blacklist prevents Phase 4 from re-adding them. Each pass evicts the **single worst outlier per route**; correctly-placed stops that only look bad because a neighbour is wrong (shadow outliers) have a lower ratio and are deferred until the bad neighbour is removed. |
+| **4 - OSRM interpolation** | router.project-osrm.org | Places remaining stops along road geometry between anchors (2 passes). Runs after Phase 3, so every anchor is a validated real position. |
 
 ---
 

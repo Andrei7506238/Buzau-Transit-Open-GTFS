@@ -170,7 +170,7 @@ def main(force: bool = False) -> None:
 
     print(f"Queries to make    : {len(to_query)}")
     if not to_query:
-        print("Nothing to do — cache is up to date.")
+        print("Nothing to do - cache is up to date.")
         return
 
     hits = 0

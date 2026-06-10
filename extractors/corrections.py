@@ -58,7 +58,7 @@ ROUTE_METADATA_CORRECTIONS: dict[str, dict[str, str]] = {
 # same annotation (case, spacing, missing diacritics, merged words) are listed
 # separately so that no regex magic is needed in the parser.
 NOTE_TEXT_CORRECTIONS: dict[str, str] = {
-	# School-days annotation — many OCR variants of the same phrase.
+	# School-days annotation - many OCR variants of the same phrase.
 	"Circulainperioadacursurilorscolare":                  "circulă în perioada cursurilor școlare",
 	"circula inperioadacursurilor scolare":                "circulă în perioada cursurilor școlare",
 	"circulainperioada cursurilorscolare":                 "circulă în perioada cursurilor școlare",

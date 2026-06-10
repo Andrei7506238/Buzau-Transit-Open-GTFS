@@ -244,7 +244,7 @@ def _split_days_note(text: str) -> tuple[str, str]:
     Dots are substituted for commas in the days part (OCR artifact).
 
     Returns:
-        (days_raw, note_text) — either may be empty string.
+        (days_raw, note_text) - either may be empty string.
     """
     m = re.match(r"^([\d][,.\d]*)(.*)$", text)
     if not m:

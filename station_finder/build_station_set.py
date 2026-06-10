@@ -68,7 +68,7 @@ def build_canonical_map(lista_path: Path) -> dict[str, str]:
 
 
 def load_station_names(lista_path: Path) -> set[str]:
-    """Return raw (non-deduped) station names — kept for backward compatibility."""
+    """Return raw (non-deduped) station names - kept for backward compatibility."""
     data = json.loads(lista_path.read_text(encoding="utf-8"))
     names: set[str] = set()
     for route in data:

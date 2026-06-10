@@ -3,7 +3,7 @@ station_finder/geocode_stations.py
 ===================================
 Four-phase geocoding for Buzău county bus stops.
 
-Phase 0/1/2 - Combined source scoring
+Phase 1 - Combined source scoring
     For every canonical station name, gather candidates from all three
     sources simultaneously:
 
@@ -21,18 +21,11 @@ Phase 0/1/2 - Combined source scoring
     To refresh or extend the Nominatim cache, run:
         python station_finder/nominatim/geocode_nominatim.py
 
-Phase 2b - Manual coordinates (override)
+Phase 2 - Manual coordinates (override)
     Always-applied entries from manual_coords.json supersede all earlier
     phases, allowing precise hand-placed anchors.
 
-Phase 3 - OSRM linear interpolation (two passes)
-    Between every consecutive pair of geocoded "anchor" stops within a
-    route, fetch the road geometry via the OSRM Route API and place each
-    intermediate stop proportionally along that path using the cumulative
-    km_from_previous_station values.  Two passes let stops geocoded in the
-    first pass act as anchors in the second.
-
-Phase 4 - Route-context outlier repair
+Phase 3 - Route-context outlier repair
     For every route, inspect each geocoded stop against its nearest
     geocoded neighbors using timetable km as ground truth.  Two sub-checks:
 
@@ -40,7 +33,7 @@ Phase 4 - Route-context outlier repair
       Since haversine ≤ road distance always, haversine(P,X)/timetable_km(P→X)
       or haversine(X,N)/timetable_km(X→N) exceeding 1.0 is physically
       impossible.  Flagged when either ratio > REPAIR_INTERIOR_RATIO on a
-      leg ≥ REPAIR_INTERIOR_MIN_KM.  Evicted so Phase 3 re-interpolates
+      leg ≥ REPAIR_INTERIOR_MIN_KM.  Evicted so Phase 4 re-interpolates
       from clean anchors.
 
     Terminal stops (geocoded anchor on ONE side only):
@@ -51,6 +44,13 @@ Phase 4 - Route-context outlier repair
     Each pass evicts the single worst outlier per route.  Correctly-placed
     stops that only appear bad due to a wrong neighbour (shadow outliers)
     have lower ratios, so the wrong neighbour is removed first.
+
+Phase 4 - OSRM linear interpolation (two passes)
+    Between every consecutive pair of geocoded "anchor" stops within a
+    route, fetch the road geometry via the OSRM Route API and place each
+    intermediate stop proportionally along that path using the cumulative
+    km_from_previous_station values.  Two passes let stops geocoded in the
+    first pass act as anchors in the second.
 
 Output:
     station_finder/stops_geocoded.json
@@ -94,7 +94,7 @@ OUT_PATH = PROJECT_ROOT / "station_finder" / "stops_geocoded.json"
 # Bounding box for Buzău county (lon_min, lat_min, lon_max, lat_max)
 BUZAU_BBOX = (26.30, 44.95, 27.30, 45.70)
 
-# Phase 4 thresholds
+# Phase 3 thresholds
 REPAIR_INTERIOR_RATIO   = 5.0   # flag interior stop when haversine / timetable_km > this on either leg
 REPAIR_INTERIOR_MIN_KM  = 1.0   # skip ratio check on legs shorter than this (avoids timetable-rounding noise)
 REPAIR_TERMINAL_RATIO   = 1.5   # flag terminal stop when haversine / timetable_km > this
@@ -126,7 +126,7 @@ def _normalize(name: str) -> str:
 
 # Words that are pure stop designations (not place names) that can be
 # stripped to get a Nominatim-searchable locality name.
-# NOTE: "autogara/autogară" is intentionally NOT here — it IS a real named
+# NOTE: "autogara/autogară" is intentionally NOT here  - it IS a real named
 # amenity and must eb kept so Nominatim can find it.
 _STRIP_QUALIFIERS = re.compile(
     r"\b(centru|ramificatie|ramificaţie|scoala|şcoala|şcoală|"
@@ -155,7 +155,7 @@ def _nominatim_query(name: str) -> str:
     if _TRAILING_NUMBER.search(name):
         return ""
 
-    # Use the full name as primary query — Nominatim handles extra context.
+    # Use the full name as primary query  - Nominatim handles extra context.
     # But also compute the stripped fallback for the cache key deduplication.
     stripped = _STRIP_QUALIFIERS.sub("", name).strip(" -,")
     stripped = re.sub(r"\s+", " ", stripped).strip()
@@ -169,7 +169,7 @@ def _nominatim_query(name: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Phase 0 - Transbus GTFS matching
+# Phase 1 sources - Transbus GTFS
 # ---------------------------------------------------------------------------
 
 def load_transbus_stops(
@@ -226,7 +226,7 @@ def candidates_transbus(
 
 
 # ---------------------------------------------------------------------------
-# Phase 1 - OSM matching
+# Phase 1 sources - OSM
 # ---------------------------------------------------------------------------
 
 def load_osm_stops(
@@ -292,7 +292,7 @@ def candidates_osm(
 
 
 # ---------------------------------------------------------------------------
-# Phase 2 - Nominatim cache lookup
+# Phase 1 sources - Nominatim cache
 # ---------------------------------------------------------------------------
 
 def candidates_nominatim(
@@ -361,7 +361,7 @@ def point_at_fraction(
 
 
 # ---------------------------------------------------------------------------
-# Phase 3 - OSRM linear interpolation
+# Phase 4 - OSRM interpolation
 # ---------------------------------------------------------------------------
 
 OSRM_BASE = "http://router.project-osrm.org/route/v1/driving"
@@ -497,7 +497,7 @@ def geocode_route_via_osrm(
 
 
 # ---------------------------------------------------------------------------
-# Phase 4 - Route-context outlier repair
+# Phase 3 - Route-context outlier repair
 # ---------------------------------------------------------------------------
 
 def repair_route_outliers(
@@ -516,23 +516,21 @@ def repair_route_outliers(
     Since haversine ≤ road distance always, haversine / timetable_km > 1.0
     is physically impossible.  Both checks exploit this invariant.
 
-    Intended to be called BEFORE Phase 3 interpolation (pre_interp=True,
-    the default for the current pipeline).  At that point geocoded contains
-    only directly-geocoded stops (Transbus / OSM / Nominatim / manual), so
-    every anchor used in the ratio check is a real position — no poisoning
-    from wrong interpolated stops.  Flagged stops are evicted; Phase 3
-    then fills the gaps with correctly-anchored OSRM positions.
+    Runs before Phase 4 interpolation so that every anchor used in the
+    ratio check is a real geocoded position (Transbus / OSM / Nominatim /
+    manual)  - no poisoning from wrong interpolated stops.  Flagged stops
+    are evicted; Phase 4 fills the gaps from the now-clean anchor set.
 
     Interior stops (geocoded anchor on BOTH sides):
       Compute haversine(P,X)/timetable_km(P→X) and haversine(X,N)/timetable_km(X→N).
       Legs shorter than interior_min_km are skipped (avoids noise on tiny segments).
       Flagged when max(ratio_px, ratio_xn) > interior_ratio.
-      → Evicted (pre_interp=True) so Phase 3 re-interpolates from clean anchors.
+      → Evicted so Phase 4 re-interpolates from clean anchors.
 
     Terminal stops (geocoded anchor on ONE side only):
       Same ratio check against the single known anchor.
       Flagged when ratio > terminal_ratio AND haversine > terminal_min_km.
-      → Evicted; caller adds to terminal_blacklist so Phase 3 never re-adds them.
+      → Evicted; caller adds to terminal_blacklist so Phase 4 never re-adds them.
 
     First-route-wins when a stop is flagged by multiple routes.
     Per-route eviction: at the end of each pass the single worst outlier
@@ -541,7 +539,7 @@ def repair_route_outliers(
     until the neighbour is removed.
     Returns (n_interior_evicted, terminal_evicted_set).
     """
-    # (worst_ratio, name, "interior"|"terminal", route_num) — populated during route scan
+    # (worst_ratio, name, "interior"|"terminal", route_num)  - populated during route scan
     detected: list[tuple[float, str, str, str]] = []
     repairs: dict[str, dict] = {}   # interior outliers (for first-route-wins guard)
     removals: dict[str, str] = {}   # terminal outliers (for first-route-wins guard)
@@ -628,7 +626,7 @@ def repair_route_outliers(
                     road_km = anchor_ckm - ckm
                     direction = "leading"
                 else:
-                    continue  # no anchors at all — skip
+                    continue  # no anchors at all  - skip
 
                 if road_km <= 0:
                     continue
@@ -643,7 +641,7 @@ def repair_route_outliers(
                         print(
                             f"  Route {route_num}: '{name}' terminal outlier skipped "
                             f"(haversine={hav_km:.1f} km, timetable={road_km:.1f} km, "
-                            f"ratio={ratio:.2f}, source=manual — authoritative, not removed)"
+                            f"ratio={ratio:.2f}, source=manual  - authoritative, not removed)"
                         )
                     else:
                         removals[name] = route_num
@@ -669,7 +667,7 @@ def repair_route_outliers(
     if skipped:
         print(
             f"  (detected {len(detected)} outliers across {len(best_per_route)} routes; "
-            f"evicting 1 worst per route this pass — {skipped} deferred to next pass)"
+            f"evicting 1 worst per route this pass  - {skipped} deferred to next pass)"
         )
 
     evicted_interior = 0
@@ -718,11 +716,11 @@ def main() -> None:
     geocoded: dict[str, dict] = {}
 
     # -----------------------------------------------------------------------
-    # Phase 0/1/2 - Combined source scoring
+    # Phase 1 - Combined source scoring
     #   For each station: collect candidates from Transbus, OSM, and
     #   Nominatim; score each as  weight × fuzzy_score (0-100); pick best.
     # -----------------------------------------------------------------------
-    print("Phase 0/1/2 - Combined source scoring (Transbus + OSM + Nominatim) …")
+    print("Phase 1 - Combined source scoring (Transbus + OSM + Nominatim) …")
     osm_by_norm, osm_norm_keys = load_osm_stops(GEOJSON_PATH)
     print(f"  {len(osm_norm_keys)} named OSM stops loaded")
 
@@ -732,7 +730,7 @@ def main() -> None:
         tb_by_norm, tb_norm_keys = load_transbus_stops(TRANSBUS_STOPS_PATH)
         print(f"  {len(tb_norm_keys)} Transbus stops loaded")
     else:
-        print(f"  Transbus skipped — {TRANSBUS_STOPS_PATH} not found")
+        print(f"  Transbus skipped  - {TRANSBUS_STOPS_PATH} not found")
 
     for name in all_canonicals:
         all_candidates: list[tuple[float, float, float, str]] = []
@@ -762,7 +760,7 @@ def main() -> None:
     print(f"  (To refresh Nominatim cache: python station_finder/nominatim/geocode_nominatim.py)\n")
 
     # -----------------------------------------------------------------------
-    # Phase 2b - Manual coordinates (override/supplement before OSRM)
+    # Phase 2 - Manual coordinates (override/supplement before outlier check)
     # -----------------------------------------------------------------------
     if MANUAL_COORDS_PATH.exists():
         manual = json.loads(MANUAL_COORDS_PATH.read_text(encoding="utf-8"))
@@ -779,40 +777,40 @@ def main() -> None:
                 else:
                     overridden += 1
                 geocoded[name] = entry
-        print(f"Phase 2b - Manual coords: {added} added, {overridden} overridden\n")
+        print(f"Phase 2 - Manual coords: {added} added, {overridden} overridden\n")
 
     # -----------------------------------------------------------------------
-    # Phase 4 - Outlier eviction (pre-interpolation)
+    # Phase 3 - Outlier eviction (pre-interpolation)
     # -----------------------------------------------------------------------
-    # Runs before Phase 3 so every anchor used in the ratio check is a real
+    # Runs before Phase 4 so every anchor used in the ratio check is a real
     # geocoded position (Transbus / OSM / Nominatim / manual).  No OSRM stops
     # exist yet, so there is no risk of a wrong interpolated point poisoning
-    # the check for its neighbors.  Evicted stops are gaps that Phase 3 fills
+    # the check for its neighbors.  Evicted stops are gaps that Phase 4 fills
     # correctly from the now-clean anchor set.
     # Iterative top-K eviction: each pass removes only the K worst outliers
     # (by haversine/timetable ratio) so that shadow-flagged stops get a clean
     # recheck once their bad neighbour is gone.  No OSRM calls happen here.
     terminal_blacklist: set[str] = set()
-    phase4_pass = 0
+    phase3_pass = 0
     while True:
-        phase4_pass += 1
-        label = "Phase 4" if phase4_pass == 1 else f"Phase 4 (pass {phase4_pass})"
-        print(f"{label} - Pre-interpolation outlier check …")
+        phase3_pass += 1
+        label = "Phase 3" if phase3_pass == 1 else f"Phase 3 (pass {phase3_pass})"
+        print(f"{label} - Outlier eviction …")
         n_interior, removed_names = repair_route_outliers(routes, geocoded, cmap)
         terminal_blacklist.update(removed_names)
         n_terminal = len(removed_names)
         if n_interior or n_terminal:
             print(f"  Evicted {n_interior} interior, {n_terminal} terminal")
         else:
-            print("  Stable — no outliers detected")
+            print("  Stable  - no outliers detected")
         print()
         if not n_interior and not n_terminal:
             break
 
     # -----------------------------------------------------------------------
-    # Phase 3 - OSRM interpolation (using only validated anchors)
+    # Phase 4 - OSRM interpolation (using only validated anchors)
     # -----------------------------------------------------------------------
-    print("Phase 3 - OSRM road interpolation …")
+    print("Phase 4 - OSRM road interpolation …")
     for pass_num in range(1, 3):
         before = len(geocoded)
         print(f"\n  Pass {pass_num}:")
